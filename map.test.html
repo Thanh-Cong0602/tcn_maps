@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>HERE Map Example</title>
+  <script src="https://js.api.here.com/v3/3.1/mapsjs-core.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://js.api.here.com/v3/3.1/mapsjs-service.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://js.api.here.com/v3/3.1/mapsjs-ui.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://js.api.here.com/v3/3.1/mapsjs-mapevents.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://js.api.here.com/v3/3.1/mapsjs-layers.js" type="text/javascript" charset="utf-8"></script>
+  <link rel="stylesheet" type="text/css" href="https://js.api.here.com/v3/3.1/mapsjs-ui.css" />
+  <style>
+    #mapContainer {
+      width: 100%;
+      height: 600px;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="mapContainer"></div>
+  <script>
+    // Khởi tạo bản đồ HERE
+    var platform = new H.service.Platform({
+      'apikey': 'f06PKJOz9lOzRlViSG7SUMNaKcmaN9j_bi08725lwEI' // Thay YOUR_API_KEY bằng API Key của bạn
+    });
+
+    var defaultLayers = platform.createDefaultLayers();
+    var map = new H.Map(
+      document.getElementById('mapContainer'),
+      defaultLayers.vector.normal.map,
+      {
+        zoom: 12,
+        center: { lat: 10.801360, lng: 106.711496 } // Trung tâm bản đồ
+      });
+
+    var mapEvents = new H.mapevents.MapEvents(map);
+    var behavior = new H.mapevents.Behavior(mapEvents);
+    var ui = H.ui.UI.createDefault(map, defaultLayers);
+
+    fetch('./filteredPoints.json')
+      .then(response => response.json())
+      .then(data => {
+        var points = [];
+
+        // Lấy các điểm từ file JSON
+        data.forEach(location => {
+          location.randomPoints.forEach(point => {
+            points.push(point);
+          });
+        });
+
+       points.forEach(function (point) {
+          var icon = new H.map.Icon('./dot.png', { size: { w: 24, h: 36 } }); // Kích thước biểu tượng tùy chỉnh
+          var marker = new H.map.Marker({ lat: point.lat, lng: point.lng }, { icon: icon });
+          map.addObject(marker);
+        });
+      })
+      .catch(err => console.error('Error loading points:', err));
+  </script>
+</body>
+
+</html>

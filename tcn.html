@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>HERE Map Example</title>
+  <script src="https://js.api.here.com/v3/3.1/mapsjs-core.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://js.api.here.com/v3/3.1/mapsjs-service.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://js.api.here.com/v3/3.1/mapsjs-ui.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://js.api.here.com/v3/3.1/mapsjs-mapevents.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://js.api.here.com/v3/3.1/mapsjs-layers.js" type="text/javascript" charset="utf-8"></script>
+  <link rel="stylesheet" type="text/css" href="https://js.api.here.com/v3/3.1/mapsjs-ui.css" />
+  <style>
+    #mapContainer {
+      width: 100%;
+      height: 600px;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="mapContainer"></div>
+  <script>
+    // Khởi tạo bản đồ HERE
+    var platform = new H.service.Platform({
+      'apikey': 'f06PKJOz9lOzRlViSG7SUMNaKcmaN9j_bi08725lwEI' // Thay YOUR_API_KEY bằng API Key của bạn
+    });
+
+    var defaultLayers = platform.createDefaultLayers();
+    var map = new H.Map(
+      document.getElementById('mapContainer'),
+      defaultLayers.vector.normal.map,
+      {
+        zoom: 12,
+        center: { lat: 10.801360, lng: 106.711496 } // Trung tâm bản đồ
+      });
+
+    var mapEvents = new H.mapevents.MapEvents(map);
+    var behavior = new H.mapevents.Behavior(mapEvents);
+    var ui = H.ui.UI.createDefault(map, defaultLayers);
+
+    var points = [
+     {
+        "lat": 10.808799094609116,
+        "lng": 106.64845411487
+      },
+      {
+        "lat": 10.794182375482896,
+        "lng": 106.65463529500697
+      },
+      {
+        "lat": 10.785824541491197,
+        "lng": 106.64904580387768
+      },
+      {
+        "lat": 10.797116381613098,
+        "lng": 106.6443288810389
+      },
+      {
+        "lat": 10.797556587832178,
+        "lng": 106.65246445506651
+      },
+      {
+        "lat": 10.802497463890388,
+        "lng": 106.65622223582687
+      },
+      {
+        "lat": 10.79062142181139,
+        "lng": 106.65075802269327
+      },
+      {
+        "lat": 10.806918313115078,
+        "lng": 106.65091827547447
+      },
+      {
+        "lat": 10.793387634989626,
+        "lng": 106.65118834642777
+      },
+      {
+        "lat": 10.808599813165308,
+        "lng": 106.64618520018398
+      }
+    ];
+
+    // Thêm điểm vào bản đồ
+    points.forEach(function (point) {
+      var marker = new H.map.Marker({ lat: point.lat, lng: point.lng });
+      map.addObject(marker);
+    });
+  </script>
+</body>
+
+</html>

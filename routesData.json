@@ -1,0 +1,523 @@
+[
+  {
+    "routes": [
+      {
+        "id": "32d95fcf-718e-436a-8bc6-59ed3a018225",
+        "sections": [
+          {
+            "id": "e48e5ff4-fe52-4920-85d2-7207fae34d5c",
+            "type": "vehicle",
+            "departure": {
+              "time": "2024-11-05T00:41:20+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.7941583,
+                  "lng": 106.6510142
+                },
+                "originalLocation": {
+                  "lat": 10.7941175,
+                  "lng": 106.6509914
+                }
+              }
+            },
+            "arrival": {
+              "time": "2024-11-05T00:50:17+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.81282,
+                  "lng": 106.66391
+                },
+                "originalLocation": {
+                  "lat": 10.8129049,
+                  "lng": 106.6638385
+                }
+              }
+            },
+            "summary": {
+              "duration": 537,
+              "length": 4153,
+              "baseDuration": 556
+            },
+            "polyline": "BG8q6yUs4utrGPgBnG8LzFgK7BsEzFsJzF0KjNwW3DwHrE4IzFoL7Qge8B4NoBgFwC0FgF4IoVkSgPkNsEgFwCoGkS4S0PoQ4D4DoGgFgK0K0K0KgFsEwMgPsJsJ0P8Q4S0UwCwC4I4I8VwWgU0UoV4XwR0P0F0F8QgU4IsJsJgKsnBkmBgKgKwHkIgF0FwMkNkIkIkNgP8GwHgKgK4N4NkN8QA4DU4DoBkDwCkDwCsEkDgFsE0F8GoGoBoBTsEAsE7BkhBjDkhBToLnBoLAgFToLnBoQA8G8BsETgFT8L_Eg8BvCofvCgevCoa7BkST8L0FoGwCkDoBoBkDoB4DTkIjDwgBj1BwH7L0FvCoazPsTnQoQ3I4X_J0oBnL8nCjSgFnBgKvC0PT03BnB0ZoBwb8BgjBwC8a4DsOU0ewCsToBsJoBoVwCoGUsJUwlBsE0U8B4InB0FUstD4IwCA4I3DsJ3DsYzK0ZrJ0PzFoG3DsE3DkD_EwC3DkDrET7GnB3D7BzFjI3IUjIkDnLA3DoBvMAzFTjD7B7B7BnB7GnB3N7BnkB3DvHA3DoBvC8B7B4DnB8GA8kBA0FkD4D",
+            "transport": {
+              "mode": "car"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "routes": [
+      {
+        "id": "6a47d025-c7b6-43b8-a87d-9f63edf81120",
+        "sections": [
+          {
+            "id": "e1ab1c02-0844-4c52-86a1-f51b66b9bc0f",
+            "type": "vehicle",
+            "departure": {
+              "time": "2024-11-05T00:41:20+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.81282,
+                  "lng": 106.66391
+                },
+                "originalLocation": {
+                  "lat": 10.8129049,
+                  "lng": 106.6638385
+                }
+              }
+            },
+            "arrival": {
+              "time": "2024-11-05T00:58:15+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.8013839,
+                  "lng": 106.7114748
+                },
+                "originalLocation": {
+                  "lat": 10.8014199,
+                  "lng": 106.7114738
+                }
+              }
+            },
+            "summary": {
+              "duration": 1015,
+              "length": 8376,
+              "baseDuration": 1013
+            },
+            "polyline": "BGo5-zUs-nurGjD3DAzFrEAvCwCvCkDvCgFjDoG7BsETsEnB4DvCgKjDkI3DoGrEoGrOoLrdTnQnBrJnB7avC7LnBzUvCrnBjDrJnBnGT7V7B_JTrT7BjcvCrTnBvbjDjmB3D7Q7B7fvCr2BvCzPnBrJnBzKvCvR_E_YjIzU7GvMjDzoBjSvgBzZjN3Njc_dvR3SrJvCvHU3IwC3DssBT0F3D4mBvCoGjD4DTgFT8L_Eg8BvCofvCgevCoa7BkST8LnBsOoBsdzFkIjIoQ3N8avMgU7Qge7agtB3DoG7Q4crT4hBjS0erJgP7LsT7L0Z3DoGrE8GjNoVrOwWjNoV_E4I7BkD7LgUrEkInBwC7BwC7B4DjN0U7G8L3S8frdgyB_OsYjNwWrOgZrO0Z7LsTvHwM3I0PzKsTjDgFjD0FvCoG7G4I_Y8pBrOgZ_OoavHwM_EwHnB4D7L8GrE4DrJgKjI4I_EoGjI4I7GkI3DsE3XoazF0FvCkDvCoGjN0PjIsJnG8G_O0P3D8G_EgFrEgF3IsJ7LwMrJgKzK8L_T8VjXsYvMkN_EgF7GwHjIkInQwRnQwR_EgF3IsJ_nBkrB3IsJzKkNzmC0rC_OgP_EUrsB0yB_sBwvBAoG0UwW0jBwgBsiB4hBokBokBgjBkhBgZsYkS4S4wB0tB8fsdwW8VwHkIoQ8Q4DsEoG8GwgBwgBoagZwb4X4DkDsJoLkS8Q8LoLokBgjB8QoQoG0FwCkDsJoQ7BoGAkIwC8G0FoGoGkD8GT4D7BsE3DsEsEkXwW8B8B8V8V0KoLgFgFoLsJ8B8B8B8BwCwCoBoBwC8B8B8BwC8BwCwCwCwCwCwCkDwC8BwC8B8B8B8BwC8BkDwCwC8BwC8BsE4D4DkDwCwCgFoLgF8G4mB0jBsOoL41Bs2BwqB0oBwvBouBsdwbkSkSgUoVoQ4SgPsTsOgUkS8awRofkNgZ0PgjBoLoa4I4XsE8akDsToGgoBoB8QIiJ",
+            "transport": {
+              "mode": "car"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "routes": [
+      {
+        "id": "a1a54842-f80a-44ad-9a88-97ad660c24e0",
+        "sections": [
+          {
+            "id": "42a21b62-c0b1-4494-aea5-9abc53ff11d3",
+            "type": "vehicle",
+            "departure": {
+              "time": "2024-11-05T00:41:21+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.8013839,
+                  "lng": 106.7114748
+                },
+                "originalLocation": {
+                  "lat": 10.8014199,
+                  "lng": 106.7114738
+                }
+              }
+            },
+            "arrival": {
+              "time": "2024-11-05T00:51:46+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.7811348,
+                  "lng": 106.6885825
+                },
+                "originalLocation": {
+                  "lat": 10.7810721,
+                  "lng": 106.6885223
+                }
+              }
+            },
+            "summary": {
+              "duration": 625,
+              "length": 5485,
+              "baseDuration": 618
+            },
+            "polyline": "BGwuozUm7kxrGMuNT89BToQnB8LvCkNrEoV_J0jBnGoVzK4hBrTgtBvCoGjD4D7BsEjDwHjD4IjDkIjDgKjrBg1CoLTwlB_vCsJrJ4DvHgFrOwC7GwC3IsTjwBoa77C8BvMoB3IoB3IoBvWoBrsBTnzBjD3c3DzZ3IjwBvCzK_EvRvCnLjI_YzF3NvHjSrJjSjSnf7Qna3S3czUjXzU3XzZna3mBvlBnpBrnBjNjNr0C_vCzP_O3mB3hB_E3D3D7BvHvCvCvC3DjDrE3DvC7BvC7BjDvCvC7B7B7B7B7B7BvCjDvCvCvCvCvCvCvCvC7B7B7BvC7BnBnBvCvC7B7B7B7BnLrJ_E_EzKnL7V7V7B7BjXvWrErEwC3D8B3IAzFnBnGvCrEnB7BvCvCrEvC3DTnG8B3N3N_EjD3D3DjSnQvHvHnazZ_E_E3IjI3SvR3N_E4c7f8LjNsErEkD3DoVvWkDjD4DrE4NvRnLnLrJrJnGnGvM7L3NjNnLvMjIjI_JzK3NjNrJrJjDjDrTjSjXvWjSjS_J_J7QzPrTrT7LvM_TrTzZrYjXjX_J_J_J_J3I3IrE_EvHvHrJ3I7a_YvWjX7fjhB_E_E3SvRnLrJ3NzPjI7GjDjD_J_JrdjcrE3DvCvCzFzF_JzK7VzU_Y8anVoV7aofvM4N_E8G9FuG",
+            "transport": {
+              "mode": "car"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "routes": [
+      {
+        "id": "8d7a76bd-c3de-4da6-877c-fa84abb069b8",
+        "sections": [
+          {
+            "id": "babe7f31-cfc0-4df6-9a51-dcc5918f2d0c",
+            "type": "vehicle",
+            "departure": {
+              "time": "2024-11-05T00:41:21+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.7811348,
+                  "lng": 106.6885825
+                },
+                "originalLocation": {
+                  "lat": 10.7810721,
+                  "lng": 106.6885223
+                }
+              }
+            },
+            "arrival": {
+              "time": "2024-11-05T00:52:57+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.82588,
+                  "lng": 106.7150099
+                },
+                "originalLocation": {
+                  "lat": 10.8259124,
+                  "lng": 106.7150201
+                }
+              }
+            },
+            "summary": {
+              "duration": 696,
+              "length": 6256,
+              "baseDuration": 701
+            },
+            "polyline": "BG-8gyUuk4vrG-FtGgmCgmCoB8B4XsYoV8VgKgKsJ0KsEgF0UwW0jBwgBsiB4hBokBokBgjBkhBgZsYkS4S4wB0tB8fsdwW8VwHkIoQ8Q4DsEoG8GwgBwgBoagZwb4X4DkDsJoLkS8Q8LoLokBgjB8QoQoG0FwCkDsJoQ7BoGAkIwC8G0FoGoGkD8GT4D7BsE3DsEsEkXwW8B8B8V8V0KoLgFgFoLsJ8B8B8B8BwCwCoBoBwC8B8B8BwC8BwCwCwCwCwCwCkDwC8BwC8B8B8B8BwC8BkDwCwC8BwC8BsE4D4DkDwCwCgFoLgF8G4mB0jBsOoL41Bs2BwqB0oBwvBouBsdwbkSkSgUoVoQ4SgPsTsOgUkS8awRofkNgZ0PgjBoLoanBoGAsEkDkIAsE7BoGkD8QkD4SwCoQwCkNwCkSoBwM4I8B0FU8LwC0KUoVUgKUsJU8LA0KoBwMAofnBgPAozBwC4hB8BgFAoLU4DUgKAkDAsEAwCA8VUoaoB0KAoGA0oB8BgKoBoLoBoGUoL8BkDUgF8B4IwC4NsEkNgF4SoGsT8G0ewHwWgFwgBsE0ZwC8akD0P8BgKoB4SwCsOwC4IoB4wB0FopBsE0P8BkIoBoLoBkrB0FoQ8B8pB0FkNoB4SwCokBwCsO4DkhBgFgKoBoVwCwb4DgZwCkN8B01CoL0FUkXwCouB0FkXwC8Q8B4cwC4IUwHUwlBgFwRwCoVwCsJ8BwH0FkSgP0FgFoGoGoGwH0K8Q",
+            "transport": {
+              "mode": "car"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "routes": [
+      {
+        "id": "a2525036-f807-49b1-835e-f29a3ef712ec",
+        "sections": [
+          {
+            "id": "0fa27624-e6bb-4a45-9a50-62993ae93f4c",
+            "type": "vehicle",
+            "departure": {
+              "time": "2024-11-05T00:41:21+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.8258888,
+                  "lng": 106.7150305
+                },
+                "originalLocation": {
+                  "lat": 10.8259124,
+                  "lng": 106.7150201
+                }
+              }
+            },
+            "arrival": {
+              "time": "2024-11-05T00:48:51+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.8144,
+                  "lng": 106.67898
+                },
+                "originalLocation": {
+                  "lat": 10.814428,
+                  "lng": 106.679005
+                }
+              }
+            },
+            "summary": {
+              "duration": 450,
+              "length": 6032,
+              "baseDuration": 509
+            },
+            "polyline": "BGiq40Uu5rxrGiF6LsEwMoGkXkIkhBkI0esJgjBwHsEgFkS8GgesEsOwCgK4I8a8LkhBwC8GgFoLsEgK0F8L8GoQsJsTkSwgB0PgZkS0ZoQgUTkDA8BUoBU8B8B8B8BoB8BAkDT8BnB8BvCUjDT7BTvC7BnBjD7BvCA3XzjB3N7VnQ_d3N7azK7VnLzZjIrTnLze_JjhBjDrJvMvvB3I7f7fj2DrEjSnGrY3IvgBvC_J_YvhDrJrnBrE_T_J_sB_J_nBjX34C_TnnCzFnV_EjSrO3wBnQj1B3NztBnB_E7BnG_O36BniCz6HnBjD3D_OnB_EvC3I3DrOzF7VnLzoBvW_0CjSniCrO_2BUvCUjDTvCnBnBnBnBvC3I_JvlBzF7VnBzFvbvmDzFvW7LjmBgFrE8BjDoB_ET3DvC_EvCjDjD7B_EnBTvCjD3I7QnzB_E3NjmBv3CnLnVvHzP7Q3hB7GvMzUjmBnGrJjhB74B_sB7nCjN7VjS7f7VnpBvRzjBjNjc_Y36B_ErJnG7Q4IzF4DvC",
+            "transport": {
+              "mode": "car"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "routes": [
+      {
+        "id": "39395b0b-94b3-4c60-a81f-4ce942a7303d",
+        "sections": [
+          {
+            "id": "7f99e21e-9421-401d-a784-c218ec766c9c",
+            "type": "vehicle",
+            "departure": {
+              "time": "2024-11-05T00:41:21+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.8144311,
+                  "lng": 106.6789998
+                },
+                "originalLocation": {
+                  "lat": 10.814428,
+                  "lng": 106.679005
+                }
+              }
+            },
+            "arrival": {
+              "time": "2024-11-05T00:49:12+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.79916,
+                  "lng": 106.6802799
+                },
+                "originalLocation": {
+                  "lat": 10.7991315,
+                  "lng": 106.6802785
+                }
+              }
+            },
+            "summary": {
+              "duration": 471,
+              "length": 3516,
+              "baseDuration": 456
+            },
+            "polyline": "BG-9h0UwtlvrG-EkDkNkIoV8Q0U0P8LsJ8L4D0U8QsdoVnf4I3IoB3DUjDA_EnBnGnB3IoBrEUvHrOnBvC7BnB_EUvHwCnGwC7G7QjX31B7GzK7B_J4DvCwCjDoB3DUvCUvCU_EA_ET7GnG3I7BjDzF3D7GvCvHTrEA7BArJrJvRzP_2B_xB3N7L7GnB3N_E3NzKzoBjhBvvBrsB_J_J_ErE3SvR3NrJvlB3hBnarO_OnLrEjDnV4cnG4I3D8G_T8f7G0K3NoVnV0e3N8V7LwRzF4I_O4XzUofjDgFvH8LvMoV3XjNvWvM3I_E3NvH_EjD3SzKzFjDjXjNvHrE3S_JnfvRnVnL_sBzZ7G3DnQrJ7GrEvb7Q_EvCvMvH3hBjS7LTnBsTT0FT0KnBsOnBkST4DA4DjD0jBTkIAwCTgKvCofrE4wBnBoLvC0Z3DgoBTgPT0KT4NU0F",
+            "transport": {
+              "mode": "car"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "error": "Không thể lấy thông tin chỉ đường từ 10.799131483020561,106.68027855728978 đến 10.80254250891898,106.6986732348961"
+  },
+  {
+    "routes": [
+      {
+        "id": "7eb2e3f7-0b57-4f51-a80a-38e43e57c7b7",
+        "sections": [
+          {
+            "id": "9c1ad313-7ced-4184-b40a-ec8c3bc13331",
+            "type": "vehicle",
+            "departure": {
+              "time": "2024-11-05T00:41:21+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.8025422,
+                  "lng": 106.698673
+                },
+                "originalLocation": {
+                  "lat": 10.8025425,
+                  "lng": 106.6986732
+                }
+              }
+            },
+            "arrival": {
+              "time": "2024-11-05T00:51:43+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.79188,
+                  "lng": 106.6722699
+                },
+                "originalLocation": {
+                  "lat": 10.7918051,
+                  "lng": 106.6722625
+                }
+              }
+            },
+            "summary": {
+              "duration": 622,
+              "length": 3990,
+              "baseDuration": 580
+            },
+            "polyline": "BG82qzUi7rwrG4G1HjD7GjIrTnBjDnB_EUnGkDjXkI79B8B7LkD7VgF3hBwCzPoBjIoBjIkDjhB8BrOgFzjBUvMUvHkD3XkDrdsEjhBoBjIoBzKwC3SkDzZoBvHoB3IwC7VwCrJ4D7aAvHAvHUrE8BnLwC_ToB_JoBnLoBvR8BjX8BvRoBjIoBnG8BvM4D_O8B7LoB3IUjIUzFoBzKU7GwCvWT_JnBnGTrEvC7G3DzKnG3I7G7GzF_E3D3DzF_EnGzF3DnGzZzZnQ_O3NrOzKnL7L7L3I_JzF_Ena3cvMjN_E_EvHjIjNvMjNjN7LvMzKzK3D3D3I3I7L7LrJ_JnQ7QrEzF_EzFjD_ETzFU3NUzKU_O4D_nBwCzZoBnLsE3wBrJoBjSoBjNUjNoBvMA3IUnVoBzFAnVoBnpBkDjIU3DUzPoB7LU7nC0FjNUjhBUzZUzFUzFAnGU3DUzKoBvWoBvMUrT8BzPoBA_EnBvHT3DTzFnBrE3D3I3I7QnLzUjD_EjD7G7BvMUjIA7GUnGoBjS8B_OA_EUzF8BzPoB_TUjSA7LUjS8BrYoBnQUnLUzKU3IUnLU3DArEUvMUzK",
+            "transport": {
+              "mode": "car"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "error": "Không thể lấy thông tin chỉ đường từ 10.791805149396877,106.67226252043307 đến 10.791659812242546,106.68185141438717"
+  },
+  {
+    "error": "Không thể lấy thông tin chỉ đường từ 10.791659812242546,106.68185141438717 đến 10.808017493074253,106.67312676919832"
+  },
+  {
+    "error": "Không thể lấy thông tin chỉ đường từ 10.808017493074253,106.67312676919832 đến 10.803254613223876,106.69839650387382"
+  },
+  {
+    "error": "Không thể lấy thông tin chỉ đường từ 10.803254613223876,106.69839650387382 đến 10.807822088148784,106.70357336292223"
+  },
+  {
+    "routes": [
+      {
+        "id": "f571346a-5622-417c-a0e5-1ef22a7860f1",
+        "sections": [
+          {
+            "id": "1a7ee7f6-4b6a-4ca4-b57d-00de42157470",
+            "type": "vehicle",
+            "departure": {
+              "time": "2024-11-05T00:41:22+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.8078459,
+                  "lng": 106.7035699
+                },
+                "originalLocation": {
+                  "lat": 10.8078221,
+                  "lng": 106.7035733
+                }
+              }
+            },
+            "arrival": {
+              "time": "2024-11-05T00:46:16+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.8149577,
+                  "lng": 106.7080586
+                },
+                "originalLocation": {
+                  "lat": 10.8150118,
+                  "lng": 106.7081257
+                }
+              }
+            },
+            "summary": {
+              "duration": 294,
+              "length": 1528,
+              "baseDuration": 273
+            },
+            "polyline": "BGsi1zUkt1wrGwBoLoB4NU8GUoGoBkNwC4XoBwMU0KUwHU8G4D4c8BwRoBoQ8B4N8BoQoB0PwCkXU4IU0PoBgFUgFAwCUgPgeT0ZnBnBnQwWAoGAgFvC8G3DkIT8GUkDUsE7B8B7GT7LwgB8Bge8B4ckD0Z8BwbkDwHUoLoBwH8aUwC0F4S4DkNkN8uBgUjSoQ_O8GnG4NvM4S7Q0FzF4VlS",
+            "transport": {
+              "mode": "car"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "error": "Không thể lấy thông tin chỉ đường từ 10.815011831283226,106.70812576075805 đến 10.820142348884117,106.70394696859184"
+  },
+  {
+    "routes": [
+      {
+        "id": "f2099986-32cd-4bc3-8e6e-3f581b9a18bd",
+        "sections": [
+          {
+            "id": "e37aee3f-3718-4116-bac7-5772799dfbdf",
+            "type": "vehicle",
+            "departure": {
+              "time": "2024-11-05T00:41:22+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.8201421,
+                  "lng": 106.7039467
+                },
+                "originalLocation": {
+                  "lat": 10.8201423,
+                  "lng": 106.7039469
+                }
+              }
+            },
+            "arrival": {
+              "time": "2024-11-05T00:51:18+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.8098824,
+                  "lng": 106.6838592
+                },
+                "originalLocation": {
+                  "lat": 10.8098635,
+                  "lng": 106.6838971
+                }
+              }
+            },
+            "summary": {
+              "duration": 596,
+              "length": 2970,
+              "baseDuration": 531
+            },
+            "polyline": "BG8it0U2k2wrGrGuBnGjNvHjSzKrYvHna7GvW3D3N_EvR3DjNvCvHjDnL7BnG7B_EnB3DvCrJvCrJnBvHT7GArEoBrYAzFAvCA_OnBvH7BzFjDnGjD_ErE7GrE_E_EzF3D_EvH_J3IzKrE_E3DrEjNrOjIrJ_JvH7LzF_OjDjNT3DAjDAjDUrEUrO8B3IoBvWoB3SA3D_EnBjI7BjI7BzFrJzUjNzjB_E_O3DrJvCzFrEjDjInGvCjD7B3DnBzFoBnfwRUrErO3DjN3DrO7G_YnBzFjDrErEjDrJrE3S_ErJvCnG7BzFnB_EnBnG7BrEA_ETjDwCrEArETzFnBrEvC7BnBzFjDjNjIjX_OjI3ITTnLzPvMzUnG_JrEjI3IzPvHrOrJ3SnLzUvRrnB_EnLvCjDTvC7BT7BAnB8B3IrE3D7BrdjX_JvH3DvCzF_E_ErE3DjDnLrJ7BvC3D3DrEzFvMzPrJzKjD_EvMvMvC7BnGnG3I7G4DjI8QvlBsEjI0FnLwCzFkDjIkDvMU3NvC7VkD7LsEjNwH3S0FvMkIzPsJzP4DnG8LnVkIrOwCrEjGlD",
+            "transport": {
+              "mode": "car"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "error": "Không thể lấy thông tin chỉ đường từ 10.809863505953002,106.68389711156186 đến 10.793498552145124,106.69595267981002"
+  },
+  {
+    "routes": [
+      {
+        "id": "33974dc1-714a-40f4-8909-6c2d69cc7d32",
+        "sections": [
+          {
+            "id": "5bbeb2a8-c5cb-4e48-8f68-d9bff81e60de",
+            "type": "vehicle",
+            "departure": {
+              "time": "2024-11-05T00:41:22+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.7934972,
+                  "lng": 106.6959711
+                },
+                "originalLocation": {
+                  "lat": 10.7934985,
+                  "lng": 106.6959527
+                }
+              }
+            },
+            "arrival": {
+              "time": "2024-11-05T00:44:22+07:00",
+              "place": {
+                "type": "place",
+                "location": {
+                  "lat": 10.7947047,
+                  "lng": 106.7057119
+                },
+                "originalLocation": {
+                  "lat": 10.7947604,
+                  "lng": 106.7056313
+                }
+              }
+            },
+            "summary": {
+              "duration": 180,
+              "length": 1316,
+              "baseDuration": 179
+            },
+            "polyline": "BGyh5yUmymwrG2RmBoGU8GA8BgUvC4I8B4XUkNAoG7BwRnBgKnBoGA4DTwMoBkNU8GUkIAkSTgKA0FT4ITwMTwHnBoLvCwRvCwM7BoGvCkInBkInBwHnBoGjDsJzFoL7BgKTwHAoGoBwHU4DT4InBgFT4DvC4I7BkIvCkN7GgeA4DnBsEnBsEnB0F7BwHvCkInBoG7BkI3D4N7BoGnB0FjDwMvCsErE8Q7BwHvCgK7GgZoa0FwgBkIwCUoV0FkhBkI4I4D6CgC",
+            "transport": {
+              "mode": "car"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
