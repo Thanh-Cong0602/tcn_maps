@@ -347,8 +347,8 @@ app.get('/random-points-by-tcn', async (req, res) => {
   const maxDistance = 3000
   const minDistanceBetweenPoints = 200
   const targetPointsPerCategory = 10
-  const categories = ['500-5000-0000']
-  // const categories = ['400-4100-0036']
+  const categories = ['500-5000-0000'] // categories: Hotel or Motel
+  // const categories = ['400-4100-0036'] Bus Station
   // const categories = ['600-6300-0064'] Specialty_Store.json
 
   const promises = points.map(async point => {
@@ -458,7 +458,7 @@ const tcn1 = require('../Bus_Station.json')
 const tcn2 = require('../Hotel_Motel.json')
 const tcn3 = require('../Specialty_Store.json')
 
-const results = require('../results.json')
+
 app.get('/filtered-points', (req, res) => {
   // Gộp các mảng lại
   const allPoints = [...tcn1, ...tcn2, ...tcn3]
@@ -491,7 +491,7 @@ app.get('/filtered-points', (req, res) => {
   res.json(filteredPoints)
 })
 
-
+const results = require('../results.json')
 app.get('/final-points', (req, res) => {
   // Gộp các mảng lại
   const allPoints = results
