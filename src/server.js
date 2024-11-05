@@ -212,65 +212,103 @@ app.get('/random-points', (req, res) => {
   res.json(filteredPoints)
 })
 
-app.get('/random-points-by-tcn', (req, res) => {
+app.get('/random-points-by-tcn', async (req, res) => {
   const results = [] // Mảng chứa kết quả cho tất cả các điểm
 
-  const radius = 1 // bán kính (km)
   const minDistance = 100 // khoảng cách tối thiểu (m)
+  const maxDistance = 1000 // khoảng cách tối đa (m)
   const targetPoints = 12 // số điểm cần lấy
 
-  // Duyệt qua từng điểm trong danh sách
   for (const point of points) {
     const originLat = point.lat
     const originLng = point.lng
 
-    const initialPointCount = 100 // Số lượng điểm ngẫu nhiên ban đầu
+    try {
+      // Gọi HERE API để lấy các điểm theo danh mục
+      const response = await axios.get('https://browse.search.hereapi.com/v1/browse', {
+        params: {
+          at: `${originLat},${originLng}`,
+          categories: '100-1000-0000',
+          limit: 100,
+          apikey: `${HERE_API_KEY}`
+        }
+      })
 
-    // Tạo danh sách điểm ngẫu nhiên ban đầu
-    const randomPoints = generateRandomPoints(originLat, originLng, initialPointCount, radius)
+      const apiPoints = response.data.items
 
-    // Lọc các điểm với khoảng cách lớn hơn 100m
-    const filteredPoints = []
+      // Lọc các điểm trong khoảng cách từ 100m đến 1000m
+      const filteredPoints = []
 
-    for (let i = 0; i < randomPoints.length; i++) {
-      const currentPoint = randomPoints[i]
-      let isFarEnough = true
-
-      // Kiểm tra khoảng cách với các điểm đã được chọn trong filteredPoints
-      for (const selectedPoint of filteredPoints) {
+      for (const currentPoint of apiPoints) {
         const distance = calculateDistance(
-          currentPoint.lat,
-          currentPoint.lng,
-          selectedPoint.lat,
-          selectedPoint.lng
+          originLat,
+          originLng,
+          currentPoint.position.lat,
+          currentPoint.position.lng
         )
 
-        if (distance < minDistance) {
-          isFarEnough = false
-          break
+        // Kiểm tra khoảng cách trong khoảng 100m - 1000m
+        if (
+          distance >= minDistance &&
+          distance <= maxDistance &&
+          currentPoint.distance > minDistance &&
+          currentPoint.distance < maxDistance
+        ) {
+          let isFarEnough = true
+
+          // Kiểm tra khoảng cách với các điểm đã chọn
+          for (const selectedPoint of filteredPoints) {
+            const interDistance = calculateDistance(
+              currentPoint.position.lat,
+              currentPoint.position.lng,
+              selectedPoint.position.lat,
+              selectedPoint.position.lng
+            )
+
+            if (interDistance < minDistance) {
+              isFarEnough = false
+              break
+            }
+          }
+
+          // Thêm vào danh sách nếu điểm thỏa mãn
+          if (isFarEnough && filteredPoints.length < targetPoints) {
+            filteredPoints.push(currentPoint)
+          }
+
+          // Dừng lại khi đã đủ số điểm yêu cầu
+          if (filteredPoints.length === targetPoints) break
         }
       }
 
-      // Nếu điểm hiện tại thỏa mãn điều kiện và số lượng điểm chưa đạt tối đa, thêm vào danh sách
-      if (isFarEnough && filteredPoints.length < targetPoints) {
-        filteredPoints.push(currentPoint)
-      }
-
-      // Dừng lại khi đã đủ số điểm yêu cầu
-      if (filteredPoints.length === targetPoints) break
+      // Thêm kết quả cho từng điểm vào mảng kết quả
+      results.push({
+        point: point.name,
+        randomPoints: filteredPoints
+      })
+      var tcn = []
+      results.forEach(location => {
+        location.randomPoints.forEach(point => {
+          const data = {
+            id: point.id,
+            name: point.address.label,
+            lat: point.position.lat,
+            lng: point.position.lng
+          }
+          tcn.push(data)
+        })
+      })
+    } catch (error) {
+      console.error(`Error fetching data for point ${point.name}:`, error)
+      res.status(500).json({ error: `Failed to fetch data for point ${point.name}` })
+      return
     }
-
-    // Thêm kết quả cho từng điểm vào mảng kết quả
-    results.push({
-      point: point.name,
-      randomPoints: filteredPoints
-    })
   }
 
   // Ghi vào file JSON
-  fs.writeFileSync('filteredPoints.json', JSON.stringify(results, null, 2))
+  fs.writeFileSync('filteredPoints.json', JSON.stringify(tcn, null, 2))
 
-  res.json(results)
+  res.json(tcn)
 })
 
 function getFilterPointsData() {

@@ -1,956 +1,1286 @@
 [
   {
-    "point": "Ngã tư Bảy Hiền",
-    "randomPoints": [
-      {
-        "lat": 10.794538381329067,
-        "lng": 106.65134672783599
-      },
-      {
-        "lat": 10.796372054081077,
-        "lng": 106.64950801478096
-      },
-      {
-        "lat": 10.790694231927802,
-        "lng": 106.6543875567429
-      },
-      {
-        "lat": 10.787893835437595,
-        "lng": 106.64650750329989
-      },
-      {
-        "lat": 10.793580249462622,
-        "lng": 106.6505815677808
-      },
-      {
-        "lat": 10.795147905584189,
-        "lng": 106.6538245444276
-      },
-      {
-        "lat": 10.795715846287115,
-        "lng": 106.65531439669363
-      },
-      {
-        "lat": 10.789079880864167,
-        "lng": 106.6541579554834
-      },
-      {
-        "lat": 10.793447087868463,
-        "lng": 106.64482594356323
-      },
-      {
-        "lat": 10.798036042387627,
-        "lng": 106.64851396382484
-      },
-      {
-        "lat": 10.795853717057806,
-        "lng": 106.65151572407166
-      },
-      {
-        "lat": 10.795052797595964,
-        "lng": 106.64646737903281
-      }
-    ]
+    "id": "here:pds:place:704w3gv6-ded56d53873df1f2b8b5a5f386a74f4b",
+    "name": "Cơm Tấm Huyền, Đường Nguyễn Tử Nha, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79367,
+    "lng": 106.65014
   },
   {
-    "point": "Sân Bay Tân Sơn Nhất",
-    "randomPoints": [
-      {
-        "lat": 10.805749562379537,
-        "lng": 106.66808239733507
-      },
-      {
-        "lat": 10.813256471706799,
-        "lng": 106.66298590325842
-      },
-      {
-        "lat": 10.82069001822098,
-        "lng": 106.65929299186854
-      },
-      {
-        "lat": 10.811893636014167,
-        "lng": 106.6637160988027
-      },
-      {
-        "lat": 10.820104406886887,
-        "lng": 106.66060195005822
-      },
-      {
-        "lat": 10.8128479915802,
-        "lng": 106.66390932538748
-      },
-      {
-        "lat": 10.80865121512785,
-        "lng": 106.66850006151918
-      },
-      {
-        "lat": 10.810975703011982,
-        "lng": 106.66992342602452
-      },
-      {
-        "lat": 10.819186239996045,
-        "lng": 106.66421294377325
-      },
-      {
-        "lat": 10.817346964882356,
-        "lng": 106.66841726345535
-      },
-      {
-        "lat": 10.820428657216192,
-        "lng": 106.66655767663867
-      },
-      {
-        "lat": 10.817788861622017,
-        "lng": 106.66527558407606
-      }
-    ]
+    "id": "here:pds:place:704w3gv6-20ce007cac0d71af1d5b1d2dbbced265",
+    "name": "Badtrip Izakaya, 425 Đường Nguyễn Thái Bình, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79469,
+    "lng": 106.6502
   },
   {
-    "point": "Ngã Tư Hàng Xanh",
-    "randomPoints": [
-      {
-        "lat": 10.799775458781184,
-        "lng": 106.71250814126886
-      },
-      {
-        "lat": 10.80064151844974,
-        "lng": 106.70447367176614
-      },
-      {
-        "lat": 10.801533903382184,
-        "lng": 106.7096074645608
-      },
-      {
-        "lat": 10.798957643888377,
-        "lng": 106.71432890434407
-      },
-      {
-        "lat": 10.795185644783894,
-        "lng": 106.70753909903101
-      },
-      {
-        "lat": 10.80203997522458,
-        "lng": 106.71692398402651
-      },
-      {
-        "lat": 10.807423694152908,
-        "lng": 106.70885956476923
-      },
-      {
-        "lat": 10.801315542601925,
-        "lng": 106.71321931156665
-      },
-      {
-        "lat": 10.797484449756878,
-        "lng": 106.7090457431326
-      },
-      {
-        "lat": 10.799365214718902,
-        "lng": 106.70542235233219
-      },
-      {
-        "lat": 10.80728848274462,
-        "lng": 106.70600487401231
-      },
-      {
-        "lat": 10.805727246718998,
-        "lng": 106.70603188080777
-      }
-    ]
+    "id": "here:pds:place:704w3gv6-9009c870a2984300bac1ece3b07f355a",
+    "name": "Lẩu Dê Long Hải, Đường Xuân Hồng, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.7942,
+    "lng": 106.65204
   },
   {
-    "point": "Võ Thị Sáu - Điện Biên Phủ",
-    "randomPoints": [
-      {
-        "lat": 10.78226039935882,
-        "lng": 106.6816667848617
-      },
-      {
-        "lat": 10.783833496009619,
-        "lng": 106.6802117042501
-      },
-      {
-        "lat": 10.779901812642464,
-        "lng": 106.68624484558275
-      },
-      {
-        "lat": 10.780696837819333,
-        "lng": 106.69252780118187
-      },
-      {
-        "lat": 10.788774368823857,
-        "lng": 106.68989226021199
-      },
-      {
-        "lat": 10.783048818682909,
-        "lng": 106.6886876016619
-      },
-      {
-        "lat": 10.7777215867978,
-        "lng": 106.69467654195955
-      },
-      {
-        "lat": 10.781276780057938,
-        "lng": 106.68005094659812
-      },
-      {
-        "lat": 10.779168026110014,
-        "lng": 106.6911996589907
-      },
-      {
-        "lat": 10.778107865015125,
-        "lng": 106.6842680485915
-      },
-      {
-        "lat": 10.782539174964677,
-        "lng": 106.68495214409596
-      },
-      {
-        "lat": 10.779668421956902,
-        "lng": 106.68489062449305
-      }
-    ]
+    "id": "here:pds:place:704d408k-384a0fab95630544d99cf1799730553a",
+    "name": "Chồn Cà Phê, 260A Hẻm 383 Nguyễn Thái Bình, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.7956,
+    "lng": 106.65067
   },
   {
-    "point": "Cầu Bình Lợi",
-    "randomPoints": [
-      {
-        "lat": 10.82657889880025,
-        "lng": 106.71601179684751
-      },
-      {
-        "lat": 10.82685723439003,
-        "lng": 106.70971854692421
-      },
-      {
-        "lat": 10.822758104007322,
-        "lng": 106.72180205600397
-      },
-      {
-        "lat": 10.829834555548757,
-        "lng": 106.7098191634043
-      },
-      {
-        "lat": 10.824834185871786,
-        "lng": 106.71383397613828
-      },
-      {
-        "lat": 10.825153207775879,
-        "lng": 106.71543971587766
-      },
-      {
-        "lat": 10.824167732887197,
-        "lng": 106.71047487105112
-      },
-      {
-        "lat": 10.83011396251051,
-        "lng": 106.71383215447159
-      },
-      {
-        "lat": 10.82884568975354,
-        "lng": 106.71240833485662
-      },
-      {
-        "lat": 10.82659973755395,
-        "lng": 106.71183409030203
-      },
-      {
-        "lat": 10.830805923463716,
-        "lng": 106.71879290657958
-      },
-      {
-        "lat": 10.833488757452459,
-        "lng": 106.71276885246617
-      }
-    ]
+    "id": "here:pds:place:704w3gv6-d4eca0c13cd3442d948e46b2236719a7",
+    "name": "Bún Đông Kinh, Đường Nguyễn Bá Tòng, Phường 11, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79279,
+    "lng": 106.65194
   },
   {
-    "point": "Ga Gò Vấp",
-    "randomPoints": [
-      {
-        "lat": 10.816943910061992,
-        "lng": 106.67842971257468
-      },
-      {
-        "lat": 10.815615242973859,
-        "lng": 106.67944330399845
-      },
-      {
-        "lat": 10.81461754676615,
-        "lng": 106.67109539289002
-      },
-      {
-        "lat": 10.818298041146527,
-        "lng": 106.67809258771481
-      },
-      {
-        "lat": 10.812128007542196,
-        "lng": 106.68036530878459
-      },
-      {
-        "lat": 10.820452917561799,
-        "lng": 106.67591150216889
-      },
-      {
-        "lat": 10.818832778572322,
-        "lng": 106.68041949924287
-      },
-      {
-        "lat": 10.813837827570268,
-        "lng": 106.68525441574103
-      },
-      {
-        "lat": 10.818597293244627,
-        "lng": 106.67498934250442
-      },
-      {
-        "lat": 10.817371222189175,
-        "lng": 106.67640302040735
-      },
-      {
-        "lat": 10.813661531396805,
-        "lng": 106.6781091381104
-      },
-      {
-        "lat": 10.811363436892565,
-        "lng": 106.67316349956549
-      }
-    ]
+    "id": "here:pds:place:704w3gv6-db7ec7c00d4b4398a73d06cb1cf9db85",
+    "name": "Cơm Tấm 2 Anh Em, Hẻm 56 Đường Nguyễn Bá Tòng, Phường 11, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79243,
+    "lng": 106.65097
   },
   {
-    "point": "Nguyễn Kiệm - Hoàng Văn Thụ - Phan Đăng Lưu",
-    "randomPoints": [
-      {
-        "lat": 10.793824360807843,
-        "lng": 106.68021615988935
-      },
-      {
-        "lat": 10.798169727894631,
-        "lng": 106.67508473910654
-      },
-      {
-        "lat": 10.796574932442491,
-        "lng": 106.68661366037348
-      },
-      {
-        "lat": 10.798825437643115,
-        "lng": 106.67764546155652
-      },
-      {
-        "lat": 10.797222166465476,
-        "lng": 106.6733800835268
-      },
-      {
-        "lat": 10.797725774003142,
-        "lng": 106.67775471787787
-      },
-      {
-        "lat": 10.805062003263284,
-        "lng": 106.68476560440165
-      },
-      {
-        "lat": 10.799585474780852,
-        "lng": 106.67952033276286
-      },
-      {
-        "lat": 10.795842293720884,
-        "lng": 106.68104489249073
-      },
-      {
-        "lat": 10.799157928252928,
-        "lng": 106.6803524199152
-      },
-      {
-        "lat": 10.799675847151578,
-        "lng": 106.67496224619642
-      },
-      {
-        "lat": 10.80064195291005,
-        "lng": 106.68688530642214
-      }
-    ]
+    "id": "here:pds:place:704w3gv6-248dc408aee672d48d71203b6bc19dd6",
+    "name": "Phở Ao Sen 2, Đường Nguyễn Thái Bình, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79578,
+    "lng": 106.65171
   },
   {
-    "point": "Lê Quang Định - Bạch Đằng",
-    "randomPoints": [
-      {
-        "lat": 10.801603719941633,
-        "lng": 106.70038436843826
-      },
-      {
-        "lat": 10.8019513869237,
-        "lng": 106.70459154134143
-      },
-      {
-        "lat": 10.805000594116807,
-        "lng": 106.69813596690189
-      },
-      {
-        "lat": 10.802454275787943,
-        "lng": 106.69913498369222
-      },
-      {
-        "lat": 10.805221628459552,
-        "lng": 106.69242636690113
-      },
-      {
-        "lat": 10.796223709785181,
-        "lng": 106.70218639770304
-      },
-      {
-        "lat": 10.807839120775366,
-        "lng": 106.69340706037605
-      },
-      {
-        "lat": 10.803240875207589,
-        "lng": 106.70000645427072
-      },
-      {
-        "lat": 10.800939894611327,
-        "lng": 106.69927082468458
-      },
-      {
-        "lat": 10.795615682020575,
-        "lng": 106.6942951204008
-      },
-      {
-        "lat": 10.800094720259462,
-        "lng": 106.69674124536932
-      },
-      {
-        "lat": 10.802567819221743,
-        "lng": 106.69809419349771
-      }
-    ]
+    "id": "here:pds:place:704jx7ps-272b3176f7be0115a265f857cec190d5",
+    "name": "Lẩu Cá Zaka, 12 Đường Trường Chinh, Phường 11, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79318,
+    "lng": 106.65292
   },
   {
-    "point": "Hẻm 115 Lê Văn Sỹ",
-    "randomPoints": [
-      {
-        "lat": 10.791031725758799,
-        "lng": 106.66791751249538
-      },
-      {
-        "lat": 10.792243471124614,
-        "lng": 106.67151590710787
-      },
-      {
-        "lat": 10.788802089235928,
-        "lng": 106.66772708646224
-      },
-      {
-        "lat": 10.79266773021544,
-        "lng": 106.66726890288385
-      },
-      {
-        "lat": 10.792403049495421,
-        "lng": 106.66983658219839
-      },
-      {
-        "lat": 10.786450402595747,
-        "lng": 106.66786836645893
-      },
-      {
-        "lat": 10.786700149445185,
-        "lng": 106.67760186419731
-      },
-      {
-        "lat": 10.797142274876217,
-        "lng": 106.66580119593709
-      },
-      {
-        "lat": 10.790294995992154,
-        "lng": 106.67171695928573
-      },
-      {
-        "lat": 10.799931575129541,
-        "lng": 106.66845984604379
-      },
-      {
-        "lat": 10.790461541394917,
-        "lng": 106.6687782920971
-      },
-      {
-        "lat": 10.795904542804054,
-        "lng": 106.67152988590652
-      }
-    ]
+    "id": "here:pds:place:704w3gv6-423758769e503754601d6809e45f4498",
+    "name": "Thủ Tiếu Mì Xương, Đường Nguyễn Bá Tòng, Phường 11, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79215,
+    "lng": 106.65007
   },
   {
-    "point": "Nguyễn Văn Trổi - Trường Sa",
-    "randomPoints": [
-      {
-        "lat": 10.793069078176787,
-        "lng": 106.67343949735064
-      },
-      {
-        "lat": 10.792650511251207,
-        "lng": 106.68102620937412
-      },
-      {
-        "lat": 10.785940403054774,
-        "lng": 106.68748787133727
-      },
-      {
-        "lat": 10.79140181960464,
-        "lng": 106.68117179450674
-      },
-      {
-        "lat": 10.7922662009066,
-        "lng": 106.67399652135197
-      },
-      {
-        "lat": 10.792083687068441,
-        "lng": 106.68854645756811
-      },
-      {
-        "lat": 10.787115613051755,
-        "lng": 106.68375834375885
-      },
-      {
-        "lat": 10.79498566545793,
-        "lng": 106.67779459781526
-      },
-      {
-        "lat": 10.794945186215154,
-        "lng": 106.68504526557128
-      },
-      {
-        "lat": 10.791077665306972,
-        "lng": 106.67348113542553
-      },
-      {
-        "lat": 10.795546573344291,
-        "lng": 106.68356104571964
-      },
-      {
-        "lat": 10.790715015295934,
-        "lng": 106.68269688540313
-      }
-    ]
+    "id": "here:pds:place:704w3gv6-de92b5fd31350b70d0d2c222912da820",
+    "name": "Quán Ăn Phố Hội Đặc Sản Cơm Gà Cơm Xá Xíu, Đường Xuân Hồng, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79519,
+    "lng": 106.65305
   },
   {
-    "point": "Phổ Quang",
-    "randomPoints": [
-      {
-        "lat": 10.80944883827963,
-        "lng": 106.67760291362448
-      },
-      {
-        "lat": 10.809106248063939,
-        "lng": 106.67238788133231
-      },
-      {
-        "lat": 10.81011502585956,
-        "lng": 106.67079988577395
-      },
-      {
-        "lat": 10.812646472797528,
-        "lng": 106.67252596201311
-      },
-      {
-        "lat": 10.814142456017946,
-        "lng": 106.67549258426554
-      },
-      {
-        "lat": 10.807189598162607,
-        "lng": 106.67315139615704
-      },
-      {
-        "lat": 10.79967659097683,
-        "lng": 106.67275509994104
-      },
-      {
-        "lat": 10.803821774332503,
-        "lng": 106.66899908996167
-      },
-      {
-        "lat": 10.808484097194466,
-        "lng": 106.67628949411811
-      },
-      {
-        "lat": 10.802618721856245,
-        "lng": 106.67841999094976
-      },
-      {
-        "lat": 10.807403419748816,
-        "lng": 106.67118216675748
-      },
-      {
-        "lat": 10.803688366604083,
-        "lng": 106.67191358545237
-      }
-    ]
+    "id": "here:pds:place:704w3gv6-4b3f6e2f76b4a6d064d25cefdd1571db",
+    "name": "Quán Phương, Đường Tái Thiết, Phường 11, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.7917,
+    "lng": 106.65169
   },
   {
-    "point": "Lê Quang Định - Phan Đăng Lưu",
-    "randomPoints": [
-      {
-        "lat": 10.807508980011372,
-        "lng": 106.70088897671458
-      },
-      {
-        "lat": 10.806340351470345,
-        "lng": 106.69553105627729
-      },
-      {
-        "lat": 10.80400048873366,
-        "lng": 106.69924172012537
-      },
-      {
-        "lat": 10.800945275246994,
-        "lng": 106.69371197317588
-      },
-      {
-        "lat": 10.809659394530891,
-        "lng": 106.69202452647882
-      },
-      {
-        "lat": 10.808742563120836,
-        "lng": 106.70401318988111
-      },
-      {
-        "lat": 10.804928129475934,
-        "lng": 106.70620143109016
-      },
-      {
-        "lat": 10.809863563970676,
-        "lng": 106.69488118329701
-      },
-      {
-        "lat": 10.805125451509195,
-        "lng": 106.69311304962672
-      },
-      {
-        "lat": 10.796049147560796,
-        "lng": 106.7019216905057
-      },
-      {
-        "lat": 10.805163995000429,
-        "lng": 106.70123204718037
-      },
-      {
-        "lat": 10.802311476593248,
-        "lng": 106.69830305311903
-      }
-    ]
+    "id": "here:pds:place:704jx7ps-74ec92db81c101deb4a95c378f1f5a85",
+    "name": "Hưng Tiến, Đường Trương Hoàng Thanh, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79673,
+    "lng": 106.65121
   },
   {
-    "point": "Hẻm 170 Bùi Đình Túy",
-    "randomPoints": [
-      {
-        "lat": 10.80902635868333,
-        "lng": 106.69620899360828
-      },
-      {
-        "lat": 10.805870734520935,
-        "lng": 106.7044068564706
-      },
-      {
-        "lat": 10.80658822245912,
-        "lng": 106.70334441694239
-      },
-      {
-        "lat": 10.799127331236242,
-        "lng": 106.7024045154492
-      },
-      {
-        "lat": 10.803049396992984,
-        "lng": 106.69711270220272
-      },
-      {
-        "lat": 10.806296937998257,
-        "lng": 106.69708481959705
-      },
-      {
-        "lat": 10.811013650431343,
-        "lng": 106.70832952717537
-      },
-      {
-        "lat": 10.814189794235107,
-        "lng": 106.69769548939873
-      },
-      {
-        "lat": 10.807302154823102,
-        "lng": 106.70641206078395
-      },
-      {
-        "lat": 10.808337198503843,
-        "lng": 106.70221372474526
-      },
-      {
-        "lat": 10.812056575811322,
-        "lng": 106.70379541244368
-      },
-      {
-        "lat": 10.810028725449406,
-        "lng": 106.7092913275644
-      }
-    ]
+    "id": "here:pds:place:704w3gve-a0a35aafd51b43bfaafbdc5614d17fd8",
+    "name": "+84 Cafe, Đường A1 Sân Bay Tân Sơn Nhất, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81306,
+    "lng": 106.66241
   },
   {
-    "point": "Thanh Đa - Nguyễn Xí",
-    "randomPoints": [
-      {
-        "lat": 10.81712168771331,
-        "lng": 106.70856188232914
-      },
-      {
-        "lat": 10.811255315966289,
-        "lng": 106.70963986435845
-      },
-      {
-        "lat": 10.811646042886915,
-        "lng": 106.70233320192567
-      },
-      {
-        "lat": 10.812322293914288,
-        "lng": 106.70302647345889
-      },
-      {
-        "lat": 10.81288075487751,
-        "lng": 106.709023403312
-      },
-      {
-        "lat": 10.815296189232962,
-        "lng": 106.70022612088692
-      },
-      {
-        "lat": 10.814006796227588,
-        "lng": 106.70537523789574
-      },
-      {
-        "lat": 10.8195989274578,
-        "lng": 106.70545194875598
-      },
-      {
-        "lat": 10.808486658779366,
-        "lng": 106.70521382864285
-      },
-      {
-        "lat": 10.817546041201828,
-        "lng": 106.7106506723618
-      },
-      {
-        "lat": 10.807671711026115,
-        "lng": 106.70398497195569
-      },
-      {
-        "lat": 10.812563046006117,
-        "lng": 106.70724280938869
-      }
-    ]
+    "id": "here:pds:place:704w3gve-b52b182dd0db3e2e7833b342200b8c61",
+    "name": "Bún Bò Huế 3A3 @ CT Plaza, 60A Đường Trường Sơn, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81291,
+    "lng": 106.66532
   },
   {
-    "point": "Nguyễn Xí - Nơ Trang Long",
-    "randomPoints": [
-      {
-        "lat": 10.8210399693042,
-        "lng": 106.7027688361447
-      },
-      {
-        "lat": 10.81856920860963,
-        "lng": 106.70756165999875
-      },
-      {
-        "lat": 10.822527194534414,
-        "lng": 106.70514454372096
-      },
-      {
-        "lat": 10.816448403850526,
-        "lng": 106.70735097628733
-      },
-      {
-        "lat": 10.819455334417029,
-        "lng": 106.70595073457964
-      },
-      {
-        "lat": 10.821570234707405,
-        "lng": 106.70856787770947
-      },
-      {
-        "lat": 10.82026558433152,
-        "lng": 106.70345209174315
-      },
-      {
-        "lat": 10.815686429539705,
-        "lng": 106.70401955172775
-      },
-      {
-        "lat": 10.823681345201763,
-        "lng": 106.70756473803021
-      },
-      {
-        "lat": 10.82450591855268,
-        "lng": 106.70879307559096
-      },
-      {
-        "lat": 10.828951346286289,
-        "lng": 106.70310219825649
-      },
-      {
-        "lat": 10.815370342811992,
-        "lng": 106.70632162528122
-      }
-    ]
+    "id": "here:pds:place:704w3gve-cf206f94184943afb82fbf27c9c5369c",
+    "name": "The Phoenix Restaurant, Đường A1 Sân Bay Tân Sơn Nhất, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81398,
+    "lng": 106.6625
   },
   {
-    "point": "Hoàng Hoa Thám",
-    "randomPoints": [
-      {
-        "lat": 10.809474880826237,
-        "lng": 106.68115709171974
-      },
-      {
-        "lat": 10.809772172488312,
-        "lng": 106.69052133016511
-      },
-      {
-        "lat": 10.810833664596245,
-        "lng": 106.68590760792503
-      },
-      {
-        "lat": 10.806550277980733,
-        "lng": 106.68244690411345
-      },
-      {
-        "lat": 10.812037025376661,
-        "lng": 106.67528834020175
-      },
-      {
-        "lat": 10.815055433638353,
-        "lng": 106.68849455425608
-      },
-      {
-        "lat": 10.809402767899542,
-        "lng": 106.68772659768705
-      },
-      {
-        "lat": 10.80891381664704,
-        "lng": 106.69104899523767
-      },
-      {
-        "lat": 10.803344840021628,
-        "lng": 106.68150243774357
-      },
-      {
-        "lat": 10.805779253652279,
-        "lng": 106.68049809092417
-      },
-      {
-        "lat": 10.815237723927181,
-        "lng": 106.67731623005632
-      },
-      {
-        "lat": 10.811291512574956,
-        "lng": 106.68460717707826
-      }
-    ]
+    "id": "here:pds:place:704w3gv7-c0ca294e333152748c2ae8909fd401b2",
+    "name": "HKD Ga Ran, Đường Trường Sơn, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81089,
+    "lng": 106.66476
   },
   {
-    "point": "Cầu Bông",
-    "randomPoints": [
-      {
-        "lat": 10.79008487900416,
-        "lng": 106.69082095176279
-      },
-      {
-        "lat": 10.789033833634663,
-        "lng": 106.6892505180913
-      },
-      {
-        "lat": 10.796762991642517,
-        "lng": 106.6913121579956
-      },
-      {
-        "lat": 10.793503314849305,
-        "lng": 106.69591234627083
-      },
-      {
-        "lat": 10.794862160000962,
-        "lng": 106.6945236546459
-      },
-      {
-        "lat": 10.786856332280955,
-        "lng": 106.69690437130015
-      },
-      {
-        "lat": 10.793723088785864,
-        "lng": 106.6946844289687
-      },
-      {
-        "lat": 10.797454982934788,
-        "lng": 106.69600235599624
-      },
-      {
-        "lat": 10.791979741142349,
-        "lng": 106.69603870477772
-      },
-      {
-        "lat": 10.796107479585748,
-        "lng": 106.69658897558982
-      },
-      {
-        "lat": 10.791512450124152,
-        "lng": 106.69319166512422
-      },
-      {
-        "lat": 10.792299743709409,
-        "lng": 106.70237633069036
-      }
-    ]
+    "id": "here:pds:place:704w3gve-d871536538db7551516d37331dbea162",
+    "name": "Big Bowl - Ga Quốc Nội, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81501,
+    "lng": 106.66261
   },
   {
-    "point": "Trần Văn Khê",
-    "randomPoints": [
-      {
-        "lat": 10.792566162054039,
-        "lng": 106.70274965263471
-      },
-      {
-        "lat": 10.796042310637114,
-        "lng": 106.70871887137474
-      },
-      {
-        "lat": 10.797385661732289,
-        "lng": 106.71017083475982
-      },
-      {
-        "lat": 10.792884685869458,
-        "lng": 106.70815462638308
-      },
-      {
-        "lat": 10.801128537517293,
-        "lng": 106.70004492624597
-      },
-      {
-        "lat": 10.802176919823834,
-        "lng": 106.70934096479138
-      },
-      {
-        "lat": 10.79525484070365,
-        "lng": 106.7047728836636
-      },
-      {
-        "lat": 10.793346943098852,
-        "lng": 106.70169113578599
-      },
-      {
-        "lat": 10.794545995022013,
-        "lng": 106.7010928963835
-      },
-      {
-        "lat": 10.794851947204958,
-        "lng": 106.70559400055326
-      },
-      {
-        "lat": 10.793124609131512,
-        "lng": 106.7063210652707
-      },
-      {
-        "lat": 10.787388216414374,
-        "lng": 106.70382059056466
-      }
-    ]
+    "id": "here:pds:place:704w3gve-0568335e2c60639c251d8b9887cd0695",
+    "name": "Gánh Tầm O, Đường Cửu Long, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81219,
+    "lng": 106.6664
+  },
+  {
+    "id": "here:pds:place:704w3gve-eebc5d2c63ecf27570a2c71bffc9aae9",
+    "name": "Phở Bình, 2 Đường Hồng Hà, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8134,
+    "lng": 106.66646
+  },
+  {
+    "id": "here:pds:place:704w3gve-f5ce7e403e7bf75295361c2b6a91ef45",
+    "name": "Espresso To Go, Đường A2 Sân Bay Tân Sơn Nhất, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81576,
+    "lng": 106.66397
+  },
+  {
+    "id": "here:pds:place:704fe90d-e203b95c4dd591af872ee42553f9f8af",
+    "name": "Bún Đậu Mắm Tôm - Hồng Hà, Hẻm 25 Cửu Long, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.811,
+    "lng": 106.6662
+  },
+  {
+    "id": "here:pds:place:704w3gv7-419ad5c2cb354561b3b32e9ff2f90a96",
+    "name": "Quán 50 Trường Sơn, Đường Trường Sơn, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80994,
+    "lng": 106.66467
+  },
+  {
+    "id": "here:pds:place:704w3gve-1d264ce266e57cc07888e393decb631a",
+    "name": "Cơm Ngon Lẩu Công Chúa, Đường Trường Sơn, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81569,
+    "lng": 106.66547
+  },
+  {
+    "id": "here:pds:place:704w3gve-fb7ebf2a457507391901595bd23055ec",
+    "name": "Minh 607 Cơm Tấm Đêm, Đường Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81424,
+    "lng": 106.66686
+  },
+  {
+    "id": "here:pds:place:704w3gvk-f7d32b3b1302c68a4e85052fbc4b6dc8",
+    "name": "Nhà Hàng Chay, 237 Đường Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80054,
+    "lng": 106.71114
+  },
+  {
+    "id": "here:pds:place:704xjxn4-746b1bfe400405420f9323fce78afe90",
+    "name": "Quán Biển Đông, 357 Đường Điện Biên Phủ, Phường 15, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80173,
+    "lng": 106.71056
+  },
+  {
+    "id": "here:pds:place:704w3gvk-2e9bc3d78c464785b0411bb9e402ebcf",
+    "name": "Cháo Trắng Hàng Xanh, 283 Đường Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80237,
+    "lng": 106.7113
+  },
+  {
+    "id": "here:pds:place:704w3gvk-c45d3c200db2571817f7c86c93f7e3b2",
+    "name": "Mì Quảng Bánh Canh Cua Hủ Tiếu Mì, 17 Đường Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80165,
+    "lng": 106.71244
+  },
+  {
+    "id": "here:pds:place:704w3gvk-566be8a7e4af48c5a27b8235f833d0b8",
+    "name": "Cơm Tấm Bà Mười, Hẻm 294 Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80007,
+    "lng": 106.71236
+  },
+  {
+    "id": "here:pds:place:704w3gvk-d95eb3a8c1f188a4ee6a78ce398a0ba2",
+    "name": "Thủy Bún Bò Huế, Hẻm 217 Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79961,
+    "lng": 106.71128
+  },
+  {
+    "id": "here:pds:place:704w3gvk-eea920fe18968976e11b1da2295f68ad",
+    "name": "Vĩnh Ký Mì Gia, 334B Đường Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80328,
+    "lng": 106.71149
+  },
+  {
+    "id": "here:pds:place:704w3gvk-c6ffd9f4e4fd4c1fa3f6c03bd6f088d2",
+    "name": "Bánh Xèo Quảng Ngãi, Hẻm 441 Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80196,
+    "lng": 106.71331
+  },
+  {
+    "id": "here:pds:place:704w3gvk-d848a252a598085abfccd16156c231be",
+    "name": "Hùng 33, 319A Đường Điện Biên Phủ, Phường 15, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80142,
+    "lng": 106.70945
+  },
+  {
+    "id": "here:pds:place:704w3gvk-504d1d04534f16875ead23244bf763eb",
+    "name": "Phở Bò, 46 Đường Bạch Đằng, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80299,
+    "lng": 106.71018
+  },
+  {
+    "id": "here:pds:place:704w3gvk-4068d8bc95059c7ba01979dd23faf56f",
+    "name": "Lẩu Gà Lá É, 450A Đường Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80103,
+    "lng": 106.71372
+  },
+  {
+    "id": "here:pds:place:704w3gvk-6c1991d7cca34e868d3a205fb7c6bdae",
+    "name": "Quán Ăn 1$, Hẻm 294 Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80003,
+    "lng": 106.71333
+  },
+  {
+    "id": "here:pds:place:704w3gv7-f5269b62f3fd56998fd51ec602236b28",
+    "name": "O Hồng Bún Bắp Bò Gốc Huế, 55 Đường Trần Quốc Thảo, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78045,
+    "lng": 106.68922
+  },
+  {
+    "id": "here:pds:place:704w3gv7-056f361accd9412692b705b9f35a0ada",
+    "name": "Nhà Hàng La Maison De Saigon, 226 Đường Điện Biên Phủ, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.7819,
+    "lng": 106.68906
+  },
+  {
+    "id": "here:pds:place:704jx7ps-795e3c1abf1f07713ecffbe8d79cb641",
+    "name": "Tam Giang Quán, 269 Đường Điện Biên Phủ, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78046,
+    "lng": 106.68769
+  },
+  {
+    "id": "here:pds:place:704xjxn4-fbfca1af054f04153ebe5acf89363769",
+    "name": "Com Nieu Sai Gon, 27 Đường Tú Xương, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78196,
+    "lng": 106.68779
+  },
+  {
+    "id": "here:pds:place:704w3gv7-356183e17609f3fe67a6d6bf52b56e07",
+    "name": "Kyo Watami Reill & Sushi, 259 Đường Điện Biên Phủ, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78146,
+    "lng": 106.68986
+  },
+  {
+    "id": "here:pds:place:704xjxn4-ca1d9d3294cb02d7e7d8fcdfd3af122a",
+    "name": "Cơm Niêu 19 Tú Xương, 19 Đường Tú Xương, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78268,
+    "lng": 106.68852
+  },
+  {
+    "id": "here:pds:place:704w3gv7-ee9f4c0cc1c3f7396faa504561ccc002",
+    "name": "Lẩu Dê 45, 45 Đường Ngô Thời Nhiệm, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.77927,
+    "lng": 106.68875
+  },
+  {
+    "id": "here:pds:place:704w3gv7-2106c2828d3bbb388775f4d19f926547",
+    "name": "Sanji Cơm Nhật Quận 3, Đường Trần Quốc Thảo, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.77966,
+    "lng": 106.68983
+  },
+  {
+    "id": "here:pds:place:704w3gv7-c7cc3185433a4733a539a28f82498232",
+    "name": "Bún Đậu Mắm Tôm Nhà Khoai, Đường Võ Thị Sáu, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78304,
+    "lng": 106.68763
+  },
+  {
+    "id": "here:pds:place:704w3gv7-6157baa310bf7d5cd8debb6a1185aba3",
+    "name": "Knmeal, 254 Đường Điện Biên Phủ, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.77969,
+    "lng": 106.68679
+  },
+  {
+    "id": "here:pds:place:704w3gv7-10fb19209415169d0e36912c1875884a",
+    "name": "Phòng Trà Sài Gòn 1975, Đường Trương Định, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78092,
+    "lng": 106.68614
+  },
+  {
+    "id": "here:pds:place:704w3gv7-88d87cfcd737b6259989179c6daac6cf",
+    "name": "Nhà Hàng Khoái, Đường Lê Quý Đôn, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78133,
+    "lng": 106.69093
+  },
+  {
+    "id": "here:pds:place:704w3gvs-d6fbf215c7c24857b6ba667d50700161",
+    "name": "Quán Tư Thanh, Đường Kha Vạn Cân, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82691,
+    "lng": 106.71485
+  },
+  {
+    "id": "here:pds:place:704w3gvs-7fd756783f6f679ac5d45944848f9807",
+    "name": "Quán 18A, 608 Đường Phạm Văn Đồng, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82658,
+    "lng": 106.71599
+  },
+  {
+    "id": "here:pds:place:704w3gvs-031b8791ea9afed0ea266d263b401824",
+    "name": "Quán Cơm Bình Dân Cô Phượng, Đường Số 2, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82463,
+    "lng": 106.71516
+  },
+  {
+    "id": "here:pds:place:704w3gvs-3c32b2d6661897d1faa3b32cd228b3f3",
+    "name": "Quán 279, 279 Đường Phạm Văn Đồng, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82589,
+    "lng": 106.7134
+  },
+  {
+    "id": "here:pds:place:704w3gvs-c9a86247590ea144a413bbc433fca2f5",
+    "name": "Sữa Tươi Trân Châu Đường Đen Z61, Quốc Lộ 13, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82727,
+    "lng": 106.714
+  },
+  {
+    "id": "here:pds:place:704w3gvs-6eaad08349f59de2f9c6652e80c3ad2a",
+    "name": "Phở Sài Gòn Ty, Quốc Lộ 13, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82394,
+    "lng": 106.71413
+  },
+  {
+    "id": "here:pds:place:704w3gvs-ae2e40c97a05b12dc7d7ddd586eab146",
+    "name": "Quán BBQ, Hẻm 3 Đường Số 17, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82627,
+    "lng": 106.71736
+  },
+  {
+    "id": "here:pds:place:704w3gv6-f38ce352b1c61065eb81b3ed7d85edb3",
+    "name": "Cơm Chiên Gà Xối Mỡ Cơm Tấm, 126B Quốc Lộ 13, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82825,
+    "lng": 106.71437
+  },
+  {
+    "id": "here:pds:place:704jx7ps-a0ef849f63b60c798760f3cc86aabc28",
+    "name": "Cơm Tấm Việt Quán, 126 Đường Kha Vạn Cân, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82761,
+    "lng": 106.71736
+  },
+  {
+    "id": "here:pds:place:704w3gvs-32b6eb1e28f1429688c9c50b71046311",
+    "name": "Hủ Tíu Mì Bò Kho, Đường Số 3, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82815,
+    "lng": 106.71288
+  },
+  {
+    "id": "here:pds:place:704w3gvh-f30cb1363d886dd1e60bf576a5f70f9f",
+    "name": "Cánh Gà Đùi Gà Nướng, Hẻm 8 Số 3, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82893,
+    "lng": 106.71364
+  },
+  {
+    "id": "here:pds:place:704w3gvs-1574e23f4821f0b7fb56e6285fff04ba",
+    "name": "Quán 18A Nam Định, Đường Phạm Văn Đồng, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82671,
+    "lng": 106.71837
+  },
+  {
+    "id": "here:pds:place:704w3gve-d006955541cc4beeb19520231d36067f",
+    "name": "Quán Canh Chua Cá Kho Tộ, Hẻm 689 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81503,
+    "lng": 106.67828
+  },
+  {
+    "id": "here:pds:place:704w3gve-8761336e55324f73940833f18dc4deea",
+    "name": "Quán Ngon 24H, 19 Đường Phạm Văn Đồng, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81484,
+    "lng": 106.67989
+  },
+  {
+    "id": "here:pds:place:704xjxn4-5cad758238a403c2a815a14bc065f533",
+    "name": "Cơm Thiên Ân, 776 Đường Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81344,
+    "lng": 106.67888
+  },
+  {
+    "id": "here:pds:place:704jx7ps-6b996ef2f4e40e8f3a179dd354438f50",
+    "name": "Thực Phẩm Chay Âu Lạc, Hẻm 729 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81594,
+    "lng": 106.67862
+  },
+  {
+    "id": "here:pds:place:704jx7ps-f685a360b6ed0ed9b656af94799673d7",
+    "name": "Bún Ốc Minh Béo, Đường Bạch Đằng, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81469,
+    "lng": 106.67733
+  },
+  {
+    "id": "here:pds:place:704w3gve-334111889f5d9304411509ae2e09862c",
+    "name": "A Đạt Bánh Xèo Rau Rừng, 1 Đường Phạm Văn Đồng, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81456,
+    "lng": 106.68082
+  },
+  {
+    "id": "here:pds:place:704w3gve-0a2dfa762b4b13a501ca9fd1a10c4c1a",
+    "name": "Tiệm Nướng Nọ, 80 Đường Nguyễn Thái Sơn, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81601,
+    "lng": 106.68014
+  },
+  {
+    "id": "here:pds:place:704w6ugm-975a736a8d704866be3dc1f29a636b4a",
+    "name": "Bánh Đa Cua Cô Toàn, Đường Nguyễn Văn Công, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8156,
+    "lng": 106.67692
+  },
+  {
+    "id": "here:pds:place:704w3gve-8c1d53dbaac1db9567e8131b688b1b13",
+    "name": "Cô Phượng Quán, Đường Nguyễn Văn Công, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81654,
+    "lng": 106.67791
+  },
+  {
+    "id": "here:pds:place:704w3gve-a76cc1a57e8f4afbbe2722b188458294",
+    "name": "Quán Bột Chiên Bò Kho, Hẻm 43 Đường Số 7, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8137,
+    "lng": 106.68148
+  },
+  {
+    "id": "here:pds:place:704w3gve-4694a93cadcb4662944f45f7973d5260",
+    "name": "Quán Ốc Tồ, Hẻm 778K Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81188,
+    "lng": 106.67898
+  },
+  {
+    "id": "here:pds:place:704w3gve-21537e8ceae1f33e2f3af3778983328f",
+    "name": "Sơn Pu, 80 Đường Phạm Văn Đồng, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81502,
+    "lng": 106.68164
+  },
+  {
+    "id": "here:pds:place:704w3gv7-d63ca9ede2c37e3e44f61094ce33d578",
+    "name": "Pho Quyen Phu Nhuan - Phở Quyền Gốc, 33 Đường Hoàng Văn Thụ, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.7991,
+    "lng": 106.67924
+  },
+  {
+    "id": "here:pds:place:704w3gv7-b4f552af6eb646299250baed1a673b54",
+    "name": "Yum Mee - Mì Tự Chọn, 311 Đường Phan Đình Phùng, Phường 15, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79798,
+    "lng": 106.68075
+  },
+  {
+    "id": "here:pds:place:704xjxn4-29e354144b950fef673d62c9e7dfe82c",
+    "name": "Nhà Hàng Hoàng Thơ, 391 Đường Nguyễn Kiệm, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80031,
+    "lng": 106.67975
+  },
+  {
+    "id": "here:pds:place:704w3gv7-5347101106ed4f9395176ea4e3855da7",
+    "name": "Quán Số 10 Bia Ướp Lạnh, Hẻm 330 Phan Đình Phùng, Phường 1, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79869,
+    "lng": 106.68158
+  },
+  {
+    "id": "here:pds:place:704w3gv7-5bde60ce6a1840ccb964533729beac9f",
+    "name": "Cháo Dinh Dưỡng Doreami, 40 Đường Nguyễn Trọng Tuyển, Phường 15, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79726,
+    "lng": 106.68013
+  },
+  {
+    "id": "here:pds:place:704w3gv7-f5617d3a6ff74d698fa140ac70fb4980",
+    "name": "Ẩm Thực Hồ Lô, Hẻm 165 Phan Đăng Lưu, Phường 3, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80064,
+    "lng": 106.68174
+  },
+  {
+    "id": "here:pds:place:704xjxn4-a16658509d79019fa8cdfc3990ce8113",
+    "name": "Nhà Hàng Hoa Mai, Hẻm 73 Hoàng Văn Thụ, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79922,
+    "lng": 106.67816
+  },
+  {
+    "id": "here:pds:place:704w3gv7-f5876d38846658e620c263bcbeda2f18",
+    "name": "Dừa Xiêm, 270 Đường Phan Đình Phùng, Phường 15, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79724,
+    "lng": 106.68134
+  },
+  {
+    "id": "here:pds:place:704w3gv7-edcd06cf59f14a53c45d45db119b7d7f",
+    "name": "Nhà Hàng Hải Sản Xuân Quỳnh, Hẻm 91 Nguyễn Trọng Tuyển, Phường 15, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79745,
+    "lng": 106.6788
+  },
+  {
+    "id": "here:pds:place:7041r4ve-7f2682b94ddc0226d53ab8b7fca4e951",
+    "name": "Xiên Nướng, 433 Đường Nguyễn Kiệm, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80126,
+    "lng": 106.6794
+  },
+  {
+    "id": "here:pds:place:704jx7ps-f57a685375430678c0e2c6982f653261",
+    "name": "Cafe-Giải Khát Thanh Bình, 152 Đường Trần Huy Liệu, Phường 15, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79802,
+    "lng": 106.67769
+  },
+  {
+    "id": "here:pds:place:704w3gv7-6992d804169642b080d0aa523d2db127",
+    "name": "Cơm Gà Xối Mỡ Dách Lòu, 13 Đường Đỗ Tấn Phong, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79996,
+    "lng": 106.67745
+  },
+  {
+    "id": "here:pds:place:704aabd1-7d1bfcf159f20262c2a5b42d8ee1cb42",
+    "name": "Bánh Mì Thanh Hằng, 360 Đường Bạch Đằng, Phường 2, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8031,
+    "lng": 106.6994
+  },
+  {
+    "id": "here:pds:place:704jx7ps-154155f2210906d2d7c533ff16b048c1",
+    "name": "Phở Miến-Căn Tin Số 4 Phan Đăng Lưu, Đường Phan Đăng Lưu, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80236,
+    "lng": 106.69773
+  },
+  {
+    "id": "here:pds:place:704w3gvk-81596048215e448389bd076b01bbd5e9",
+    "name": "Cơm Tấm Sang, 27 Đường Võ Trường Toản, Phường 2, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80234,
+    "lng": 106.69997
+  },
+  {
+    "id": "here:pds:place:704w3gv7-9987504bb73380d791a9178093cd9290",
+    "name": "Gà Ác Tiềm Thuốc Bắc, 95 Đường Huỳnh Đình Hai, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80398,
+    "lng": 106.69834
+  },
+  {
+    "id": "here:pds:place:704w3gv7-65dd533c9ec14bae8cec727192554295",
+    "name": "Quán Bánh Canh Cua, Đường Vũ Tùng, Phường 1, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80095,
+    "lng": 106.69848
+  },
+  {
+    "id": "here:pds:place:704w3gvk-dfeb18795760dfea66e0c76ff63b35bb",
+    "name": "Tí Bán Bột Chiên, 27 Đường Vũ Tùng, Phường 2, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80129,
+    "lng": 106.69976
+  },
+  {
+    "id": "here:pds:place:704w3gvk-a070d587c93946619d2a6d105ea918d4",
+    "name": "Quán Phở Phan Bội Châu, 17 Đường Phan Bội Châu, Phường 2, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80322,
+    "lng": 106.70036
+  },
+  {
+    "id": "here:pds:place:704w3gv7-84d7304eaa3835c4c5046f208e925ffc",
+    "name": "Krua Thái, 42 Đường Huỳnh Đình Hai, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8043,
+    "lng": 106.6992
+  },
+  {
+    "id": "here:pds:place:704w3gvk-7cfab49033ba4e2a9e6be1f9a73e7dbc",
+    "name": "Hủ Tíu Mì Chay, 68 Đường Vũ Tùng, Phường 2, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80173,
+    "lng": 106.70067
+  },
+  {
+    "id": "here:pds:place:704w3gvk-fc258d35399e2192de1aa9cca478dc9c",
+    "name": "Hoa Viên Quán, Đường Bùi Hữu Nghĩa, Phường 1, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80044,
+    "lng": 106.69941
+  },
+  {
+    "id": "here:pds:place:704w3gv7-284a6606d2c54ded8b651b2aae69ee85",
+    "name": "Quán Cơm Restaurant Thanh Bạch, 8 Đường Vũ Tùng, Phường 1, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80065,
+    "lng": 106.69702
+  },
+  {
+    "id": "here:pds:place:704w3gv7-de1ca497d00b4428ad7689e5355ee1a2",
+    "name": "Cơm Ngon Rẻ, Đường Đinh Tiên Hoàng, Phường 3, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80147,
+    "lng": 106.69631
+  },
+  {
+    "id": "here:pds:place:704w3gv7-f89a5545f0c1abcd022b189f56083a21",
+    "name": "An Yên Bánh Canh Cá Lóc Bánh Canh Ghẹ, 140 Đường Lê Văn Sỹ, Phường 13, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79205,
+    "lng": 106.67136
+  },
+  {
+    "id": "here:pds:place:704w3gv7-12b0df7e0c15e3ecccd2c736acba4795",
+    "name": "HKD Lang Thang Rooftop, 240 Đường Nguyễn Đình Chính, Phường 11, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79247,
+    "lng": 106.67294
+  },
+  {
+    "id": "here:pds:place:704w3gv7-7b9dee45248e481ab27beadc908f0d2f",
+    "name": "Cháo Sườn, Hẻm 86 Đường Trần Hữu Trang, Phường 10, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79279,
+    "lng": 106.67189
+  },
+  {
+    "id": "here:pds:place:704w3gv7-6717738ce1a4402b918321476b5ae42f",
+    "name": "Sushi Masa, 70 Hẻm 63 Lê Văn Sỹ, Phường 13, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79093,
+    "lng": 106.67289
+  },
+  {
+    "id": "here:pds:place:704w3gv7-9bf0801f55bbfe26066db9e9ca698ccf",
+    "name": "Thảo 103, Đường Trần Hữu Trang, Phường 10, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79347,
+    "lng": 106.67249
+  },
+  {
+    "id": "here:pds:place:704w3gv7-20bd6aed3628eef05ce853d4a09fe128",
+    "name": "Phở Nam Viên, Hẻm 115 Lê Văn Sỹ, Phường 13, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79036,
+    "lng": 106.67136
+  },
+  {
+    "id": "here:pds:place:704w3gv7-bab3758994b24cc7ab30f53dd68b1377",
+    "name": "Bánh Cuốn Hương Nam, 180A Đường Lê Văn Sỹ, Phường 13, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79261,
+    "lng": 106.67061
+  },
+  {
+    "id": "here:pds:place:704w3gv7-b0bab74a10134761bf6019619fdefb2e",
+    "name": "Bò Lá Lốt 347, Hẻm 347 Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79124,
+    "lng": 106.67401
+  },
+  {
+    "id": "here:pds:place:704jx7ps-a8ddd715d15904f14ca110cc2a83fc44",
+    "name": "Củ Hành Tây, 386 Đường Huỳnh Văn Bánh, Phường 13, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79173,
+    "lng": 106.67006
+  },
+  {
+    "id": "here:pds:place:704w3gv7-53228f77d17b4593a74bc98dbbd6d2a4",
+    "name": "Mì Nui Phở Xào Bò 25K, Đường Lê Văn Sỹ, Phường 14, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79017,
+    "lng": 106.6737
+  },
+  {
+    "id": "here:pds:place:704w3gv7-03272bdc737643c4833053247022adef",
+    "name": "Bánh Mì Bít Tết Lệ Hồng, 489/27/39 Hẻm 489/27 Huỳnh Văn Bánh, Phường 13, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79052,
+    "lng": 106.67033
+  },
+  {
+    "id": "here:pds:place:704w3gv7-668a3b35576957c6cf1c77d4b08bad0f",
+    "name": "Saigon Samgyetang - Gà Hầm Sâm Korea, Hẻm 48 Hồ Biểu Chánh, Phường 11, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79288,
+    "lng": 106.67463
+  },
+  {
+    "id": "here:pds:place:704w3gv7-938d6262edacf0646167d3888c8533ca",
+    "name": "Quán Chay 62, Hẻm 384 Đường Nam Kỳ Khởi Nghĩa, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79131,
+    "lng": 106.6827
+  },
+  {
+    "id": "here:pds:place:704w3gv7-eaea7615351e43859cd21f892eaaef96",
+    "name": "Bò Né Bà Xã, Đường Trường Sa, Phường 17, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79238,
+    "lng": 106.68248
+  },
+  {
+    "id": "here:pds:place:704w3gv7-5a8543f91782c2d18d2f3539198a9104",
+    "name": "Quán Lẩu Gà Lá É Phú Yên, Hẻm 108 Trần Quang Diệu, Phường 11, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79099,
+    "lng": 106.68108
+  },
+  {
+    "id": "here:pds:place:704w3gv7-336691d054e1479d900b617d0cabedc2",
+    "name": "Mama Chefs House, Đường Nguyễn Văn Trỗi, Phường 11, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79248,
+    "lng": 106.6812
+  },
+  {
+    "id": "here:pds:place:704w3gv7-99b6065a4ec841b5825957f622b61d41",
+    "name": "Bún Bò O Ty Tràng Tiền, Hẻm 82 Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79198,
+    "lng": 106.68341
+  },
+  {
+    "id": "here:pds:place:704jx7ps-1413b08b16a5082aeb79906222583053",
+    "name": "Nhà Hàng Vương Quốc Tôm, Đường Lê Quý Đôn, Phường 11, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79137,
+    "lng": 106.68016
+  },
+  {
+    "id": "here:pds:place:704w3gv7-fba124e05e32c8e47b23d8bb5e0b5d87",
+    "name": "Chill Day Lẩu & Nướng, Đường Trường Sa, Phường 14, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79007,
+    "lng": 106.68107
+  },
+  {
+    "id": "here:pds:place:7041r4ve-c7bd3bc386a408656a8d5d8d7ce27d87",
+    "name": "Phở Cô Uyên, 8 Hẻm 380 Nam Kỳ Khởi Nghĩa, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79104,
+    "lng": 106.68366
+  },
+  {
+    "id": "here:pds:place:704jx7ps-2032f838ed0b03bd664b647b371646eb",
+    "name": "Khoi Thom, Đường Ngô Thời Nhiệm, Phường 17, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79304,
+    "lng": 106.68332
+  },
+  {
+    "id": "here:pds:place:704w3gv7-385a412290d1fa8978e354cc0abbd60a",
+    "name": "Steak Bin & Pc, Đường Nguyễn Văn Trỗi, Phường 11, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79278,
+    "lng": 106.68012
+  },
+  {
+    "id": "here:pds:place:704w3gv5-a4c383b009cec680cebabe1917d8acb2",
+    "name": "Hotpotstory Caothangq3, Hẻm 70 Đường Cao Thắng, Phường 17, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79366,
+    "lng": 106.68237
+  },
+  {
+    "id": "here:pds:place:704w3gv7-098b61359aaeab7dc534d67234f2adde",
+    "name": "Bơ Nàng Rose, Đường Hoàng Sa, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78953,
+    "lng": 106.68184
+  },
+  {
+    "id": "here:pds:place:704w3gv7-295a6c108525d6d44321a92c79b01ef6",
+    "name": "Qua Sam Café & Nhà Hàng Hàn Quốc, 136 Đường Phổ Quang, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8083,
+    "lng": 106.67206
+  },
+  {
+    "id": "here:pds:place:704w3gv7-49e63acaeded3c80c0f240ea399e9d72",
+    "name": "Doanh Nghiệp Tư Nhân Khách Sạn - Nhà Hàng Văn Khang, 168 Đường Đào Duy Anh, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80801,
+    "lng": 106.67426
+  },
+  {
+    "id": "here:pds:place:704w3gv7-ef3cf046a619de9bb398eaa926bdd08d",
+    "name": "Dk Bbq Hotpot Buffet, Đường Hồng Hà, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80944,
+    "lng": 106.67322
+  },
+  {
+    "id": "here:pds:place:704w3gv7-efc964d672254ce74104e88bab21e341",
+    "name": "Phở Bò Tái-Hủ Tiếu Bò, Đường Hồng Hà, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80859,
+    "lng": 106.67504
+  },
+  {
+    "id": "here:pds:place:704w3gv7-b6313011d5af4b90fc8d8849cbde7d24",
+    "name": "Gà Rán Cơm Gà Hachi, Hẻm 108 Đường Đào Duy Anh, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80743,
+    "lng": 106.67514
+  },
+  {
+    "id": "here:pds:place:704w3gv7-7c3a370801fa33e404dbc299f2ee55fa",
+    "name": "Quê Tôi Quán, 110 Đường Phổ Quang, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80862,
+    "lng": 106.67108
+  },
+  {
+    "id": "here:pds:place:704w3gv7-14cb39d22ba9488d9bf3c76bdebe147c",
+    "name": "Cơm Bình Dân Công Viên Gia Định, Đường Hoàng Minh Giám, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80964,
+    "lng": 106.67484
+  },
+  {
+    "id": "here:pds:place:704httek-3d32a773ba34057673360a1a5a0e1250",
+    "name": "Nhà Hàng Hoa Viên Tri Kỷ, 6/8 Đường Hồng Hà, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81029,
+    "lng": 106.67239
+  },
+  {
+    "id": "here:pds:place:704w3gv7-a2be5acb614a0e19aeaaa791457d1913",
+    "name": "Phở Hà Nội, 116B Đường Hồng Hà, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80987,
+    "lng": 106.67083
+  },
+  {
+    "id": "here:pds:place:704w3gv7-faea92af561902f01d39f3fae4707114",
+    "name": "Cơm Trưa, Đường Đào Duy Anh, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80668,
+    "lng": 106.6763
+  },
+  {
+    "id": "here:pds:place:704w3gv7-29890e3f9617e274fac1fed7907f2baf",
+    "name": "Cháo Lòng Bình Dân, Đường Bùi Văn Thêm, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8091,
+    "lng": 106.6765
+  },
+  {
+    "id": "here:pds:place:704w3gv7-920de2525497481cc450d0a4a80ef349",
+    "name": "Ốc Liên Phổ Quang, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80868,
+    "lng": 106.6695
+  },
+  {
+    "id": "here:pds:place:704w3gv7-7384d463d3ab4291beca4d2c096d60ce",
+    "name": "Canh Bún Hẻm 64, Đường Lê Quang Định, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80416,
+    "lng": 106.69817
+  },
+  {
+    "id": "here:pds:place:704aabd1-7d1bfcf159f20262c2a5b42d8ee1cb42",
+    "name": "Bánh Mì Thanh Hằng, 360 Đường Bạch Đằng, Phường 2, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8031,
+    "lng": 106.6994
+  },
+  {
+    "id": "here:pds:place:704jx7ps-154155f2210906d2d7c533ff16b048c1",
+    "name": "Phở Miến-Căn Tin Số 4 Phan Đăng Lưu, Đường Phan Đăng Lưu, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80236,
+    "lng": 106.69773
+  },
+  {
+    "id": "here:pds:place:704w3gv7-4305be2cfae4af249438be34bfa82ae0",
+    "name": "Lẩu & Nướng, Đường Huỳnh Đình Hai, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80419,
+    "lng": 106.69915
+  },
+  {
+    "id": "here:pds:place:704w3gvk-81596048215e448389bd076b01bbd5e9",
+    "name": "Cơm Tấm Sang, 27 Đường Võ Trường Toản, Phường 2, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80234,
+    "lng": 106.69997
+  },
+  {
+    "id": "here:pds:place:704w3gvk-a070d587c93946619d2a6d105ea918d4",
+    "name": "Quán Phở Phan Bội Châu, 17 Đường Phan Bội Châu, Phường 2, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80322,
+    "lng": 106.70036
+  },
+  {
+    "id": "here:pds:place:704w3gv7-38de34e0eb4e31e1532d54b4d14d1894",
+    "name": "Hủ Tiếu Trà Vinh, 88 Đường Trần Văn Kỷ, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80424,
+    "lng": 106.69662
+  },
+  {
+    "id": "here:pds:place:704d408k-d1f55cf46b6905f40aa50cba5ff349e7",
+    "name": "Ốc Béo, Hẻm 9 Nguyễn Thiện Thuật, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80531,
+    "lng": 106.69865
+  },
+  {
+    "id": "here:pds:place:704w3gv7-65dd533c9ec14bae8cec727192554295",
+    "name": "Quán Bánh Canh Cua, Đường Vũ Tùng, Phường 1, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80095,
+    "lng": 106.69848
+  },
+  {
+    "id": "here:pds:place:704w3gvk-dfeb18795760dfea66e0c76ff63b35bb",
+    "name": "Tí Bán Bột Chiên, 27 Đường Vũ Tùng, Phường 2, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80129,
+    "lng": 106.69976
+  },
+  {
+    "id": "here:pds:place:704w3gvk-abaa4e5012efd6288d0a06c3e9704638",
+    "name": "Tiệm Ăn Gặm, 10 Hẻm 8 Nguyễn Thiện Thuật, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80537,
+    "lng": 106.69966
+  },
+  {
+    "id": "here:pds:place:704w3gvk-df82f21a1cf842ceaa23a8b6802989d7",
+    "name": "Quán Ăn Thiên Ân, 21 Đường Huỳnh Đình Hai, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80455,
+    "lng": 106.70058
+  },
+  {
+    "id": "here:pds:place:704w3gvk-fc546912ed693083e4b3cbe4268f5bac",
+    "name": "Cơm Trưa Bình Dân, Đường Bùi Đình Tuý, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80868,
+    "lng": 106.70394
+  },
+  {
+    "id": "here:pds:place:704w3gvk-38cba3150e993cec739edb2a75deb2a1",
+    "name": "Xuống Phố, 216 Đường Bùi Đình Túy, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8078,
+    "lng": 106.70241
+  },
+  {
+    "id": "here:pds:place:704jx7ps-f92e1450a11a0a4c300e0e5127520f13",
+    "name": "Cơm Gà Xối Mỡ A Kón, 143 Đường Bùi Đình Túy, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80791,
+    "lng": 106.70483
+  },
+  {
+    "id": "here:pds:place:704w3gvk-d9fcb2014aadc170cb2d257401a18c0c",
+    "name": "Trâm Cơm Chiên Mì Xào, Đường Bùi Đình Túy, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80752,
+    "lng": 106.70152
+  },
+  {
+    "id": "here:pds:place:704w3gvk-1d38f1b7cbb2432aa82cd407e1611b65",
+    "name": "Bò Né 3 Ngon, 88 Đường Bùi Đình Túy, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80811,
+    "lng": 106.706
+  },
+  {
+    "id": "here:pds:place:704w3gvk-fd6ee1ea957d4e34a8b240d48aff16d8",
+    "name": "Tôn Nữ, Hẻm 125 Bùi Đình Túy, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80602,
+    "lng": 106.70544
+  },
+  {
+    "id": "here:pds:place:704w3gvk-78e86a54e1a54b9b95a9e9ab810aa54b",
+    "name": "Phở An, Đường Ngô Đức Kế, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80863,
+    "lng": 106.70082
+  },
+  {
+    "id": "here:pds:place:704w3gvk-aa0c91bea9d842df83abf7e17d4081ef",
+    "name": "Shanty, Hẻm 60 Đường Phan Chu Trinh, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80528,
+    "lng": 106.70222
+  },
+  {
+    "id": "here:pds:place:704w3gvs-6d839e192da842299d7cbc92fbed04d0",
+    "name": "Long Monaco, Đường Chu Văn An, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81074,
+    "lng": 106.70306
+  },
+  {
+    "id": "here:pds:place:704w3gvk-33919d045d4098e1e5ce1c49bfc9ce9d",
+    "name": "Cơm Cây Phượng, 274 Đường Bùi Đình Túy, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80758,
+    "lng": 106.70044
+  },
+  {
+    "id": "here:pds:place:704w3gvk-803d2dfd57f37dfe83acf63b1094a3cc",
+    "name": "Thực Phẩm Sạch Trúc Linh, Đường Huỳnh Đình Hai, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8058,
+    "lng": 106.70118
+  },
+  {
+    "id": "here:pds:place:704w3gvs-99c10562f67e89ac60110df4a0cde748",
+    "name": "Phở Bắc Hải - Hà Nội, 12 Đường Chu Văn An, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81097,
+    "lng": 106.70445
+  },
+  {
+    "id": "here:pds:place:704w3gvs-087bb369e1235ce190d3de0d5b816fb4",
+    "name": "Bánh Mướt Nghệ An, Hẻm 201 Nguyễn Xí, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81477,
+    "lng": 106.70707
+  },
+  {
+    "id": "here:pds:place:704w3gvs-fc4820a66ba3e582df124b9fcc3ed986",
+    "name": "Phố Hải Sản Quy Nhơn, 84 Hẻm 333 Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81456,
+    "lng": 106.70926
+  },
+  {
+    "id": "here:pds:place:704w3gvs-4b2794335d704115b20ed1fe1dd17d8b",
+    "name": "Mì Quảng 04, 8 Đường Nguyễn Xí, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81352,
+    "lng": 106.70857
+  },
+  {
+    "id": "here:pds:place:704w3gvk-39afbb1a134c4112befd6990c80b5280",
+    "name": "Nhà Hàng Kần Kẩu, Hẻm 367 Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81541,
+    "lng": 106.71015
+  },
+  {
+    "id": "here:pds:place:704w3gvs-b8a00a315f424713ff63622db4efed81",
+    "name": "Khánh, Đường Số 4, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81278,
+    "lng": 106.70795
+  },
+  {
+    "id": "here:pds:place:704w3gvs-570abb0f3de245f7a357ab7f6b0cde77",
+    "name": "Quán Moon, Hẻm 184/1 Nguyễn Xí, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81671,
+    "lng": 106.70656
+  },
+  {
+    "id": "here:pds:place:704w3gvs-39e14d9e43254e6fb84346e5ccd4f0d0",
+    "name": "Bibo Quán, 303 Đường Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8129,
+    "lng": 106.70934
+  },
+  {
+    "id": "here:pds:place:704w3gvs-6b7c6d3f1fdbcf9e8dc50e9404dc8f48",
+    "name": "Bún Bắp Bò O Hoa, Đường Số 14, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8134,
+    "lng": 106.70558
+  },
+  {
+    "id": "here:pds:place:704w3gvs-14e1f6a6dd0f49ea98f52d0e0ad802ea",
+    "name": "Cơm Tấm Cô Vy, Đường Số 8, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81228,
+    "lng": 106.70682
+  },
+  {
+    "id": "here:pds:place:704w3gvs-2d1c843d94b246da8f2da25ab1a2baa6",
+    "name": "Quán Ăn Bình Dân Hồng Hoa, Đường Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81648,
+    "lng": 106.71097
+  },
+  {
+    "id": "here:pds:place:704w3gvs-3db1686cc6427da605f06f7a605b227d",
+    "name": "Nhà Hàng Văn Lộc, Đường Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81194,
+    "lng": 106.70903
+  },
+  {
+    "id": "here:pds:place:704w3gvs-30309dfba6b58f1283f9c83f737ccccb",
+    "name": "Hủ Tiếu Anh Tâm, 44 Đường Số 4, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81182,
+    "lng": 106.70771
+  },
+  {
+    "id": "here:pds:place:704w3gvs-3f5aae3a5fcac90beb7826a13acc64ea",
+    "name": "Bia Tươi Bay, 245A Đường Nguyễn Xí, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81928,
+    "lng": 106.70424
+  },
+  {
+    "id": "here:pds:place:704w3gvs-a9c303740a6e46d59c92d80b2c5f0fdd",
+    "name": "O Tý Bún Bò Huế, 484 Hẻm 482 Đường Nơ Trang Long, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82052,
+    "lng": 106.70483
+  },
+  {
+    "id": "here:pds:place:704w3gvs-193fa70b96c9cd73480035724a14b216",
+    "name": "Hải Sản Khổng Lồ, Hẻm 295 Đường Nguyễn Xí, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82106,
+    "lng": 106.7036
+  },
+  {
+    "id": "here:pds:place:704w3gvs-c53b0519c25e6bbbfbcb2c7ea7c2c92a",
+    "name": "Lounge Food Garden, 365 Đường Nơ Trang Long, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81963,
+    "lng": 106.70295
+  },
+  {
+    "id": "here:pds:place:704w3gvs-b5ed0ff9e4064ff5bd624abb8bb32c27",
+    "name": "Ẩm Thực, 223 Đường Nguyễn Xí, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81842,
+    "lng": 106.7047
+  },
+  {
+    "id": "here:pds:place:704jx7ps-e24c97607c180ddf6058a70f78fec0fe",
+    "name": "Cháo Gỏi Vịt Đồng Quê, 406 Đường Nơ Trang Long, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81915,
+    "lng": 106.70216
+  },
+  {
+    "id": "here:pds:place:704httek-f560ff83ebf1089d3d2347c198f1f1a4",
+    "name": "Vero Coffee - Nơ Trang Long, 351 Đường Nơ Trang Long, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82164,
+    "lng": 106.70589
+  },
+  {
+    "id": "here:pds:place:704w3gvs-74af6276974945b08f5397f45a43a0d8",
+    "name": "Quán Cafe, Hẻm 351 Đường Nơ Trang Long, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82128,
+    "lng": 106.70168
+  },
+  {
+    "id": "here:pds:place:704w3gvs-ced98ecebe81841066f83e5138e02b4b",
+    "name": "Phở Hiếu, Hẻm 445 Nơ Trang Long, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82251,
+    "lng": 106.70519
+  },
+  {
+    "id": "here:pds:place:704jx7ps-208ae42165040c3c153d1949b3b34f24",
+    "name": "Mì Quảng, 211 Đường Nguyễn Xí, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81776,
+    "lng": 106.70533
+  },
+  {
+    "id": "here:pds:place:704w3gvs-36563c72fe733626013fa1366719b7b5",
+    "name": "Quán Cóc 538, 538 Đường Phạm Văn Đồng, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82285,
+    "lng": 106.70351
+  },
+  {
+    "id": "here:pds:place:704httek-b9db78777d3204ebcc748414b49b3081",
+    "name": "Lẩu Nướng Thái Lan 80K, 522 Phạm Văn Đồng, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82249,
+    "lng": 106.70232
+  },
+  {
+    "id": "here:pds:place:704w3gv7-276e3636709bac8b294c3f7c84a49600",
+    "name": "Bún Thịt Nướng 25K, Hẻm 139 Đường Nguyễn Thượng Hiền, Phường 6, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80887,
+    "lng": 106.68427
+  },
+  {
+    "id": "here:pds:place:704w3gve-758454324a4ee68f9c12793a2ef3239e",
+    "name": "Cháo Ếch Singapore, 1 Đường Nguyễn Thượng Hiền, Phường 5, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81076,
+    "lng": 106.68524
+  },
+  {
+    "id": "here:pds:place:704w3gv7-e771c44c33fe4872ab39430dea2cceb2",
+    "name": "Cơm Văn Phòng Phúc Thiện, 193 Đường Hoàng Hoa Thám, Phường 5, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80913,
+    "lng": 106.68545
+  },
+  {
+    "id": "here:pds:place:704w3gve-53e32f78749246be9e9a808a4a178e94",
+    "name": "Bún Bò Út Hạnh, Hẻm 5 Trương Đăng Quế, Phường 1, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81137,
+    "lng": 106.68277
+  },
+  {
+    "id": "here:pds:place:704w3gv7-4d12e16e46e8056f27b9656e272b6dc6",
+    "name": "Xôi Chè, Hẻm 153/15 Nguyễn Thượng Hiền, Phường 6, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80801,
+    "lng": 106.68498
+  },
+  {
+    "id": "here:pds:place:704w3gv7-26cbb65d34fd764e101f7bcf560b9c7f",
+    "name": "Ốc 82, Hẻm 100 Thích Quảng Đức, Phường 5, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80783,
+    "lng": 106.68292
+  },
+  {
+    "id": "here:pds:place:704w3gv7-1ab726f92b446fa1a200d73416568a63",
+    "name": "Uyên Linh Bún Chả Giò, Hẻm 220 Hoàng Hoa Thám, Phường 5, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80992,
+    "lng": 106.68634
+  },
+  {
+    "id": "here:pds:place:704w3gve-012606ddb8c3563a5015f18ae8e46962",
+    "name": "Bún Thố, Đường Nguyễn Thượng Hiền, Phường 5, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81207,
+    "lng": 106.68558
+  },
+  {
+    "id": "here:pds:place:704w3gv7-01fd646765e7bcf160b2ec00bad8b268",
+    "name": "Cơm Gà 185, Hẻm 2A Đường Hoàng Hoa Thám, Phường 5, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8089,
+    "lng": 106.68655
+  },
+  {
+    "id": "here:pds:place:704w3gve-95ee93d7fb66c17a4b832ae6ec56de62",
+    "name": "Bún Măng Vịt, Hẻm 57 Trương Đăng Quế, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81261,
+    "lng": 106.68313
+  },
+  {
+    "id": "here:pds:place:704w3gve-941d6460dda740beb6de850cc42c4b93",
+    "name": "Ốc Liên, Đường Số 7, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81153,
+    "lng": 106.68141
+  },
+  {
+    "id": "here:pds:place:704w3gv7-e530c0cebb5f45cbabc3b14afc505bb1",
+    "name": "Hải Sản Đảo, Hẻm 286 Đường Nguyễn Thượng Hiền, Phường 5, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80671,
+    "lng": 106.68408
+  },
+  {
+    "id": "here:pds:place:704w3gv7-4b17e32e88e84dae9d7776e95dadfbfc",
+    "name": "Tiệm Vịt Quay Thanh Xuân, 225-227 Đường Đinh Tiên Hoàng, Phường Tân Định, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.7926,
+    "lng": 106.69575
+  },
+  {
+    "id": "here:pds:place:704jx7ps-28c3bf089e3109aa59e7ae7cc7a11d00",
+    "name": "Beefsteak American Napoleon, 14 Đường Lê Văn Duyệt, Phường 3, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79442,
+    "lng": 106.69618
+  },
+  {
+    "id": "here:pds:place:704xjxn4-4955213cfef0012b3ea810f8b1b4ed8e",
+    "name": "Quán Tùng 33 Lẩu Gà Tre, Đường Hoàng Sa, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79321,
+    "lng": 106.69697
+  },
+  {
+    "id": "here:pds:place:704w3gv7-79df40cfe5b44ca0b2a77520d7a669b4",
+    "name": "Sữa Hạt Dinh Dưỡng Mhouse, Đường Trường Sa, Phường 3, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79407,
+    "lng": 106.695
+  },
+  {
+    "id": "here:pds:place:704w3gv7-f48321fa16f1a9bca96e30d8bd8d3121",
+    "name": "Lẩu Gà Đá Sơn Ka, 131 Đường Hoàng Sa, Phường Tân Định, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79298,
+    "lng": 106.69464
+  },
+  {
+    "id": "here:pds:place:704w3gv7-d0132f8fe45d4f8c9f9b6ca3f1acbad0",
+    "name": "Quan Ăn Thanh Binh, Hẻm 26 Lê Văn Duyệt, Phường 1, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79414,
+    "lng": 106.69725
+  },
+  {
+    "id": "here:pds:place:704jx7ps-df189989b1550c69303aa2a073131a45",
+    "name": "Nhà Hàng Sao, 12 Đường Nguyễn Văn Giai, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79223,
+    "lng": 106.69715
+  },
+  {
+    "id": "here:pds:place:704w3gv7-8d3d6381926a4bfebde5ebd97e6fc24b",
+    "name": "Sương Bay Thiên Trang, 153A Đường Hoàng Sa, Phường Tân Định, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79391,
+    "lng": 106.69406
+  },
+  {
+    "id": "here:pds:place:704w3gv7-5d61019d7e22a70a93847c23d8d6ff2d",
+    "name": "Discovery Corners Coff, 6 Đường Võ Thị Sáu, Phường Tân Định, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79161,
+    "lng": 106.6956
+  },
+  {
+    "id": "here:pds:place:704cpf7c-0c37167991bb0068ca759ef81025a889",
+    "name": "Nhà Hàng Năm Chín, 59 Đường Lê Văn Duyệt, Phường 3, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79544,
+    "lng": 106.696
+  },
+  {
+    "id": "here:pds:place:704w3gvk-6cf33262382fab70ea02ea594802b22c",
+    "name": "Quán Phong Mập, 142 Đường Phan Văn Hân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79388,
+    "lng": 106.70589
+  },
+  {
+    "id": "here:pds:place:704w3gvk-9520ec8257114933a6d47d0bfbefa2af",
+    "name": "Bánh Bột Lọc Buôn Mê, 170 Đường Phan Văn Hân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79414,
+    "lng": 106.70489
+  },
+  {
+    "id": "here:pds:place:704w3gvk-7dbf7446ab0c2c181f4709533fb24279",
+    "name": "Lẩu Dê - Hải Sản, Đường Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79471,
+    "lng": 106.70663
+  },
+  {
+    "id": "here:pds:place:704w3gvk-6a5d51c5d663fd35ba121c8509e1d949",
+    "name": "Jury Bistro Food & Drink, Hẻm 125 Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79574,
+    "lng": 106.70538
+  },
+  {
+    "id": "here:pds:place:704w3gvk-da04ee42f39b469c85cc668183922e96",
+    "name": "Miss Roses Garden Company Limited, 97 Đường Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.7959,
+    "lng": 106.7066
+  },
+  {
+    "id": "here:pds:place:704w3gvk-91738db0b56cbc4b2965e7f844276f4c",
+    "name": "Gâu Food, Đường Điện Biên Phủ, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.7951,
+    "lng": 106.70398
+  },
+  {
+    "id": "here:pds:place:704w3gvk-f9c68af603fd23903254bb820f1ffd64",
+    "name": "Ốc Ký Sỉ&Lẻ, Đường Phan Văn Hân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79411,
+    "lng": 106.70384
+  },
+  {
+    "id": "here:pds:place:704w3gvk-68707d513cec4d16addc159845cd5fbb",
+    "name": "Quán Bé Mèo, Hẻm 75 Đường Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79563,
+    "lng": 106.70748
+  },
+  {
+    "id": "here:pds:place:704w3gvk-c5b54d66642f84f3021cb2ac42a1aab2",
+    "name": "Min Max, Đường Trường Sa, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79294,
+    "lng": 106.70466
+  },
+  {
+    "id": "here:pds:place:704w3gvk-b61f03bd0c9771fe0619ccf5877c6816",
+    "name": "Hạnh Duyên Quán, Đường Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79682,
+    "lng": 106.70512
+  },
+  {
+    "id": "here:pds:place:704jx7ps-13893cb485740283164aed14e7f93ecc",
+    "name": "Hủ Tíu Nam Vang 154, 154 Đường Điện Biên Phủ, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79662,
+    "lng": 106.70397
+  },
+  {
+    "id": "here:pds:place:704jx7ps-e506c4dce0370f39dae4c6d0e8a8ef49",
+    "name": "Mộc Quán, Đường Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79276,
+    "lng": 106.70713
   }
 ]

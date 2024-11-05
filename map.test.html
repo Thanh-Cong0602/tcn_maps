@@ -39,20 +39,17 @@
     var behavior = new H.mapevents.Behavior(mapEvents);
     var ui = H.ui.UI.createDefault(map, defaultLayers);
 
-    fetch('./filteredPoints.json')
+   fetch('./filteredPoints.json')
       .then(response => response.json())
       .then(data => {
-        var points = [];
+        // Duyệt qua từng điểm trong mảng dữ liệu
+        data.forEach(function (point) {
+          // Tạo biểu tượng với kích thước tùy chỉnh
+          var icon = new H.map.Icon('./dot.png', { size: { w: 24, h: 36 } });
 
-        // Lấy các điểm từ file JSON
-        data.forEach(location => {
-          location.randomPoints.forEach(point => {
-            points.push(point);
-          });
-        });
+          console.log(point); // Kiểm tra thông tin của điểm
 
-       points.forEach(function (point) {
-          var icon = new H.map.Icon('./dot.png', { size: { w: 24, h: 36 } }); // Kích thước biểu tượng tùy chỉnh
+          // Tạo một marker và thêm vào bản đồ
           var marker = new H.map.Marker({ lat: point.lat, lng: point.lng }, { icon: icon });
           map.addObject(marker);
         });
