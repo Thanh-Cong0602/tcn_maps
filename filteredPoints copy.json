@@ -1,601 +1,5 @@
 [
   {
-    "id": "here:pds:place:704w3gv6-618598ff519f0451d66721c5d5ec3062",
-    "name": "Điểm Dừng Xe Buýt, Đường Trường Chinh, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
-    "lat": 10.7965,
-    "lng": 106.6464,
-    "distance": 663
-  },
-  {
-    "id": "here:pds:place:704w3gv7-e183881e704be7688b7f951725cfedde",
-    "name": "Điểm Dừng Xe Buýt, Đường Hoàng Văn Thụ, Phường 4, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
-    "lat": 10.7972,
-    "lng": 106.65736,
-    "distance": 711
-  },
-  {
-    "id": "here:pds:place:704w3gv6-7c01174a95c30946da3dd99addb7012b",
-    "name": "Playstation, 7 Đường Cách Mạng Tháng Tám, Phường 4, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79275,
-    "lng": 106.65877,
-    "distance": 767
-  },
-  {
-    "id": "here:pds:place:704w3gv6-37997f78bc5ca3c44d2fe92852f59957",
-    "name": "Điểm Dừng Xe Buýt, Đường Bàu Cát, Phường 14, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79312,
-    "lng": 106.64113,
-    "distance": 1171
-  },
-  {
-    "id": "here:pds:place:704w3gv7-df78ccb4211a299b0111a93c9748e15a",
-    "name": "Điểm Dừng Xe Buýt, Đường Trường Sa, Phường 3, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79172,
-    "lng": 106.66393,
-    "distance": 1342
-  },
-  {
-    "id": "here:pds:place:704w3gve-2de5597d2251feb03546576bc31aeb81",
-    "name": "Trạm Xe Bus, Đường Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81426,
-    "lng": 106.66907,
-    "distance": 572
-  },
-  {
-    "id": "here:pds:place:704jx7ps-96d8b7d31d0b04d6f400d80fa58f0a20",
-    "name": "Nhà Khách Tân Sơn Nhất 2, Đường Phổ Quang, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80611,
-    "lng": 106.66817,
-    "distance": 1176
-  },
-  {
-    "id": "here:pds:place:704w3gve-0d573298c3e27257a278790787b7ba52",
-    "name": "Công Ty Cổ Phần Onese, Đường Bạch Đằng, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81499,
-    "lng": 106.67593,
-    "distance": 1295
-  },
-  {
-    "id": "here:pds:place:704w3gve-35de2a0ee015553f802c8cbdd2a2079e",
-    "name": "Điểm Dừng Xe Buýt, 3 Đường Nguyễn Thái Sơn, Phường 4, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81928,
-    "lng": 106.68241,
-    "distance": 2034
-  },
-  {
-    "id": "here:pds:place:704w3gve-7b512c1eb15d4c0dada4d0b096a500a2",
-    "name": "Thanh Thúc, Đường Quang Trung, Phường 10, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
-    "lat": 10.83439,
-    "lng": 106.66465,
-    "distance": 2056
-  },
-  {
-    "id": "here:pds:place:704w3gvk-9acc5565fbb41b073de4f1854096b8d2",
-    "name": "Điểm Dừng Xe Buýt, Đường Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80755,
-    "lng": 106.7092,
-    "distance": 730
-  },
-  {
-    "id": "here:pds:place:704w3gvk-a588c811792bc3a8cf854019d318d0e9",
-    "name": "Trạm Dừng Xe Buýt, Đường Nguyễn Gia Trí, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80662,
-    "lng": 106.71612,
-    "distance": 773
-  },
-  {
-    "id": "here:pds:place:704w3gvk-171915d064962b63123abfe3c6f3c511",
-    "name": "Điểm Dừng Xe Buýt-Bus Stop Trường Khiếm Thính Hy Vọng, Đường Nguyễn Văn Lạc, Phường 19, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79442,
-    "lng": 106.70962,
-    "distance": 800
-  },
-  {
-    "id": "here:pds:place:704w3gvk-dadb192e8a6b4ddfa403af83519bf393",
-    "name": "Điểm Dừng Xe Buýt, 296 Đường Điện Biên Phủ, Phường 22, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79844,
-    "lng": 106.71934,
-    "distance": 920
-  },
-  {
-    "id": "here:pds:place:704w3gvk-e8a2df5e892e6d2a0c3da5e1ab8fe79d",
-    "name": "Điểm Dừng Xe Buýt, Đường Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80537,
-    "lng": 106.72093,
-    "distance": 1124
-  },
-  {
-    "id": "here:pds:place:704w3gv7-9c69585c1d4e28f7c80d5222f7fd18c6",
-    "name": "Điểm Dừng Xe Buýt, Đường Võ Thị Sáu, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
-    "lat": 10.78676,
-    "lng": 106.69078,
-    "distance": 668
-  },
-  {
-    "id": "here:pds:place:704jx7ps-edce3ee4d04a0f411b04d2d734d48b64",
-    "name": "Trạm Xe Buýt, Đường Điện Biên Phủ, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
-    "lat": 10.77706,
-    "lng": 106.68401,
-    "distance": 669
-  },
-  {
-    "id": "here:pds:place:704w3gv7-d45a6a5b0edbd892c5cdefa37b4e1bd9",
-    "name": "Điểm Dừng Xe Buýt, Đường Nam Kỳ Khởi Nghĩa, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
-    "lat": 10.78905,
-    "lng": 106.68481,
-    "distance": 958
-  },
-  {
-    "id": "here:pds:place:704jx7ps-86bb914642810786cf77cadd3e3d6b92",
-    "name": "Trạm Xe Buýt, 69 Đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
-    "lat": 10.77493,
-    "lng": 106.69845,
-    "distance": 1296
-  },
-  {
-    "id": "here:pds:place:704w3gv7-79d69e509e10c4a0a12970d5c13b6c10",
-    "name": "Bến Xe Buýt, Đường Cao Thắng, Phường 11, Quận 10, Hồ Chí Minh, Việt Nam",
-    "lat": 10.77352,
-    "lng": 106.67817,
-    "distance": 1411
-  },
-  {
-    "id": "here:pds:place:704w3gvs-73cfec54a83caaa7c6ec568c06e61f3b",
-    "name": "Trạm Dừng Xe Buýt, Quốc Lộ 13, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
-    "lat": 10.83288,
-    "lng": 106.71391,
-    "distance": 784
-  },
-  {
-    "id": "here:pds:place:704w3gvs-9ccdf126ca9eabc858cadd2f8a77260d",
-    "name": "Bến Xe Miền Đông Cổng 1, Đường Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81612,
-    "lng": 106.71073,
-    "distance": 1184
-  },
-  {
-    "id": "here:pds:place:704w3gvs-9131816dfdb9ae07b1a46338fbb2a590",
-    "name": "Trạm Xe Bus, Quốc Lộ 13, Phường Hiệp Bình Phước, Thủ Đức, Hồ Chí Minh, Việt Nam",
-    "lat": 10.83874,
-    "lng": 106.71485,
-    "distance": 1427
-  },
-  {
-    "id": "here:pds:place:704w3gvk-81820edd0192392cbea9d118268408b1",
-    "name": "Trạm Dừng Xe Buýt, Đường Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80978,
-    "lng": 106.7091,
-    "distance": 1905
-  },
-  {
-    "id": "here:pds:place:704w3gvk-fec90d45b33b647f6f019f4b05d33c33",
-    "name": "Điểm Dừng Xe Buýt, Đường Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80832,
-    "lng": 106.71449,
-    "distance": 1957
-  },
-  {
-    "id": "here:pds:place:704w3gve-35de2a0ee015553f802c8cbdd2a2079e",
-    "name": "Điểm Dừng Xe Buýt, 3 Đường Nguyễn Thái Sơn, Phường 4, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81928,
-    "lng": 106.68241,
-    "distance": 659
-  },
-  {
-    "id": "here:pds:place:704w3gve-2de5597d2251feb03546576bc31aeb81",
-    "name": "Trạm Xe Bus, Đường Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81426,
-    "lng": 106.66907,
-    "distance": 1082
-  },
-  {
-    "id": "here:pds:place:704w3gve-dc899f89b4491f45665262f630f280ab",
-    "name": "Điểm Dừng Xe Buýt, Đường Lê Quang Định, Phường 11, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81729,
-    "lng": 106.68902,
-    "distance": 1143
-  },
-  {
-    "id": "here:pds:place:704w3gve-ff1b1519702ec3a5a232f13e04794048",
-    "name": "Điểm Dừng Xe Buýt, 4 Đường Nguyễn Văn Nghi, Phường 5, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
-    "lat": 10.82281,
-    "lng": 106.68832,
-    "distance": 1384
-  },
-  {
-    "id": "here:pds:place:704jx7ps-96d8b7d31d0b04d6f400d80fa58f0a20",
-    "name": "Nhà Khách Tân Sơn Nhất 2, Đường Phổ Quang, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80611,
-    "lng": 106.66817,
-    "distance": 1498
-  },
-  {
-    "id": "here:pds:place:704w3gv7-58f9686a52dd4221dd0d05d2edf57c7c",
-    "name": "Điểm Dừng Xe Buýt, Đường Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79678,
-    "lng": 106.67367,
-    "distance": 763
-  },
-  {
-    "id": "here:pds:place:704w3gv7-bd98ffcdc569e7a419c2abd718e2d9ed",
-    "name": "Điểm Dừng Xe Buýt, 5 Đường Phan Đăng Lưu, Phường 7, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80323,
-    "lng": 106.68834,
-    "distance": 996
-  },
-  {
-    "id": "here:pds:place:704w3gv7-d45a6a5b0edbd892c5cdefa37b4e1bd9",
-    "name": "Điểm Dừng Xe Buýt, Đường Nam Kỳ Khởi Nghĩa, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
-    "lat": 10.78905,
-    "lng": 106.68481,
-    "distance": 1225
-  },
-  {
-    "id": "here:pds:place:704w3gv7-9c794bcd4790947053028e1e6faa275d",
-    "name": "Điểm Dừng Xe Buýt, Đường Lê Văn Sỹ, Phường 13, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79097,
-    "lng": 106.67268,
-    "distance": 1225
-  },
-  {
-    "id": "here:pds:place:704w3gv7-ec07ff482979a5fd2aabfbd0b5b1ab1b",
-    "name": "Điểm Dừng Xe Buýt, Đường Lê Văn Sỹ, Phường 1, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
-    "lat": 10.7944,
-    "lng": 106.66829,
-    "distance": 1406
-  },
-  {
-    "id": "here:pds:place:704w3gv7-33fa8bde19aab3674fa2344ccd9b96b7",
-    "name": "Điểm Dừng Xe Buýt, 14 Đường Phan Đăng Lưu, Phường 6, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80326,
-    "lng": 106.69218,
-    "distance": 737
-  },
-  {
-    "id": "here:pds:place:704w3gv7-da26dcb86e6988ca62f2e600a955a775",
-    "name": "Điểm Dừng Xe Buýt, Đường Lê Quang Định, Phường 11, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80873,
-    "lng": 106.69435,
-    "distance": 946
-  },
-  {
-    "id": "here:pds:place:704w3gvk-f9d6b102ef503f9e27a19d89e2fcbb67",
-    "name": "Điểm Dừng Xe Bus, Đường Bạch Đằng, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80317,
-    "lng": 106.70799,
-    "distance": 1041
-  },
-  {
-    "id": "here:pds:place:704w3gvk-9acc5565fbb41b073de4f1854096b8d2",
-    "name": "Điểm Dừng Xe Buýt, Đường Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80755,
-    "lng": 106.7092,
-    "distance": 1344
-  },
-  {
-    "id": "here:pds:place:704w3gve-4c212520dad832a11c6fea4017ada65c",
-    "name": "Điểm Dừng Xe Buýt, Đường Nơ Trang Long, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81347,
-    "lng": 106.6973,
-    "distance": 1357
-  },
-  {
-    "id": "here:pds:place:704w3gv7-ec07ff482979a5fd2aabfbd0b5b1ab1b",
-    "name": "Điểm Dừng Xe Buýt, Đường Lê Văn Sỹ, Phường 1, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
-    "lat": 10.7944,
-    "lng": 106.66829,
-    "distance": 519
-  },
-  {
-    "id": "here:pds:place:704w3gv7-58f9686a52dd4221dd0d05d2edf57c7c",
-    "name": "Điểm Dừng Xe Buýt, Đường Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79678,
-    "lng": 106.67367,
-    "distance": 574
-  },
-  {
-    "id": "here:pds:place:704w3gv7-df78ccb4211a299b0111a93c9748e15a",
-    "name": "Điểm Dừng Xe Buýt, Đường Trường Sa, Phường 3, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79172,
-    "lng": 106.66393,
-    "distance": 908
-  },
-  {
-    "id": "here:pds:place:704w3gv7-d45a6a5b0edbd892c5cdefa37b4e1bd9",
-    "name": "Điểm Dừng Xe Buýt, Đường Nam Kỳ Khởi Nghĩa, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
-    "lat": 10.78905,
-    "lng": 106.68481,
-    "distance": 1407
-  },
-  {
-    "id": "here:pds:place:704w3gv6-7c01174a95c30946da3dd99addb7012b",
-    "name": "Playstation, 7 Đường Cách Mạng Tháng Tám, Phường 4, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79275,
-    "lng": 106.65877,
-    "distance": 1475
-  },
-  {
-    "id": "here:pds:place:704w3gv7-a2ec063e7b9bc3bf3b935b2d11eefaa8",
-    "name": "Trạm Xe Bus, Đường Hai Bà Trưng, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79082,
-    "lng": 106.68816,
-    "distance": 698
-  },
-  {
-    "id": "here:pds:place:704w3gv7-aa3d19e7fc53b97989c2c4ff1af90e7d",
-    "name": "Điểm Dừng Xe Buýt, Đường Lê Văn Sỹ, Phường 14, Quận 3, Hồ Chí Minh, Việt Nam",
-    "lat": 10.7889,
-    "lng": 106.67569,
-    "distance": 735
-  },
-  {
-    "id": "here:pds:place:704w3gv7-58f9686a52dd4221dd0d05d2edf57c7c",
-    "name": "Điểm Dừng Xe Buýt, Đường Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79678,
-    "lng": 106.67367,
-    "distance": 1059
-  },
-  {
-    "id": "here:pds:place:704w3gv7-9c69585c1d4e28f7c80d5222f7fd18c6",
-    "name": "Điểm Dừng Xe Buýt, Đường Võ Thị Sáu, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
-    "lat": 10.78676,
-    "lng": 106.69078,
-    "distance": 1118
-  },
-  {
-    "id": "here:pds:place:704w3gv7-bd98ffcdc569e7a419c2abd718e2d9ed",
-    "name": "Điểm Dừng Xe Buýt, 5 Đường Phan Đăng Lưu, Phường 7, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80323,
-    "lng": 106.68834,
-    "distance": 1474
-  },
-  {
-    "id": "here:pds:place:704jx7ps-96d8b7d31d0b04d6f400d80fa58f0a20",
-    "name": "Nhà Khách Tân Sơn Nhất 2, Đường Phổ Quang, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80611,
-    "lng": 106.66817,
-    "distance": 584
-  },
-  {
-    "id": "here:pds:place:704w3gve-2de5597d2251feb03546576bc31aeb81",
-    "name": "Trạm Xe Bus, Đường Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81426,
-    "lng": 106.66907,
-    "distance": 813
-  },
-  {
-    "id": "here:pds:place:704w3gve-0d573298c3e27257a278790787b7ba52",
-    "name": "Công Ty Cổ Phần Onese, Đường Bạch Đằng, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81499,
-    "lng": 106.67593,
-    "distance": 824
-  },
-  {
-    "id": "here:pds:place:704w3gve-ef04034e25259ecacdf796877185f134",
-    "name": "Bus Ga T2-Sân Bay Tân Sơn Nhất, Đường A2 Sân Bay Tân Sơn Nhất, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81548,
-    "lng": 106.66455,
-    "distance": 1243
-  },
-  {
-    "id": "here:pds:place:704w3gv7-58f9686a52dd4221dd0d05d2edf57c7c",
-    "name": "Điểm Dừng Xe Buýt, Đường Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79678,
-    "lng": 106.67367,
-    "distance": 1262
-  },
-  {
-    "id": "here:pds:place:704w3gv7-33fa8bde19aab3674fa2344ccd9b96b7",
-    "name": "Điểm Dừng Xe Buýt, 14 Đường Phan Đăng Lưu, Phường 6, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80326,
-    "lng": 106.69218,
-    "distance": 711
-  },
-  {
-    "id": "here:pds:place:704w3gv7-da26dcb86e6988ca62f2e600a955a775",
-    "name": "Điểm Dừng Xe Buýt, Đường Lê Quang Định, Phường 11, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80873,
-    "lng": 106.69435,
-    "distance": 765
-  },
-  {
-    "id": "here:pds:place:704w3gvk-f9d6b102ef503f9e27a19d89e2fcbb67",
-    "name": "Điểm Dừng Xe Bus, Đường Bạch Đằng, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80317,
-    "lng": 106.70799,
-    "distance": 1016
-  },
-  {
-    "id": "here:pds:place:704w3gve-4c212520dad832a11c6fea4017ada65c",
-    "name": "Điểm Dừng Xe Buýt, Đường Nơ Trang Long, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81347,
-    "lng": 106.6973,
-    "distance": 1138
-  },
-  {
-    "id": "here:pds:place:704w3gvk-9acc5565fbb41b073de4f1854096b8d2",
-    "name": "Điểm Dừng Xe Buýt, Đường Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80755,
-    "lng": 106.7092,
-    "distance": 1240
-  },
-  {
-    "id": "here:pds:place:704w3gvk-ea58a41c42a7eeef8eb3b52ca67ee7c3",
-    "name": "Điểm Dừng Xe Buýt, Đường Bạch Đằng, Phường 2, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80374,
-    "lng": 106.70104,
-    "distance": 527
-  },
-  {
-    "id": "here:pds:place:704w3gvk-9acc5565fbb41b073de4f1854096b8d2",
-    "name": "Điểm Dừng Xe Buýt, Đường Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80755,
-    "lng": 106.7092,
-    "distance": 615
-  },
-  {
-    "id": "here:pds:place:704w3gvk-f9d6b102ef503f9e27a19d89e2fcbb67",
-    "name": "Điểm Dừng Xe Bus, Đường Bạch Đằng, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80317,
-    "lng": 106.70799,
-    "distance": 704
-  },
-  {
-    "id": "here:pds:place:704w3gve-4c212520dad832a11c6fea4017ada65c",
-    "name": "Điểm Dừng Xe Buýt, Đường Nơ Trang Long, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81347,
-    "lng": 106.6973,
-    "distance": 932
-  },
-  {
-    "id": "here:pds:place:704w3gvs-cf12642453c65d2fda4d12e7c5356d64",
-    "name": "Bến Xe Miền Đông-Cổng 3, Đường Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.8141,
-    "lng": 106.70955,
-    "distance": 959
-  },
-  {
-    "id": "here:pds:place:704w3gvs-f761c1be2cf8a7be16f8501e6d6e95a4",
-    "name": "Bến Xe Miền Đông-Cổng 4, Quốc Lộ 13, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81442,
-    "lng": 106.71283,
-    "distance": 505
-  },
-  {
-    "id": "here:pds:place:704w3gvk-81820edd0192392cbea9d118268408b1",
-    "name": "Trạm Dừng Xe Buýt, Đường Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80978,
-    "lng": 106.7091,
-    "distance": 601
-  },
-  {
-    "id": "here:pds:place:704w3gvk-fec90d45b33b647f6f019f4b05d33c33",
-    "name": "Điểm Dừng Xe Buýt, Đường Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80832,
-    "lng": 106.71449,
-    "distance": 1017
-  },
-  {
-    "id": "here:pds:place:704w3gve-4c212520dad832a11c6fea4017ada65c",
-    "name": "Điểm Dừng Xe Buýt, Đường Nơ Trang Long, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81347,
-    "lng": 106.6973,
-    "distance": 1211
-  },
-  {
-    "id": "here:pds:place:704w3gvk-f9d6b102ef503f9e27a19d89e2fcbb67",
-    "name": "Điểm Dừng Xe Bus, Đường Bạch Đằng, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80317,
-    "lng": 106.70799,
-    "distance": 1329
-  },
-  {
-    "id": "here:pds:place:704w3gve-8e119ef30e7807e3812cf99e163e4845",
-    "name": "Bến Xe Buýt, Đường Bạch Đằng, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81463,
-    "lng": 106.67803,
-    "distance": 854
-  },
-  {
-    "id": "here:pds:place:704w3gv7-bd98ffcdc569e7a419c2abd718e2d9ed",
-    "name": "Điểm Dừng Xe Buýt, 5 Đường Phan Đăng Lưu, Phường 7, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80323,
-    "lng": 106.68834,
-    "distance": 854
-  },
-  {
-    "id": "here:pds:place:704w3gve-dc899f89b4491f45665262f630f280ab",
-    "name": "Điểm Dừng Xe Buýt, Đường Lê Quang Định, Phường 11, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81729,
-    "lng": 106.68902,
-    "distance": 1028
-  },
-  {
-    "id": "here:pds:place:704w3gve-35de2a0ee015553f802c8cbdd2a2079e",
-    "name": "Điểm Dừng Xe Buýt, 3 Đường Nguyễn Thái Sơn, Phường 4, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
-    "lat": 10.81928,
-    "lng": 106.68241,
-    "distance": 1095
-  },
-  {
-    "id": "here:pds:place:704w3gv7-da26dcb86e6988ca62f2e600a955a775",
-    "name": "Điểm Dừng Xe Buýt, Đường Lê Quang Định, Phường 11, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80873,
-    "lng": 106.69435,
-    "distance": 1147
-  },
-  {
-    "id": "here:pds:place:704w3gv7-377c0dfbaceb150dcd7e2c789653186e",
-    "name": "Điểm Dừng Xe Bus, Đường Hai Bà Trưng, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
-    "lat": 10.78715,
-    "lng": 106.69277,
-    "distance": 788
-  },
-  {
-    "id": "here:pds:place:704w3gv7-a2ec063e7b9bc3bf3b935b2d11eefaa8",
-    "name": "Trạm Xe Bus, Đường Hai Bà Trưng, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79082,
-    "lng": 106.68816,
-    "distance": 904
-  },
-  {
-    "id": "here:pds:place:704w3gv7-45ae7d6dccd8a6012b90a45894ba78b5",
-    "name": "Tuyến Xe Du Lịch Kết Nôi, Đường Phan Đăng Lưu, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80251,
-    "lng": 106.69705,
-    "distance": 1009
-  },
-  {
-    "id": "here:pds:place:704w3gv7-33fa8bde19aab3674fa2344ccd9b96b7",
-    "name": "Điểm Dừng Xe Buýt, 14 Đường Phan Đăng Lưu, Phường 6, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80326,
-    "lng": 106.69218,
-    "distance": 1162
-  },
-  {
-    "id": "here:pds:place:704w3gvk-171915d064962b63123abfe3c6f3c511",
-    "name": "Điểm Dừng Xe Buýt-Bus Stop Trường Khiếm Thính Hy Vọng, Đường Nguyễn Văn Lạc, Phường 19, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79442,
-    "lng": 106.70962,
-    "distance": 1494
-  },
-  {
-    "id": "here:pds:place:704w3gvk-73bfc3b45ad54154ceb3cd17f74cbc23",
-    "name": "Điểm Dừng Xe Buýt, 21 Đường Ngô Tất Tố, Phường 19, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79269,
-    "lng": 106.7117,
-    "distance": 694
-  },
-  {
-    "id": "here:pds:place:704w3gvk-bc8946352803fe4ea3c12fd47c1a7645",
-    "name": "Điểm Dừng Xe Buýt, Đường Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.79912,
-    "lng": 106.71126,
-    "distance": 806
-  },
-  {
-    "id": "here:pds:place:704w3gvk-f9d6b102ef503f9e27a19d89e2fcbb67",
-    "name": "Điểm Dừng Xe Bus, Đường Bạch Đằng, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80317,
-    "lng": 106.70799,
-    "distance": 1003
-  },
-  {
-    "id": "here:pds:place:704w3gvk-ea58a41c42a7eeef8eb3b52ca67ee7c3",
-    "name": "Điểm Dừng Xe Buýt, Đường Bạch Đằng, Phường 2, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
-    "lat": 10.80374,
-    "lng": 106.70104,
-    "distance": 1146
-  },
-  {
-    "id": "here:pds:place:704w3gvk-cedace871132bc329de9643b4f10b946",
-    "name": "Bến Xe Buýt, Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
-    "lat": 10.78173,
-    "lng": 106.7073,
-    "distance": 1427
-  },
-
-  {
     "id": "here:pds:place:704jx7ps-de0e1890fa000650faf90df72a5b1d29",
     "name": "Khách Sạn Hùng Anh, 35 Đường Thép Mới, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
     "lat": 10.79668,
@@ -629,6 +33,13 @@
     "lat": 10.80065,
     "lng": 106.65222,
     "distance": 760
+  },
+  {
+    "id": "here:pds:place:704w3gv7-140b896260694ad0a7cad9477f15eaa0",
+    "name": "Trọng Nghĩa, Hẻm 1036/20 Cách Mạng Tháng 8, Phường 4, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79188,
+    "lng": 106.65852,
+    "distance": 762
   },
   {
     "id": "here:pds:place:704w3gv6-1d18fcec62854a99990ee6de39586b20",
@@ -666,6 +77,13 @@
     "distance": 1991
   },
   {
+    "id": "here:pds:place:704w3gv7-2ab33e8247a7472297f8222575aa5988",
+    "name": "Cửa Hàng Coop Smile, Đường Lê Văn Sỹ, Phường 13, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79239,
+    "lng": 106.671,
+    "distance": 2100
+  },
+  {
     "id": "here:pds:place:704w3gve-cbd60bf8da1f41e6803c5269e080d570",
     "name": "Quan Mai Lan, Đường Hồng Hà, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
     "lat": 10.81313,
@@ -699,6 +117,13 @@
     "lat": 10.80812,
     "lng": 106.67234,
     "distance": 1248
+  },
+  {
+    "id": "here:pds:place:7041r4ve-17c02fa831f00ea13713d6561cf6bfc0",
+    "name": "Hotel Thuần Linh, Đường Bạch Đằng, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81497,
+    "lng": 106.67684,
+    "distance": 1394
   },
   {
     "id": "here:pds:place:704xjxn4-d45df39b747007de8e7fb8e70ba6b047",
@@ -736,6 +161,13 @@
     "distance": 1920
   },
   {
+    "id": "here:pds:place:7041r4ve-dd22c594ad3d05f2a6551acc441a3147",
+    "name": "Tân Thánh Hữu, 282D Đường Nguyễn Trọng Tuyển, Phường 10, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79821,
+    "lng": 106.6695,
+    "distance": 2054
+  },
+  {
     "id": "here:pds:place:704w3gvk-750e32b5f61ad063bc5e6e89557fce9b",
     "name": "Là Nhà Hotel, Hẻm 157 Nguyễn Gia Trí, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
     "lat": 10.80539,
@@ -769,6 +201,13 @@
     "lat": 10.79815,
     "lng": 106.7055,
     "distance": 744
+  },
+  {
+    "id": "here:pds:place:704w3gvk-f70e54840a1517a1544745c1751afe68",
+    "name": "Thủy Tiên Hotel, Đường Nguyễn Văn Thương, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8013,
+    "lng": 106.71834,
+    "distance": 750
   },
   {
     "id": "here:pds:place:704w3gvk-1a3a0be6af5f8d1815e10598ef3fce23",
@@ -806,6 +245,97 @@
     "distance": 1379
   },
   {
+    "id": "here:pds:place:704w3gvk-01a006af355cda1638083233ca196928",
+    "name": "Nước Mía Phát Đạt Chanh Muối, 22C Đường Ngô Đức Kế, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80857,
+    "lng": 106.69866,
+    "distance": 1611
+  },
+  {
+    "id": "here:pds:place:704jx7ps-8442a578c26d030d4b76ed6af2ad9e55",
+    "name": "Nhà Khách Pasteur, Đường Pasteur, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78561,
+    "lng": 106.68992,
+    "distance": 515
+  },
+  {
+    "id": "here:pds:place:704xjxn4-0ec023c968a901c4589bc3b6227140a0",
+    "name": "Saigon Court Serviced Apartment, 149 Đường Nguyễn Đình Chiểu, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.7763,
+    "lng": 106.68814,
+    "distance": 547
+  },
+  {
+    "id": "here:pds:place:704w3gv7-e2696ded7b2f4847be4461de2be6747d",
+    "name": "Victory Hotel, 14 Đường Võ Văn Tần, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78057,
+    "lng": 106.69369,
+    "distance": 577
+  },
+  {
+    "id": "here:pds:place:704b8d5b-00a6225fa1de3021adfc4f247980ef4d",
+    "name": "Nhà Khách T78, 145 Đường Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78497,
+    "lng": 106.68481,
+    "distance": 577
+  },
+  {
+    "id": "here:pds:place:704jx7ps-2215c646eb440aa56b2ffe08d51f46fa",
+    "name": "Sài Gòn Mới, 117 Đường Bà Huyện Thanh Quan, Phường 9, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78102,
+    "lng": 106.68249,
+    "distance": 651
+  },
+  {
+    "id": "here:pds:place:704jx7ps-c134eda733ab0a2274a50da416cb82fd",
+    "name": "Nhà Khách Người Có Công, 168 Đường Hai Bà Trưng, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78512,
+    "lng": 106.69541,
+    "distance": 876
+  },
+  {
+    "id": "here:pds:place:704w3gv7-91a137cb43f84b678a147f8ec28104f3",
+    "name": "L'Ovite, 264 Đường Nguyễn Đình Chiểu, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.7764,
+    "lng": 106.6881,
+    "distance": 536
+  },
+  {
+    "id": "here:pds:place:704xjxn4-1d39195bdf7c04142a62888ce7967ade",
+    "name": "Huyền Hoàn, 192 Đường Trần Quốc Thảo, Phường 9, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78558,
+    "lng": 106.68199,
+    "distance": 857
+  },
+  {
+    "id": "here:pds:place:704w3gv7-7e21cc6bf005ba3551f37905ef4af969",
+    "name": "E24h Store, Hẻm 314 Đường Điện Biên Phủ, Phường 11, Quận 10, Hồ Chí Minh, Việt Nam",
+    "lat": 10.77583,
+    "lng": 106.68217,
+    "distance": 910
+  },
+  {
+    "id": "here:pds:place:704xjxn4-583372824ce609bc5f0264c4326c6006",
+    "name": "Ohui, 34 Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78064,
+    "lng": 106.69847,
+    "distance": 1096
+  },
+  {
+    "id": "here:pds:place:704w3gv7-b59d46e81046ec232d147a30a1d0cdde",
+    "name": "The Sho Fe, Hẻm 41 Đường Nguyễn Văn Tráng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.77099,
+    "lng": 106.69172,
+    "distance": 1191
+  },
+  {
+    "id": "here:pds:place:7041r4ve-1648d99aa5ea0c59a65b7798a4ea9d23",
+    "name": "Ngọc Thư, 353 Hẻm 240 Cách Mạng Tháng 8, Phường 12, Quận 10, Hồ Chí Minh, Việt Nam",
+    "lat": 10.7801,
+    "lng": 106.67725,
+    "distance": 1230
+  },
+  {
     "id": "here:pds:place:704w3gvs-92c92a05a5ad17f0efe91daaa3a36ed1",
     "name": "Khách sạn Winstion Hotel, Hẻm 28/45 Đường Thanh Đa, Phường 27, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
     "lat": 10.81893,
@@ -839,6 +369,13 @@
     "lat": 10.83204,
     "lng": 106.72281,
     "distance": 1093
+  },
+  {
+    "id": "here:pds:place:704jx7ps-c4bf7c82d48406838e38cc60d43d7668",
+    "name": "Nhà Nghỉ Mai Anh, Hẻm 149 Bình Quới, Phường 28, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8194,
+    "lng": 106.72398,
+    "distance": 1220
   },
   {
     "id": "here:pds:place:704w3gvs-512a91b1242841d69ce669d77be750d4",
@@ -876,6 +413,13 @@
     "distance": 2627
   },
   {
+    "id": "here:pds:place:704w3gvk-1a3a0be6af5f8d1815e10598ef3fce23",
+    "name": "Komonoya, 561 Đường Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79968,
+    "lng": 106.71838,
+    "distance": 2940
+  },
+  {
     "id": "here:pds:place:704d408k-ddb8f51044520c05478336dea2f0cfc9",
     "name": "Phòng Trọ Giá Rẻ Q.Gò Vấp, Hẻm 12 Nguyễn Tuân, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
     "lat": 10.81671,
@@ -909,6 +453,13 @@
     "lat": 10.80812,
     "lng": 106.67234,
     "distance": 1007
+  },
+  {
+    "id": "here:pds:place:704w3gve-0a3a069ee6661bb69c1235507e432f73",
+    "name": "Yen Nam Hotel Nguyen Thai Son, Hẻm 82 Đường Số 1, Phường 4, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82195,
+    "lng": 106.6841,
+    "distance": 1009
   },
   {
     "id": "here:pds:place:704jx7ps-394c04062072072e16efc3243c7bba44",
@@ -946,6 +497,13 @@
     "distance": 1712
   },
   {
+    "id": "here:pds:place:704xjxn4-d45df39b747007de8e7fb8e70ba6b047",
+    "name": "Grasso (Việt Nam), 3G Đường Phổ Quang, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80465,
+    "lng": 106.66635,
+    "distance": 1755
+  },
+  {
     "id": "here:pds:place:704jx7ps-af3cb27412be0d3febeee02b9a658527",
     "name": "Khách Sạn The Alcove - Nguyễn Đình Chính, Hẻm 140 Nguyễn Đình Chính, Phường 8, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
     "lat": 10.79521,
@@ -979,6 +537,13 @@
     "lat": 10.79244,
     "lng": 106.68133,
     "distance": 751
+  },
+  {
+    "id": "here:pds:place:704jx7ps-e6c86966d8940664b681512fbd3cd4ce",
+    "name": "Khách Sạn La Quang, Hẻm 12 Đào Duy Anh, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8061,
+    "lng": 106.67789,
+    "distance": 819
   },
   {
     "id": "here:pds:place:704w3gv7-8731d85f02757480feffb631ee0029ae",
@@ -1016,6 +581,13 @@
     "distance": 1482
   },
   {
+    "id": "here:pds:place:704w3gv7-0a5cec496a00d3fc3c7acf9ff6acca46",
+    "name": "co.op mart-Nhiêu Lộc, Đường Trường Sa, Phường 12, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78635,
+    "lng": 106.67542,
+    "distance": 1513
+  },
+  {
     "id": "here:pds:place:704w3gv7-595b781b882444d3aa74003287ae4f64",
     "name": "Phòng Trọ Giữ Xe, Đường Nơ Trang Long, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
     "lat": 10.80465,
@@ -1049,6 +621,13 @@
     "lat": 10.79944,
     "lng": 106.69129,
     "distance": 830
+  },
+  {
+    "id": "here:pds:place:704jx7ps-f741f4131f47068b60237449d4270668",
+    "name": "Cho Thuê Phòng Tháng, 160 Đường Bùi Đình Túy, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80807,
+    "lng": 106.70398,
+    "distance": 949
   },
   {
     "id": "here:pds:place:704w3gv7-2a574fb5797b00c8f1a8008dde0ae48d",
@@ -1086,6 +665,13 @@
     "distance": 1160
   },
   {
+    "id": "here:pds:place:704w3gvk-4cd6f2e60c09a150fef9e35d2c2db35b",
+    "name": "Mini, 110 Đường Phan Văn Hân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79383,
+    "lng": 106.70634,
+    "distance": 1185
+  },
+  {
     "id": "here:pds:place:704jx7ps-cd2d2161358404bdcda631beac5878fe",
     "name": "Hotel Ánh Dương, 239/67/24 Đường Hoàng Sa, Phường 11, Quận 3, Hồ Chí Minh, Việt Nam",
     "lat": 10.78789,
@@ -1119,6 +705,13 @@
     "lat": 10.78711,
     "lng": 106.67831,
     "distance": 844
+  },
+  {
+    "id": "here:pds:place:704jx7ps-226e2593ae88089403fc62cd62f5fadf",
+    "name": "Kim Yen Hotel, 126 Đường Nguyễn Trọng Tuyển, Phường 15, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79743,
+    "lng": 106.67804,
+    "distance": 890
   },
   {
     "id": "here:pds:place:704w3gv7-0a5cec496a00d3fc3c7acf9ff6acca46",
@@ -1156,6 +749,13 @@
     "distance": 1398
   },
   {
+    "id": "here:pds:place:7041r4ve-1648d99aa5ea0c59a65b7798a4ea9d23",
+    "name": "Ngọc Thư, 353 Hẻm 240 Cách Mạng Tháng 8, Phường 12, Quận 10, Hồ Chí Minh, Việt Nam",
+    "lat": 10.7801,
+    "lng": 106.67725,
+    "distance": 1412
+  },
+  {
     "id": "here:pds:place:704w3gv7-cf312b5f2aede1648d9d0540de686cfc",
     "name": "Maison Royale, Hẻm 62 Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
     "lat": 10.79009,
@@ -1189,6 +789,13 @@
     "lat": 10.79743,
     "lng": 106.67804,
     "distance": 767
+  },
+  {
+    "id": "here:pds:place:704b8d5b-00a6225fa1de3021adfc4f247980ef4d",
+    "name": "Nhà Khách T78, 145 Đường Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78497,
+    "lng": 106.68481,
+    "distance": 808
   },
   {
     "id": "here:pds:place:704w3gv7-56dbcb650a614107838c7822bbbe6289",
@@ -1226,6 +833,13 @@
     "distance": 1109
   },
   {
+    "id": "here:pds:place:704w3gv7-988d3557671d45929b1625250088fa5c",
+    "name": "Thành Thúy, 143 Đường Trần Quang Khải, Phường Tân Định, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79189,
+    "lng": 106.69203,
+    "distance": 1116
+  },
+  {
     "id": "here:pds:place:704w3gv7-4ab425e32a89531f2ac4f810834227de",
     "name": "Khách Sạn Ngọc Vũ, 14/5 Hẻm 14 Đào Duy Anh, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
     "lat": 10.80653,
@@ -1259,6 +873,13 @@
     "lat": 10.80188,
     "lng": 106.67611,
     "distance": 767
+  },
+  {
+    "id": "here:pds:place:704jx7ps-68a4d6008c2902539a5903311b78f1a9",
+    "name": "Nhà Cho Thuê Đỗ Đình Cảnh, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80068,
+    "lng": 106.67116,
+    "distance": 854
   },
   {
     "id": "here:pds:place:704jx7ps-394c04062072072e16efc3243c7bba44",
@@ -1296,6 +917,13 @@
     "distance": 1475
   },
   {
+    "id": "here:pds:place:704w3gve-e79d25198743eee48d9e70b062ac59d0",
+    "name": "Trần Tiến, 849 Đường Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82289,
+    "lng": 106.67893,
+    "distance": 1761
+  },
+  {
     "id": "here:pds:place:704jx7ps-7b8c22fdb7fa0b29423a4b7ab647dffe",
     "name": "Khách Sạn Phú Gia Huy, Đường Lê Quang Định, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
     "lat": 10.80765,
@@ -1329,6 +957,13 @@
     "lat": 10.79569,
     "lng": 106.70107,
     "distance": 888
+  },
+  {
+    "id": "here:pds:place:704d6d25-329d5b149231f140031986c86c44f476",
+    "name": "Nicole Home, 347 Đường Chu Văn An, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81149,
+    "lng": 106.6989,
+    "distance": 908
   },
   {
     "id": "here:pds:place:704w3gvk-01a006af355cda1638083233ca196928",
@@ -1366,6 +1001,13 @@
     "distance": 1294
   },
   {
+    "id": "here:pds:place:704w3gvk-4cd6f2e60c09a150fef9e35d2c2db35b",
+    "name": "Mini, 110 Đường Phan Văn Hân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79383,
+    "lng": 106.70634,
+    "distance": 1347
+  },
+  {
     "id": "here:pds:place:704xjxn4-114b41102f4b095189bc1fd6fe5e67ca",
     "name": "Khách Sạn Gia Bảo, 234B Đường Bạch Đằng, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
     "lat": 10.80341,
@@ -1399,6 +1041,13 @@
     "lat": 10.81296,
     "lng": 106.70977,
     "distance": 889
+  },
+  {
+    "id": "here:pds:place:704jx7ps-53d7c3b83b1f0740e1cda031d0f3402e",
+    "name": "Khách Sạn Tân Lam Sơn, 112 Đường Nơ Trang Long, Phường 11, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80937,
+    "lng": 106.69518,
+    "distance": 933
   },
   {
     "id": "here:pds:place:704w3gvk-01a006af355cda1638083233ca196928",
@@ -1436,6 +1085,13 @@
     "distance": 1816
   },
   {
+    "id": "here:pds:place:704w3gvk-1a3a0be6af5f8d1815e10598ef3fce23",
+    "name": "Komonoya, 561 Đường Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79968,
+    "lng": 106.71838,
+    "distance": 1851
+  },
+  {
     "id": "here:pds:place:704jx7ps-c889952128190f3b2027edbcd8680a7b",
     "name": "Nhà Trọ Bình Dân, 131 Quốc Lộ 13, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
     "lat": 10.81364,
@@ -1469,6 +1125,13 @@
     "lat": 10.80676,
     "lng": 106.70933,
     "distance": 937
+  },
+  {
+    "id": "here:pds:place:704w3gvk-0c1f300c01b932543b7781500726eec7",
+    "name": "Phòng Trọ Số 758/52B, Hẻm 758 Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80928,
+    "lng": 106.71575,
+    "distance": 1044
   },
   {
     "id": "here:pds:place:704w3gvs-512091fcbe1248fb9ac189f7fc319c85",
@@ -1506,6 +1169,13 @@
     "distance": 2290
   },
   {
+    "id": "here:pds:place:704w3gvk-4cd6f2e60c09a150fef9e35d2c2db35b",
+    "name": "Mini, 110 Đường Phan Văn Hân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79383,
+    "lng": 106.70634,
+    "distance": 2377
+  },
+  {
     "id": "here:pds:place:704w3gvm-d18a1267f9464e3bb89166afe2baaa41",
     "name": "Hotel Tvi3, Hẻm 19 Trần Bình Trọng, Phường 5, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
     "lat": 10.81097,
@@ -1539,6 +1209,13 @@
     "lat": 10.81643,
     "lng": 106.68324,
     "distance": 769
+  },
+  {
+    "id": "here:pds:place:704xjxn4-4b635dbf9fec004c05b79d06deb51822",
+    "name": "Hữu Việt Hotel, 53A Hẻm 689 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81561,
+    "lng": 106.67828,
+    "distance": 911
   },
   {
     "id": "here:pds:place:704jx7ps-394c04062072072e16efc3243c7bba44",
@@ -1576,6 +1253,13 @@
     "distance": 1535
   },
   {
+    "id": "here:pds:place:704w3gve-e79d25198743eee48d9e70b062ac59d0",
+    "name": "Trần Tiến, 849 Đường Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82289,
+    "lng": 106.67893,
+    "distance": 1580
+  },
+  {
     "id": "here:pds:place:704jx7ps-8bfeef91bc800aa386f3da7150e72c52",
     "name": "Khách Sạn Xinh, Đường Số 1, Phường 3, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
     "lat": 10.79652,
@@ -1609,6 +1293,13 @@
     "lat": 10.79942,
     "lng": 106.69717,
     "distance": 671
+  },
+  {
+    "id": "here:pds:place:704jx7ps-67079ef10dde008a13a3fc29f2d5c86a",
+    "name": "Khách Sạn Duyên Sài Gòn, 175 Đường Điện Biên Phủ, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78707,
+    "lng": 106.69443,
+    "distance": 735
   },
   {
     "id": "here:pds:place:704xjxn4-138f54cb950c0bcf3ef6dd13f730436e",
@@ -1646,6 +1337,13 @@
     "distance": 1371
   },
   {
+    "id": "here:pds:place:704xjxn4-0a696e9f5cad0079922674cd3bd5f54f",
+    "name": "Tam Thuận Phát, 7 Đường Cô Giang, Phường 2, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79558,
+    "lng": 106.68286,
+    "distance": 1451
+  },
+  {
     "id": "here:pds:place:704jx7ps-2121f4ca326d0e4e9145238c1ac8fd10",
     "name": "Khách Sạn An Vui, Hẻm 57 Đường Điện Biên Phủ, Phường 15, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
     "lat": 10.79569,
@@ -1681,6 +1379,13 @@
     "distance": 876
   },
   {
+    "id": "here:pds:place:704jx7ps-17c603f08a4d06cc56aae3cd54935b6c",
+    "name": "Khách Sạn Đại Kim, 218 Hẻm 293 Bạch Đằng, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80334,
+    "lng": 106.70564,
+    "distance": 987
+  },
+  {
     "id": "here:pds:place:704xjxn4-138f54cb950c0bcf3ef6dd13f730436e",
     "name": "Lami Lami, 50BIS Đường Nguyễn Bỉnh Khiêm, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
     "lat": 10.79179,
@@ -1714,5 +1419,12 @@
     "lat": 10.79968,
     "lng": 106.71838,
     "distance": 1511
+  },
+  {
+    "id": "here:pds:place:704xjxn4-583372824ce609bc5f0264c4326c6006",
+    "name": "Ohui, 34 Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78064,
+    "lng": 106.69847,
+    "distance": 1723
   }
 ]

@@ -1,0 +1,716 @@
+[
+  {
+    "id": "here:pds:place:704jx7ps-de0e1890fa000650faf90df72a5b1d29",
+    "name": "Khách Sạn Hùng Anh, 35 Đường Thép Mới, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79668,
+    "lng": 106.64826,
+    "distance": 502
+  },
+  {
+    "id": "here:pds:place:704jx7ps-aaa38b3878d40badd7e4072cb2f6a786",
+    "name": "Thanh Hồng Hotel, 64/19 Đường Xuân Diệu, Phường 4, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79708,
+    "lng": 106.65507,
+    "distance": 506
+  },
+  {
+    "id": "here:pds:place:704w3gv6-5dcb42be40ae4d9a8ea04a19a1c4cdbb",
+    "name": "Minh Trần Hotel, Đường B6, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79813,
+    "lng": 106.64992,
+    "distance": 522
+  },
+  {
+    "id": "here:pds:place:704w3gv6-6509a0ef63284325a01fd34281af65c3",
+    "name": "Q't Home, Hẻm 108 Trần Mai Ninh, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79216,
+    "lng": 106.64704,
+    "distance": 555
+  },
+  {
+    "id": "here:pds:place:704w3gv6-07448d72a2964a05a0bb96fa225c641e",
+    "name": "Khách Sạn Sao Đêm, 1262 Đường Lạc Long Quân, Phường 8, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78848,
+    "lng": 106.65194,
+    "distance": 595
+  },
+  {
+    "id": "here:pds:place:704w3gv6-6f9a4dec7eba4c669893a69f78b7ed26",
+    "name": "Tinh Khoi Hotel, Hẻm 34 Đường Lê Lai, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79466,
+    "lng": 106.64595,
+    "distance": 649
+  },
+  {
+    "id": "here:pds:place:704w3gve-cbd60bf8da1f41e6803c5269e080d570",
+    "name": "Quan Mai Lan, Đường Hồng Hà, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81313,
+    "lng": 106.66819,
+    "distance": 542
+  },
+  {
+    "id": "here:pds:place:704w3gve-c824242cb434771447e9d3f1be16cde1",
+    "name": "New Space Hotel, 51 Đường Lam Sơn, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81142,
+    "lng": 106.66694,
+    "distance": 587
+  },
+  {
+    "id": "here:pds:place:704w3gve-4415cc33b95b1add386caa56eec7cac6",
+    "name": "Sao Mai Hotel, B100 Đường Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81554,
+    "lng": 106.66964,
+    "distance": 605
+  },
+  {
+    "id": "here:pds:place:704aabd1-300c8214b42906362145136d9f072615",
+    "name": "Moonlight Apartment, 50 Đường Trường Sơn, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8101,
+    "lng": 106.66495,
+    "distance": 653
+  },
+  {
+    "id": "here:pds:place:704w3gve-1f96f231eebdf13fc636cf6196b65978",
+    "name": "Thanh Long Hotel Bach Dang, 2 Đường Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81453,
+    "lng": 106.67121,
+    "distance": 790
+  },
+  {
+    "id": "here:pds:place:704w3gv7-1fa5410d4ea8c46fcd9a2aa638e23417",
+    "name": "Nhà Văn Hóa, 18 Đường Lam Sơn, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80879,
+    "lng": 106.6668,
+    "distance": 844
+  },
+  {
+    "id": "here:pds:place:704w3gvk-750e32b5f61ad063bc5e6e89557fce9b",
+    "name": "Là Nhà Hotel, Hẻm 157 Nguyễn Gia Trí, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80539,
+    "lng": 106.71375,
+    "distance": 511
+  },
+  {
+    "id": "here:pds:place:704w3gvk-e31488719d693195410ae6caf4259575",
+    "name": "Khách Sạn Trang Thùy, 150 Đường Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79682,
+    "lng": 106.71055,
+    "distance": 517
+  },
+  {
+    "id": "here:pds:place:704jx7ps-a584d2bbbfb7043afbba3a5ee40bbc2f",
+    "name": "Lại Trần Hotel, 66 Đường Nguyễn Gia Trí, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8031,
+    "lng": 106.71587,
+    "distance": 517
+  },
+  {
+    "id": "here:pds:place:704w3gvk-13474fee57016443e43153195312c3e7",
+    "name": "M Village, 17 Đường Điện Biên Phủ, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79943,
+    "lng": 106.70712,
+    "distance": 522
+  },
+  {
+    "id": "here:pds:place:704w3gvk-9ec20ec29d7c9773720832b390af524d",
+    "name": "Cali Hotel Apartment, Hẻm 59 Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80676,
+    "lng": 106.70933,
+    "distance": 642
+  },
+  {
+    "id": "here:pds:place:704w3gvk-f4d767123a321a1b53001605c8fb1546",
+    "name": "Khách Sạn Lucky, Hẻm 46 Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79735,
+    "lng": 106.70715,
+    "distance": 651
+  },
+  {
+    "id": "here:pds:place:704jx7ps-8442a578c26d030d4b76ed6af2ad9e55",
+    "name": "Nhà Khách Pasteur, Đường Pasteur, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78561,
+    "lng": 106.68992,
+    "distance": 515
+  },
+  {
+    "id": "here:pds:place:704xjxn4-0ec023c968a901c4589bc3b6227140a0",
+    "name": "Saigon Court Serviced Apartment, 149 Đường Nguyễn Đình Chiểu, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.7763,
+    "lng": 106.68814,
+    "distance": 547
+  },
+  {
+    "id": "here:pds:place:704w3gv7-a4134339705e42aa872b39e5730dbb72",
+    "name": "Sherwood Residence, 127 Đường Pasteur, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78285,
+    "lng": 106.6932,
+    "distance": 550
+  },
+  {
+    "id": "here:pds:place:704jx7ps-32842186994a00cad9a9d54e9f2f21a4",
+    "name": "Hồng Hà Hotel, Hẻm 62 Đường Nguyễn Thông, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.77688,
+    "lng": 106.68595,
+    "distance": 554
+  },
+  {
+    "id": "here:pds:place:704jx7ps-96feac98a6690cdcbdb14630a516c580",
+    "name": "Ruby Star Hotel, 43 Đường Trương Định, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.77669,
+    "lng": 106.69085,
+    "distance": 567
+  },
+  {
+    "id": "here:pds:place:704w3gv7-e2696ded7b2f4847be4461de2be6747d",
+    "name": "Victory Hotel, 14 Đường Võ Văn Tần, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78057,
+    "lng": 106.69369,
+    "distance": 577
+  },
+  {
+    "id": "here:pds:place:704w3gvs-92c92a05a5ad17f0efe91daaa3a36ed1",
+    "name": "Khách sạn Winstion Hotel, Hẻm 28/45 Đường Thanh Đa, Phường 27, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81893,
+    "lng": 106.71893,
+    "distance": 887
+  },
+  {
+    "id": "here:pds:place:704w3gvs-a0fa86d53cec1d7e2968a7b4110ca3c2",
+    "name": "Q&A Hotel, 512 Đường Nơ Trang Long, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82211,
+    "lng": 106.70691,
+    "distance": 978
+  },
+  {
+    "id": "here:pds:place:704w3gvs-a56abe0e7ea51976daa1a6becdcdfaab",
+    "name": "HOTEL THU HÀ, Hẻm 78 Bình Lợi, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.82936,
+    "lng": 106.70631,
+    "distance": 1023
+  },
+  {
+    "id": "here:pds:place:704xjxn4-34aecfb7449304f96c56f1232e0789b1",
+    "name": "Ngọc Xanh-Emerald, Hẻm 209 Quốc Lộ 13, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81638,
+    "lng": 106.7129,
+    "distance": 1084
+  },
+  {
+    "id": "here:pds:place:704w3gvs-580183aa68253c6a83ecc8e1660cb670",
+    "name": "Nhà Nghỉ-Khách Sạn Công Đoàn Thanh Đa, Đường Số 3, Phường 27, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8171,
+    "lng": 106.71927,
+    "distance": 1085
+  },
+  {
+    "id": "here:pds:place:704w3gvs-d4749004c17e45199b9560e90f3503ac",
+    "name": "ABC Hotel, 36 Đường 47, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+    "lat": 10.83204,
+    "lng": 106.72281,
+    "distance": 1093
+  },
+  {
+    "id": "here:pds:place:704d408k-ddb8f51044520c05478336dea2f0cfc9",
+    "name": "Phòng Trọ Giá Rẻ Q.Gò Vấp, Hẻm 12 Nguyễn Tuân, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81671,
+    "lng": 106.68302,
+    "distance": 511
+  },
+  {
+    "id": "here:pds:place:704w3gve-6ff54142ee98d05e311f2e61b18b5a16",
+    "name": "Mai Hoa, Đường Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81526,
+    "lng": 106.67394,
+    "distance": 559
+  },
+  {
+    "id": "here:pds:place:704w3gve-0ec31fcb52e84a99a781fcd8305362f3",
+    "name": "Khach San Kim do (Royal City Hotel), 786 Đường Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81989,
+    "lng": 106.67886,
+    "distance": 611
+  },
+  {
+    "id": "here:pds:place:704w3gve-af66456e389d42adab1ce4ff5c6a18cd",
+    "name": "Royal Hotel 2, 132 Đường Nguyễn Thái Sơn, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81883,
+    "lng": 106.68237,
+    "distance": 616
+  },
+  {
+    "id": "here:pds:place:704jx7ps-6f6e986c012f0b343e0483d3722da9b0",
+    "name": "Khách Sạn Xanh Sài Gòn, 740C Đường Nguyễn Kiệm, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80867,
+    "lng": 106.67851,
+    "distance": 639
+  },
+  {
+    "id": "here:pds:place:704w3gve-0c5f2dcbffddb1c0b213cf0f720e768c",
+    "name": "Reddoorz Hon En Hotel Le Loi Go Vap, Hẻm 142 Lê Lợi, Phường 4, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81831,
+    "lng": 106.68417,
+    "distance": 714
+  },
+  {
+    "id": "here:pds:place:704jx7ps-af3cb27412be0d3febeee02b9a658527",
+    "name": "Khách Sạn The Alcove - Nguyễn Đình Chính, Hẻm 140 Nguyễn Đình Chính, Phường 8, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79521,
+    "lng": 106.67762,
+    "distance": 520
+  },
+  {
+    "id": "here:pds:place:704jx7ps-10e465effc6706e8e23b7aeac538a95a",
+    "name": "Khách Sạn Sơn Lâm, 139/2 Hẻm 139 Phan Đăng Lưu, Phường 2, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80218,
+    "lng": 106.68402,
+    "distance": 536
+  },
+  {
+    "id": "here:pds:place:704w3gv7-04eb338bbc014bbcbdc2dfb9f15c89f5",
+    "name": "The Six Hotel, 31 Đường Hồ Văn Huê, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80188,
+    "lng": 106.67611,
+    "distance": 546
+  },
+  {
+    "id": "here:pds:place:704w3gv7-129dc84bdb08e9f333e4f4f0b9945f06",
+    "name": "SVĐ Phú Nhuận, Đường Trường Sa, Phường 2, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79629,
+    "lng": 106.68444,
+    "distance": 556
+  },
+  {
+    "id": "here:pds:place:704jx7ps-7e6553b7129d0b10123ba42988cab1b3",
+    "name": "Khách Sạn Thạnh Phát, Hẻm 88 Phan Xích Long, Phường 2, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79921,
+    "lng": 106.68558,
+    "distance": 583
+  },
+  {
+    "id": "here:pds:place:704w3gv7-1bf2163becc64693b15d566bbc170d3c",
+    "name": "Home Hotel, 158 Đường Nguyễn Đình Chính, Phường 8, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79602,
+    "lng": 106.67587,
+    "distance": 588
+  },
+  {
+    "id": "here:pds:place:704w3gv7-595b781b882444d3aa74003287ae4f64",
+    "name": "Phòng Trọ Giữ Xe, Đường Nơ Trang Long, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80465,
+    "lng": 106.69511,
+    "distance": 533
+  },
+  {
+    "id": "here:pds:place:704xjxn4-865716e702150fa172ba86baaa014046",
+    "name": "Hotel Hải Thanh 1, Đường Vạn Kiếp, Phường 3, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80073,
+    "lng": 106.69342,
+    "distance": 574
+  },
+  {
+    "id": "here:pds:place:704jx7ps-2121f4ca326d0e4e9145238c1ac8fd10",
+    "name": "Khách Sạn An Vui, Hẻm 57 Đường Điện Biên Phủ, Phường 15, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79569,
+    "lng": 106.70107,
+    "distance": 682
+  },
+  {
+    "id": "here:pds:place:704xjxn4-114b41102f4b095189bc1fd6fe5e67ca",
+    "name": "Khách Sạn Gia Bảo, 234B Đường Bạch Đằng, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80341,
+    "lng": 106.70479,
+    "distance": 710
+  },
+  {
+    "id": "here:pds:place:704w3gv7-8c4af06436ecff27feefaa0f4e85302d",
+    "name": "Wonderlife, Hẻm 23 Nơ Trang Long, Phường 7, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80659,
+    "lng": 106.69457,
+    "distance": 734
+  },
+  {
+    "id": "here:pds:place:704jx7ps-a737ccd5b09e048fcc0c8051b83604a8",
+    "name": "Khách Sạn Lý Hoàng, 162 Đường Điện Biên Phủ, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79682,
+    "lng": 106.70423,
+    "distance": 791
+  },
+  {
+    "id": "here:pds:place:704jx7ps-cd2d2161358404bdcda631beac5878fe",
+    "name": "Hotel Ánh Dương, 239/67/24 Đường Hoàng Sa, Phường 11, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78789,
+    "lng": 106.66993,
+    "distance": 504
+  },
+  {
+    "id": "here:pds:place:704w3gv7-3684ca672cb34f2a962f9bdbade4a993",
+    "name": "Khách Sạn Bóc Lột Người Lao Động, Đường Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79175,
+    "lng": 106.67699,
+    "distance": 519
+  },
+  {
+    "id": "here:pds:place:704xjxn4-76463b37f99704893cc3d45bf61a5aee",
+    "name": "Hoàng Hà Hotel, 57 Đường Trương Quốc Dung, Phường 10, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.7966,
+    "lng": 106.6727,
+    "distance": 535
+  },
+  {
+    "id": "here:pds:place:704w3gv7-9eb8346dcff80e29b21f2346d322718c",
+    "name": "Felix Alley, Hẻm 151 Nguyễn Văn Trỗi, Phường 11, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79472,
+    "lng": 106.67619,
+    "distance": 539
+  },
+  {
+    "id": "here:pds:place:704w3gv7-852c3218cb9eedf6f9dced2eb43c36f6",
+    "name": "Sài Gòn Khách sạn, 12 Hẻm 281/19-21 Lê Văn Sỹ, Phường 1, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.7934,
+    "lng": 106.66733,
+    "distance": 565
+  },
+  {
+    "id": "here:pds:place:704jx7ps-bf030e3a61890025cadc322752d1770d",
+    "name": "Khách Sạn Hoàng Lâm, 237/38 Hẻm 237 Đường Trần Văn Đang, Phường 11, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78605,
+    "lng": 106.67143,
+    "distance": 647
+  },
+  {
+    "id": "here:pds:place:704w3gv7-cf312b5f2aede1648d9d0540de686cfc",
+    "name": "Maison Royale, Hẻm 62 Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79009,
+    "lng": 106.68629,
+    "distance": 517
+  },
+  {
+    "id": "here:pds:place:704jx7ps-8875823d043c0a0d9c4dc92dca7a705b",
+    "name": "Hoang Sa Hotel, 475 Đường Hai Bà Trưng, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79188,
+    "lng": 106.68664,
+    "distance": 527
+  },
+  {
+    "id": "here:pds:place:704w3gv7-3684ca672cb34f2a962f9bdbade4a993",
+    "name": "Khách Sạn Bóc Lột Người Lao Động, Đường Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79175,
+    "lng": 106.67699,
+    "distance": 528
+  },
+  {
+    "id": "here:pds:place:704jx7ps-99188dbf33d70cbe8eedba8f3ae6d74b",
+    "name": "Khách Sạn Nam Hoàng, 284 Đường Lê Văn Sỹ, Phường 14, Quận 3, Hồ Chí Minh, Việt Nam",
+    "lat": 10.7869,
+    "lng": 106.67976,
+    "distance": 571
+  },
+  {
+    "id": "here:pds:place:704w3gv7-129dc84bdb08e9f333e4f4f0b9945f06",
+    "name": "SVĐ Phú Nhuận, Đường Trường Sa, Phường 2, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79629,
+    "lng": 106.68444,
+    "distance": 593
+  },
+  {
+    "id": "here:pds:place:704jx7ps-af3cb27412be0d3febeee02b9a658527",
+    "name": "Khách Sạn The Alcove - Nguyễn Đình Chính, Hẻm 140 Nguyễn Đình Chính, Phường 8, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79521,
+    "lng": 106.67762,
+    "distance": 608
+  },
+  {
+    "id": "here:pds:place:704w3gv7-4ab425e32a89531f2ac4f810834227de",
+    "name": "Khách Sạn Ngọc Vũ, 14/5 Hẻm 14 Đào Duy Anh, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80653,
+    "lng": 106.67748,
+    "distance": 509
+  },
+  {
+    "id": "here:pds:place:704w3gv6-0d3b674e233d4513b58cf451573b7205",
+    "name": "My villa hotel, Hẻm 54 Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81308,
+    "lng": 106.67183,
+    "distance": 569
+  },
+  {
+    "id": "here:pds:place:704aabd1-87239cf763d600cfc0722527b70ab6a5",
+    "name": "Khách Sạn Tân Sơn Nhất, 66 Đường Phổ Quang, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80617,
+    "lng": 106.66818,
+    "distance": 580
+  },
+  {
+    "id": "here:pds:place:704w3gv7-56bfcc3dc6224c67b8a2354fd7ee3984",
+    "name": "Khách Sạn Văn Giao, 740B Đường Nguyễn Kiệm, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80859,
+    "lng": 106.67848,
+    "distance": 589
+  },
+  {
+    "id": "here:pds:place:704jx7ps-22b28e2cfc420f3e571f3de87737fbcd",
+    "name": "Khách Sạn Hoàng Anh Như, 73 Đường Hồ Văn Huê, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80365,
+    "lng": 106.6771,
+    "distance": 661
+  },
+  {
+    "id": "here:pds:place:704w3gve-6cea725ba471467f98b123e0fd6a2266",
+    "name": "Thai Dat Hotel, Hẻm 750A Nguyễn Kiệm, Phường 4, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81052,
+    "lng": 106.6789,
+    "distance": 686
+  },
+  {
+    "id": "here:pds:place:704jx7ps-7b8c22fdb7fa0b29423a4b7ab647dffe",
+    "name": "Khách Sạn Phú Gia Huy, Đường Lê Quang Định, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80765,
+    "lng": 106.696,
+    "distance": 563
+  },
+  {
+    "id": "here:pds:place:704w3gv7-7fceaa5a3e77b5b698bc1b01a86c0c33",
+    "name": "Nhà Trọ Thanh Phương, Hẻm 23 Nơ Trang Long, Phường 7, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80654,
+    "lng": 106.69422,
+    "distance": 605
+  },
+  {
+    "id": "here:pds:place:704w3gv7-00a87e081af9b25602cb16227543c7ef",
+    "name": "Khách Hàng, 21 Đường Vạn Kiếp, Phường 3, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80183,
+    "lng": 106.69336,
+    "distance": 606
+  },
+  {
+    "id": "here:pds:place:704xjxn4-114b41102f4b095189bc1fd6fe5e67ca",
+    "name": "Khách Sạn Gia Bảo, 234B Đường Bạch Đằng, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80341,
+    "lng": 106.70479,
+    "distance": 666
+  },
+  {
+    "id": "here:pds:place:704jx7ps-53d7c3b83b1f0740e1cda031d0f3402e",
+    "name": "Khách Sạn Tân Lam Sơn, 112 Đường Nơ Trang Long, Phường 11, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80937,
+    "lng": 106.69518,
+    "distance": 773
+  },
+  {
+    "id": "here:pds:place:704jx7ps-f741f4131f47068b60237449d4270668",
+    "name": "Cho Thuê Phòng Tháng, 160 Đường Bùi Đình Túy, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80807,
+    "lng": 106.70398,
+    "distance": 782
+  },
+  {
+    "id": "here:pds:place:704xjxn4-114b41102f4b095189bc1fd6fe5e67ca",
+    "name": "Khách Sạn Gia Bảo, 234B Đường Bạch Đằng, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80341,
+    "lng": 106.70479,
+    "distance": 504
+  },
+  {
+    "id": "here:pds:place:704w3gvs-b7d699f28820f784e396f4396a74db7c",
+    "name": "Khách Sạn Đa Lộc, 70000 Đường Chu Văn An, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.8115,
+    "lng": 106.70091,
+    "distance": 505
+  },
+  {
+    "id": "here:pds:place:704w3gvk-c75f14ec0e3364fa205b99baaab3a47b",
+    "name": "Thu Le Hotel, 2 Đường Bùi Đình Túy, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80798,
+    "lng": 106.70827,
+    "distance": 514
+  },
+  {
+    "id": "here:pds:place:7043f91b-55e8424b812e8eb87bb64280e6e42980",
+    "name": "Tecco Central Home, Đường Nguyễn Thiện Thuật, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80499,
+    "lng": 106.69937,
+    "distance": 554
+  },
+  {
+    "id": "here:pds:place:704jx7ps-a5e78277357f02e805b7b8737cf1ac37",
+    "name": "Phương Thy, 3 Đường Phan Bội Châu, Phường 2, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80253,
+    "lng": 106.70087,
+    "distance": 654
+  },
+  {
+    "id": "here:pds:place:704d6d25-329d5b149231f140031986c86c44f476",
+    "name": "Nicole Home, 347 Đường Chu Văn An, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81149,
+    "lng": 106.6989,
+    "distance": 656
+  },
+  {
+    "id": "here:pds:place:704jx7ps-c889952128190f3b2027edbcd8680a7b",
+    "name": "Nhà Trọ Bình Dân, 131 Quốc Lộ 13, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81364,
+    "lng": 106.71263,
+    "distance": 505
+  },
+  {
+    "id": "here:pds:place:704jx7ps-e0db58ff2e4907fc7afd55d51d22d13d",
+    "name": "Khách Sạn Lâm Gia, 196 Đường Chu Văn An, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81087,
+    "lng": 106.70656,
+    "distance": 508
+  },
+  {
+    "id": "here:pds:place:704w3gvs-78bb10a53a8708b4b2b6db81c54ad4d8",
+    "name": "Khách Sạn Bình Minh, Hẻm 278 Nguyễn Xí, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81847,
+    "lng": 106.70508,
+    "distance": 509
+  },
+  {
+    "id": "here:pds:place:704w3gvs-bf27ef99fbbe43e2a4dd2d0d2e43f6af",
+    "name": "KS Toàn Ý, 569 Đường Chu Văn An, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81066,
+    "lng": 106.70944,
+    "distance": 512
+  },
+  {
+    "id": "here:pds:place:704xjxn4-34aecfb7449304f96c56f1232e0789b1",
+    "name": "Ngọc Xanh-Emerald, Hẻm 209 Quốc Lộ 13, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81638,
+    "lng": 106.7129,
+    "distance": 526
+  },
+  {
+    "id": "here:pds:place:704xjxn4-8a792845aa7801878b553504589a6bf7",
+    "name": "Khách Sạn Anh Trâm, Hẻm 60 13, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81154,
+    "lng": 106.71262,
+    "distance": 621
+  },
+  {
+    "id": "here:pds:place:704w3gvm-d18a1267f9464e3bb89166afe2baaa41",
+    "name": "Hotel Tvi3, Hẻm 19 Trần Bình Trọng, Phường 5, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81097,
+    "lng": 106.68832,
+    "distance": 510
+  },
+  {
+    "id": "here:pds:place:704w3gv6-d8d797c78a6e4dcd807a893f33297249",
+    "name": "Hotel Hoa Tràng An, Hẻm 18 Thích Quảng Đức, Phường 5, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80493,
+    "lng": 106.68464,
+    "distance": 519
+  },
+  {
+    "id": "here:pds:place:704w3gve-6cea725ba471467f98b123e0fd6a2266",
+    "name": "Thai Dat Hotel, Hẻm 750A Nguyễn Kiệm, Phường 4, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81052,
+    "lng": 106.6789,
+    "distance": 555
+  },
+  {
+    "id": "here:pds:place:704jx7ps-6f6e986c012f0b343e0483d3722da9b0",
+    "name": "Khách Sạn Xanh Sài Gòn, 740C Đường Nguyễn Kiệm, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80867,
+    "lng": 106.67851,
+    "distance": 594
+  },
+  {
+    "id": "here:pds:place:704jx7ps-516a95a02db104a10ba643ad17e424e1",
+    "name": "Khách Sạn Minh Phúc, 16 Đường Nguyễn Văn Đậu, Phường 5, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "lat": 10.80486,
+    "lng": 106.68711,
+    "distance": 629
+  },
+  {
+    "id": "here:pds:place:704w3gve-d133226f9b0e621a0b3940e4dc660007",
+    "name": "Value Hotel, 5 Đường Số 7, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "lat": 10.81444,
+    "lng": 106.6809,
+    "distance": 635
+  },
+  {
+    "id": "here:pds:place:704jx7ps-8bfeef91bc800aa386f3da7150e72c52",
+    "name": "Khách Sạn Xinh, Đường Số 1, Phường 3, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79652,
+    "lng": 106.69257,
+    "distance": 501
+  },
+  {
+    "id": "here:pds:place:704jx7ps-af3c188f1f1a04b9e7b650ad8e19b903",
+    "name": "Khách Sạn Đakao BTSC, 26 Đường Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79105,
+    "lng": 106.69989,
+    "distance": 507
+  },
+  {
+    "id": "here:pds:place:704jx7ps-83f846ed0f1000fdfc3940742a0dbd6e",
+    "name": "Du Xuân, 3 Đường Trần Khắc Chân, Phường Tân Định, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79214,
+    "lng": 106.69133,
+    "distance": 529
+  },
+  {
+    "id": "here:pds:place:704xjxn4-a61cebec3bdb0ebd55924cbc3d1a9547",
+    "name": "Hoàng Vũ, 896 Hẻm 3 Điện Biên Phủ, Phường 15, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79402,
+    "lng": 106.70085,
+    "distance": 536
+  },
+  {
+    "id": "here:pds:place:704jx7ps-0f85a43f6b2f0f58e24cf84ebb38c877",
+    "name": "Khách Sạn Nam Trân, 39 Đường Đinh Công Tráng, Phường Tân Định, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78952,
+    "lng": 106.69152,
+    "distance": 657
+  },
+  {
+    "id": "here:pds:place:704w3gv7-04dc9e879bc5ec7c09a42df7518d712b",
+    "name": "Aqua House, Đường Phó Đức Chính, Phường 1, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79942,
+    "lng": 106.69717,
+    "distance": 671
+  },
+  {
+    "id": "here:pds:place:704jx7ps-2121f4ca326d0e4e9145238c1ac8fd10",
+    "name": "Khách Sạn An Vui, Hẻm 57 Đường Điện Biên Phủ, Phường 15, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79569,
+    "lng": 106.70107,
+    "distance": 514
+  },
+  {
+    "id": "here:pds:place:704jx7ps-cbe8ee2153aa06825f14fcd8c0c1d5d5",
+    "name": "Khách Sạn Hồng Ngọc, 5 Đường Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79224,
+    "lng": 106.70122,
+    "distance": 539
+  },
+  {
+    "id": "here:pds:place:704w3gvk-91722bbe87c79f709dfdda283643fd0b",
+    "name": "Terracotta Villa Saigon, Hẻm 298 Điện Biên Phủ, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79904,
+    "lng": 106.70775,
+    "distance": 560
+  },
+  {
+    "id": "here:pds:place:704aabd1-4dd9e4673e4d0bb246f48d45db6763bd",
+    "name": "Queen Pearl Office Serviced Apartment, 1 Đường Phạm Viết Chánh, Phường 19, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79036,
+    "lng": 106.70877,
+    "distance": 572
+  },
+  {
+    "id": "here:pds:place:704w3gvk-5c855d24cd124c72a27a993c1a12a4b9",
+    "name": "Somerset Thành Phô Hô Chí Minh, 8A Đường Nguyễn Bỉnh Khiêm, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+    "lat": 10.78986,
+    "lng": 106.70314,
+    "distance": 578
+  },
+  {
+    "id": "here:pds:place:704w3gvk-e31488719d693195410ae6caf4259575",
+    "name": "Khách Sạn Trang Thùy, 150 Đường Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "lat": 10.79682,
+    "lng": 106.71055,
+    "distance": 600
+  }
+]

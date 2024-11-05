@@ -7,28 +7,155 @@ import path from 'path'
 const app = express()
 app.use(express.json())
 const PORT = 3000
-const HERE_API_KEY = 'f06PKJOz9lOzRlViSG7SUMNaKcmaN9j_bi08725lwEI'
+const HERE_API_KEY = 'W7zf9zu__JvC4iXYqjEF1IqWJNfg8XElpIqEVw1jarw'
 
 const points = [
-  { lat: 10.794117578785418, lng: 106.65099142442212, name: 'Ngã tư Bảy Hiền' },
-  { lat: 10.812904879639706, lng: 106.66383852370112, name: 'Sân Bay Tân Sơn Nhất' },
-  { lat: 10.80141995232255, lng: 106.71147383559278, name: 'Ngã Tư Hàng Xanh' },
-  { lat: 10.78107212034334, lng: 106.6885222762067, name: 'Võ Thị Sáu - Điện Biên Phủ' },
-  { lat: 10.825912494787856, lng: 106.71502015813019, name: 'Cầu Bình Lợi' },
-  { lat: 10.814428065639147, lng: 106.67900497516595, name: 'Ga Gò Vấp' },
-  { lat: 10.799131483020561, lng: 106.68027855728978, name: 'Nguyễn Kiệm - Hoàng Văn Thụ - Phan Đăng Lưu' },
-  { lat: 10.80254250891898, lng: 106.6986732348961, name: 'Lê Quang Định - Bạch Đằng' },
-  { lat: 10.791805149396877, lng: 106.67226252043307, name: 'Hẻm 115 Lê Văn Sỹ' },
-  { lat: 10.791659812242546, lng: 106.68185141438717, name: 'Nguyễn Văn Trổi - Trường Sa' },
-  { lat: 10.808017493074253, lng: 106.67312676919832, name: 'Phổ Quang' },
-  { lat: 10.803254613223876, lng: 106.69839650387382, name: 'Lê Quang Định - Phan Đăng Lưu' },
-  { lat: 10.807822088148784, lng: 106.70357336292223, name: 'Hẻm 170 Bùi Đình Túy' },
-  { lat: 10.815011831283226, lng: 106.70812576075805, name: 'Thanh Đa - Nguyễn Xí' },
-  { lat: 10.820142348884117, lng: 106.70394696859184, name: 'Nguyễn Xí - Nơ Trang Long' },
-  { lat: 10.809863505953002, lng: 106.68389711156186, name: 'Hoàng Hoa Thám' },
-  { lat: 10.793498552145124, lng: 106.69595267981002, name: 'Cầu Bông' },
-  { lat: 10.794760443638125, lng: 106.70563137161508, name: 'Trần Văn Khê' }
+  {
+    lat: 10.79383,
+    lng: 106.65183,
+    name: '2 Đường Xuân Hồng, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam',
+    ggName: 'Ngã tư Bảy Hiền'
+  },
+  {
+    lat: 10.81591,
+    lng: 106.66411,
+    name: 'Next Noodies, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam',
+    ggName: 'Sân Bay Tân Sơn Nhất'
+  },
+  {
+    lat: 10.80138,
+    lng: 106.71147,
+    name: 'Đường Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam',
+    ggName: 'Ngã Tư Hàng Xanh'
+  },
+  {
+    lat: 10.78121,
+    lng: 106.68845,
+    name: 'Đường Điện Biên Phủ, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam',
+    ggName: 'Võ Thị Sáu - Điện Biên Phủ'
+  },
+  {
+    lat: 10.82591,
+    lng: 106.71499,
+    name: '24 Giao Lộ Ngã Tư, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam',
+    ggName: 'Cầu Bình Lợi'
+  },
+  {
+    lat: 10.8144,
+    lng: 106.67898,
+    name: 'Đường Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam',
+    ggName: 'Ga Gò Vấp'
+  },
+  {
+    lat: 10.79911,
+    lng: 106.68024,
+    name: '371 Đường Phan Đình Phùng, Phường 15, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam',
+    ggName: 'Nguyễn Kiệm - Hoàng Văn Thụ - Phan Đăng Lưu'
+  },
+  {
+    lat: 10.80134,
+    lng: 106.69864,
+    name: '44B Đường Ngô Nhân Tịnh, Phường 1, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam',
+    ggName: 'Lê Quang Định - Bạch Đằng'
+  },
+  {
+    lat: 10.79181,
+    lng: 106.67224,
+    name: 'Đường Lê Văn Sỹ, Phường 11, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam',
+    ggName: 'Hẻm 115 Lê Văn Sỹ'
+  },
+  {
+    lat: 10.79162,
+    lng: 106.68182,
+    name: 'Cầu Công Lý, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam',
+    ggName: 'Nguyễn Văn Trổi - Trường Sa'
+  },
+  {
+    lat: 10.80812,
+    lng: 106.67311,
+    name: '155 Đường Phổ Quang, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam',
+    ggName: 'Phổ Quang'
+  },
+  {
+    lat: 10.80333,
+    lng: 106.69869,
+    name: '20C/1 Đường Lê Quang Định, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam',
+    ggName: 'Lê Quang Định - Phan Đăng Lưu'
+  },
+  {
+    lat: 10.80778,
+    lng: 106.70357,
+    name: '179 Đường Bùi Đình Túy, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam',
+    ggName: 'Hẻm 170 Bùi Đình Túy'
+  },
+  {
+    lat: 10.81512,
+    lng: 106.70826,
+    name: '172 Đường Nguyễn Xí, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam',
+    ggName: 'Thanh Đa - Nguyễn Xí'
+  },
+  {
+    lat: 10.82007,
+    lng: 10.82007,
+    name: '403B Đường Nguyễn Xí, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam',
+    ggName: 'Nguyễn Xí - Nơ Trang Long'
+  },
+  {
+    lat: 10.80954,
+    lng: 106.68388,
+    name: '156 Đường Hoàng Hoa Thám, Phường 5, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam',
+    ggName: 'Hoàng Hoa Thám'
+  },
+  {
+    lat: 10.7935,
+    lng: 106.69597,
+    name: 'Đường Đinh Tiên Hoàng, Phường 3, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam',
+    ggName: 'Cầu Bông'
+  },
+  {
+    lat: 10.79446,
+    lng: 106.70561,
+    name: '144/27 Hẻm 144 Phan Văn Hân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam',
+    ggName: 'Trần Văn Khê'
+  }
 ]
+
+async function getDetailedPointInfo(lat, lng) {
+  const apiKey = 'VixcUdhSK9ZNGkHVwM0dgY-f68twZUnhzYzTIASxGvQ'
+  const url = `https://revgeocode.search.hereapi.com/v1/revgeocode?at=${lat},${lng}&apiKey=${HERE_API_KEY}`
+
+  try {
+    const response = await axios.get(url)
+    return response.data.items[0] // Giả sử chỉ cần item đầu tiên
+  } catch (error) {
+    console.error(`Error fetching data for coordinates (${lat}, ${lng}):`, error)
+    return null // Trả về null nếu có lỗi
+  }
+}
+
+// API để lấy thông tin chi tiết và lưu vào file JSON
+app.get('/get-main-points', async (req, res) => {
+  const detailedPoints = []
+
+  for (const point of points) {
+    const detailedInfo = await getDetailedPointInfo(point.lat, point.lng)
+
+    if (detailedInfo) {
+      detailedPoints.push({
+        name: point.ggName,
+        lat: point.lat,
+        lng: point.lng,
+        address: detailedInfo.address.label, // Thông tin địa chỉ
+        additionalInfo: detailedInfo // Thông tin chi tiết từ HERE API
+      })
+    }
+  }
+
+  // Ghi kết quả vào file JSON
+  fs.writeFileSync('mainPoints.json', JSON.stringify(detailedPoints, null, 2))
+
+  res.json(detailedPoints) // Trả kết quả về cho client
+})
 
 app.get('/random-places', async (req, res) => {
   const { location } = req.query
@@ -212,103 +339,107 @@ app.get('/random-points', (req, res) => {
   res.json(filteredPoints)
 })
 
+const delay = ms => new Promise(resolve => setTimeout(resolve, ms))
+
 app.get('/random-points-by-tcn', async (req, res) => {
-  const results = [] // Mảng chứa kết quả cho tất cả các điểm
+  const results = []
+  const minDistance = 200
+  const maxDistance = 3000
+  const minDistanceBetweenPoints = 200
+  const targetPointsPerCategory = 10
+  const categories = ['500-5000-0000']
+  // const categories = ['400-4100-0036']
+  // const categories = ['600-6300-0064'] Specialty_Store.json
 
-  const minDistance = 100 // khoảng cách tối thiểu (m)
-  const maxDistance = 1000 // khoảng cách tối đa (m)
-  const targetPoints = 12 // số điểm cần lấy
-
-  for (const point of points) {
+  const promises = points.map(async point => {
     const originLat = point.lat
     const originLng = point.lng
+    const pointResults = []
 
-    try {
-      // Gọi HERE API để lấy các điểm theo danh mục
-      const response = await axios.get('https://browse.search.hereapi.com/v1/browse', {
-        params: {
-          at: `${originLat},${originLng}`,
-          categories: '100-1000-0000',
-          limit: 100,
-          apikey: `${HERE_API_KEY}`
-        }
-      })
-
-      const apiPoints = response.data.items
-
-      // Lọc các điểm trong khoảng cách từ 100m đến 1000m
-      const filteredPoints = []
-
-      for (const currentPoint of apiPoints) {
-        const distance = calculateDistance(
-          originLat,
-          originLng,
-          currentPoint.position.lat,
-          currentPoint.position.lng
-        )
-
-        // Kiểm tra khoảng cách trong khoảng 100m - 1000m
-        if (
-          distance >= minDistance &&
-          distance <= maxDistance &&
-          currentPoint.distance > minDistance &&
-          currentPoint.distance < maxDistance
-        ) {
-          let isFarEnough = true
-
-          // Kiểm tra khoảng cách với các điểm đã chọn
-          for (const selectedPoint of filteredPoints) {
-            const interDistance = calculateDistance(
-              currentPoint.position.lat,
-              currentPoint.position.lng,
-              selectedPoint.position.lat,
-              selectedPoint.position.lng
-            )
-
-            if (interDistance < minDistance) {
-              isFarEnough = false
-              break
-            }
+    for (const category of categories) {
+      try {
+        // Thêm độ trễ trước khi gọi API
+        await delay(1000) // 1 giây (1000 ms) giữa các yêu cầu
+        const response = await axios.get('https://browse.search.hereapi.com/v1/browse', {
+          params: {
+            at: `${originLat},${originLng}`,
+            categories: category,
+            limit: 100,
+            apikey: `${HERE_API_KEY}`
           }
-
-          // Thêm vào danh sách nếu điểm thỏa mãn
-          if (isFarEnough && filteredPoints.length < targetPoints) {
-            filteredPoints.push(currentPoint)
-          }
-
-          // Dừng lại khi đã đủ số điểm yêu cầu
-          if (filteredPoints.length === targetPoints) break
-        }
-      }
-
-      // Thêm kết quả cho từng điểm vào mảng kết quả
-      results.push({
-        point: point.name,
-        randomPoints: filteredPoints
-      })
-      var tcn = []
-      results.forEach(location => {
-        location.randomPoints.forEach(point => {
-          const data = {
-            id: point.id,
-            name: point.address.label,
-            lat: point.position.lat,
-            lng: point.position.lng
-          }
-          tcn.push(data)
         })
-      })
-    } catch (error) {
-      console.error(`Error fetching data for point ${point.name}:`, error)
-      res.status(500).json({ error: `Failed to fetch data for point ${point.name}` })
-      return
+        const apiPoints = response.data.items
+
+        const filteredPoints = []
+        for (const currentPoint of apiPoints) {
+          if (currentPoint.distance >= minDistance && currentPoint.distance <= maxDistance) {
+            filteredPoints.push({
+              ...currentPoint,
+              calculatedDistance: currentPoint.distance
+            })
+          }
+        }
+        console.log('filteredPoints', filteredPoints.length)
+
+        const selectedPoints = []
+        for (const currentPoint of filteredPoints) {
+          const isFarEnough = selectedPoints.every(selectedPoint => {
+            const interDistance = calculateDistance(
+              selectedPoint.position.lat,
+              selectedPoint.position.lng,
+              currentPoint.position.lat,
+              currentPoint.position.lng
+            )
+            return interDistance >= minDistanceBetweenPoints
+          })
+
+          if (isFarEnough && selectedPoints.length < targetPointsPerCategory) {
+            selectedPoints.push(currentPoint)
+          }
+
+          if (selectedPoints.length === targetPointsPerCategory) break
+        }
+
+        console.log('selectedPoints', selectedPoints.length)
+
+        pointResults.push({
+          point: point.name,
+          category,
+          randomPoints: selectedPoints
+        })
+      } catch (error) {
+        console.error(`Error fetching data for point ${point.name} in category ${category}:`, error)
+        return { error: `Failed to fetch data for point ${point.name} in category ${category}` }
+      }
     }
+
+    return pointResults
+  })
+
+  try {
+    const allResults = await Promise.all(promises)
+    allResults.forEach(pointResult => {
+      if (Array.isArray(pointResult)) {
+        results.push(...pointResult)
+      }
+    })
+
+    const tcn = results.flatMap(location =>
+      location.randomPoints.map(point => ({
+        id: point.id,
+        name: point.address.label,
+        lat: point.position.lat,
+        lng: point.position.lng,
+        distance: point.calculatedDistance
+      }))
+    )
+
+    fs.writeFileSync('Hotel_Motel.json', JSON.stringify(tcn, null, 2))
+    res.json(tcn)
+  } catch (error) {
+    console.error('Error processing points:', error)
+    res.status(500).json({ error: 'An error occurred while processing points' })
   }
-
-  // Ghi vào file JSON
-  fs.writeFileSync('filteredPoints.json', JSON.stringify(tcn, null, 2))
-
-  res.json(tcn)
 })
 
 function getFilterPointsData() {
@@ -322,6 +453,76 @@ function getFilterPointsData() {
     return []
   }
 }
+
+const tcn1 = require('../Bus_Station.json')
+const tcn2 = require('../Hotel_Motel.json')
+const tcn3 = require('../Specialty_Store.json')
+
+const results = require('../results.json')
+app.get('/filtered-points', (req, res) => {
+  // Gộp các mảng lại
+  const allPoints = [...tcn1, ...tcn2, ...tcn3]
+  const filteredPoints = allPoints.filter((point, index) => {
+    // So sánh với tất cả các điểm khác trong mảng
+    for (let i = 0; i < allPoints.length; i++) {
+      if (i !== index) {
+        // Tính khoảng cách giữa điểm hiện tại và điểm khác
+        const distance = calculateDistance(point.lat, point.lng, allPoints[i].lat, allPoints[i].lng)
+        console.log(`Khoảng cách giữa ${distance} m`)
+        if (distance < 100) {
+          console.log(point.lat, point.lng, allPoints[i].lat, allPoints[i].lng)
+          console.log('Radius:', i, index, distance)
+          return false // Nếu có điểm nào gần hơn 100m, loại bỏ điểm này
+        }
+      }
+    }
+    return true // Nếu không có điểm nào gần hơn 100m, giữ lại điểm này
+  })
+  console.log(allPoints.length, filteredPoints.length)
+
+  fs.writeFile('results.json', JSON.stringify(filteredPoints, null, 2), err => {
+    if (err) {
+      console.error('Error writing to file', err)
+      return res.status(500).send('Error saving results')
+    }
+    console.log('Results saved to results.json')
+  })
+
+  res.json(filteredPoints)
+})
+
+
+app.get('/final-points', (req, res) => {
+  // Gộp các mảng lại
+  const allPoints = results
+  const filteredPoints = allPoints.filter((point, index) => {
+    // So sánh với tất cả các điểm khác trong mảng
+    for (let i = 0; i < allPoints.length; i++) {
+      if (i !== index) {
+        // Tính khoảng cách giữa điểm hiện tại và điểm khác
+        const distance = calculateDistance(point.lat, point.lng, allPoints[i].lat, allPoints[i].lng)
+        console.log(`Khoảng cách giữa ${distance} m`)
+        if (distance < 100) {
+          console.log(point.lat, point.lng, allPoints[i].lat, allPoints[i].lng)
+          console.log('Radius:', i, index, distance)
+          return false // Nếu có điểm nào gần hơn 100m, loại bỏ điểm này
+        }
+      }
+    }
+    return true // Nếu không có điểm nào gần hơn 100m, giữ lại điểm này
+  })
+  console.log(allPoints.length, filteredPoints.length)
+
+  fs.writeFile('final__results.json', JSON.stringify(filteredPoints, null, 2), err => {
+    if (err) {
+      console.error('Error writing to file', err)
+      return res.status(500).send('Error saving results')
+    }
+    console.log('Results saved to results.json')
+  })
+
+  res.json(filteredPoints)
+})
 
 app.get('/reverse-geocode', async (req, res) => {
   const { lat, lng } = req.query

@@ -1,0 +1,670 @@
+[
+  {
+    "name": "Ngã tư Bảy Hiền",
+    "lat": 10.79383,
+    "lng": 106.65183,
+    "address": "2 Đường Xuân Hồng, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "2 Đường Xuân Hồng, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+      "id": "here:af:streetsection:21aHWF6T6XLcSwLrKBARyB:CggIBCDR743kAhABGgEy",
+      "resultType": "houseNumber",
+      "houseNumberType": "PA",
+      "address": {
+        "label": "2 Đường Xuân Hồng, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Tân Bình",
+        "district": "Phường 12",
+        "street": "Đường Xuân Hồng",
+        "postalCode": "72111",
+        "houseNumber": "2"
+      },
+      "position": {
+        "lat": 10.7938,
+        "lng": 106.65188
+      },
+      "access": [
+        {
+          "lat": 10.79383,
+          "lng": 106.65184
+        }
+      ],
+      "distance": 1,
+      "mapView": {
+        "west": 106.65177,
+        "south": 10.79375,
+        "east": 106.65465,
+        "north": 10.7965
+      }
+    }
+  },
+  {
+    "name": "Sân Bay Tân Sơn Nhất",
+    "lat": 10.81591,
+    "lng": 106.66411,
+    "address": "Next Noodies, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "Next Noodies",
+      "id": "here:pds:place:704w3gve-05ec7503cb894be3a10180fe35cd46b8",
+      "resultType": "place",
+      "address": {
+        "label": "Next Noodies, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Tân Bình",
+        "district": "Phường 2",
+        "postalCode": "72108"
+      },
+      "position": {
+        "lat": 10.81591,
+        "lng": 106.66411
+      },
+      "access": [
+        {
+          "lat": 10.8157,
+          "lng": 106.66419
+        }
+      ],
+      "distance": 0,
+      "categories": [
+        {
+          "id": "100-1000-0000",
+          "name": "Nhà hàng",
+          "primary": true
+        }
+      ],
+      "foodTypes": [
+        {
+          "id": "206-000",
+          "name": "Việt Nam",
+          "primary": true
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ngã Tư Hàng Xanh",
+    "lat": 10.80138,
+    "lng": 106.71147,
+    "address": "Đường Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "Đường Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+      "id": "here:af:streetsection:YCdR5-pzRhsNLOEPgoyfwD",
+      "resultType": "street",
+      "address": {
+        "label": "Đường Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 21",
+        "street": "Đường Điện Biên Phủ",
+        "postalCode": "72322"
+      },
+      "position": {
+        "lat": 10.80138,
+        "lng": 106.71147
+      },
+      "distance": 0,
+      "mapView": {
+        "west": 106.7113,
+        "south": 10.79832,
+        "east": 106.71634,
+        "north": 10.80139
+      }
+    }
+  },
+  {
+    "name": "Võ Thị Sáu - Điện Biên Phủ",
+    "lat": 10.78121,
+    "lng": 106.68845,
+    "address": "Đường Điện Biên Phủ, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "Đường Điện Biên Phủ, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+      "id": "here:af:streetsection:guxHfGSLwbjJVmJ-nWzz7B",
+      "resultType": "street",
+      "address": {
+        "label": "Đường Điện Biên Phủ, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận 3",
+        "district": "Phường Võ Thị Sáu",
+        "street": "Đường Điện Biên Phủ",
+        "postalCode": "72415"
+      },
+      "position": {
+        "lat": 10.78121,
+        "lng": 106.68845
+      },
+      "distance": 1,
+      "mapView": {
+        "west": 106.6837,
+        "south": 10.77669,
+        "east": 106.69406,
+        "north": 10.78646
+      }
+    }
+  },
+  {
+    "name": "Cầu Bình Lợi",
+    "lat": 10.82591,
+    "lng": 106.71499,
+    "address": "24 Giao Lộ Ngã Tư, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "24 Giao Lộ Ngã Tư, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+      "id": "here:af:streetsection:amOED-10rka1ynEv0txzjA:CggIBCC48-K2AxABGgIyNA",
+      "resultType": "houseNumber",
+      "houseNumberType": "PA",
+      "address": {
+        "label": "24 Giao Lộ Ngã Tư, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Thủ Đức",
+        "district": "Phường Hiệp Bình Chánh",
+        "street": "Giao Lộ Ngã Tư",
+        "postalCode": "71315",
+        "houseNumber": "24"
+      },
+      "position": {
+        "lat": 10.82591,
+        "lng": 106.71499
+      },
+      "access": [
+        {
+          "lat": 10.8259,
+          "lng": 106.71498
+        }
+      ],
+      "distance": 0,
+      "mapView": {
+        "west": 106.71484,
+        "south": 10.82588,
+        "east": 106.71501,
+        "north": 10.82629
+      }
+    }
+  },
+  {
+    "name": "Ga Gò Vấp",
+    "lat": 10.8144,
+    "lng": 106.67898,
+    "address": "Đường Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "Đường Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+      "id": "here:af:streetsection:N4MvqybGi5ITFgtYSpqqzC",
+      "resultType": "street",
+      "address": {
+        "label": "Đường Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Gò Vấp",
+        "district": "Phường 3",
+        "street": "Đường Nguyễn Kiệm",
+        "postalCode": "71409"
+      },
+      "position": {
+        "lat": 10.8144,
+        "lng": 106.67898
+      },
+      "distance": 0,
+      "mapView": {
+        "west": 106.67404,
+        "south": 10.81137,
+        "east": 106.68167,
+        "north": 10.82647
+      }
+    }
+  },
+  {
+    "name": "Nguyễn Kiệm - Hoàng Văn Thụ - Phan Đăng Lưu",
+    "lat": 10.79911,
+    "lng": 106.68024,
+    "address": "371 Đường Phan Đình Phùng, Phường 15, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "371 Đường Phan Đình Phùng, Phường 15, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+      "id": "here:af:streetsection:5vQfJohekHPgow7Ew843NC:CggIBCCtl4DkAhABGgMzNzE",
+      "resultType": "houseNumber",
+      "houseNumberType": "PA",
+      "address": {
+        "label": "371 Đường Phan Đình Phùng, Phường 15, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Phú Nhuận",
+        "district": "Phường 15",
+        "street": "Đường Phan Đình Phùng",
+        "postalCode": "72209",
+        "houseNumber": "371"
+      },
+      "position": {
+        "lat": 10.79911,
+        "lng": 106.68024
+      },
+      "access": [
+        {
+          "lat": 10.79913,
+          "lng": 106.68029
+        }
+      ],
+      "distance": 0,
+      "mapView": {
+        "west": 106.68028,
+        "south": 10.79611,
+        "east": 106.68168,
+        "north": 10.79916
+      }
+    }
+  },
+  {
+    "name": "Lê Quang Định - Bạch Đằng",
+    "lat": 10.80134,
+    "lng": 106.69864,
+    "address": "44B Đường Ngô Nhân Tịnh, Phường 1, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "44B Đường Ngô Nhân Tịnh, Phường 1, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+      "id": "here:af:streetsection:6qiZWNbww78RZ2WZsDfNvB:CggIBCDT3IjkAhABGgM0NEI",
+      "resultType": "houseNumber",
+      "houseNumberType": "PA",
+      "address": {
+        "label": "44B Đường Ngô Nhân Tịnh, Phường 1, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 1",
+        "street": "Đường Ngô Nhân Tịnh",
+        "postalCode": "72318",
+        "houseNumber": "44B"
+      },
+      "position": {
+        "lat": 10.80134,
+        "lng": 106.69864
+      },
+      "access": [
+        {
+          "lat": 10.80136,
+          "lng": 106.69864
+        }
+      ],
+      "distance": 0,
+      "mapView": {
+        "west": 106.69739,
+        "south": 10.80037,
+        "east": 106.69872,
+        "north": 10.80148
+      }
+    }
+  },
+  {
+    "name": "Hẻm 115 Lê Văn Sỹ",
+    "lat": 10.79181,
+    "lng": 106.67224,
+    "address": "Đường Lê Văn Sỹ, Phường 11, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "Đường Lê Văn Sỹ, Phường 11, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+      "id": "here:af:streetsection:cpCUyEh1i6fj89h6k6lK7D",
+      "resultType": "street",
+      "address": {
+        "label": "Đường Lê Văn Sỹ, Phường 11, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Phú Nhuận",
+        "district": "Phường 11",
+        "street": "Đường Lê Văn Sỹ",
+        "postalCode": "72206"
+      },
+      "position": {
+        "lat": 10.79181,
+        "lng": 106.67224
+      },
+      "distance": 1,
+      "mapView": {
+        "west": 106.67208,
+        "south": 10.79146,
+        "east": 106.67227,
+        "north": 10.79188
+      }
+    }
+  },
+  {
+    "name": "Nguyễn Văn Trổi - Trường Sa",
+    "lat": 10.79162,
+    "lng": 106.68182,
+    "address": "Cầu Công Lý, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "Cầu Công Lý, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+      "id": "here:af:streetsection:xdfICx2o7qqbKY5HVp5dhB",
+      "resultType": "street",
+      "address": {
+        "label": "Cầu Công Lý, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận 3",
+        "district": "Phường Võ Thị Sáu",
+        "street": "Cầu Công Lý",
+        "postalCode": "72415"
+      },
+      "position": {
+        "lat": 10.79162,
+        "lng": 106.68182
+      },
+      "distance": 0,
+      "mapView": {
+        "west": 106.6817,
+        "south": 10.79079,
+        "east": 106.6828,
+        "north": 10.79183
+      }
+    }
+  },
+  {
+    "name": "Phổ Quang",
+    "lat": 10.80812,
+    "lng": 106.67311,
+    "address": "155 Đường Phổ Quang, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "155 Đường Phổ Quang, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+      "id": "here:af:streetsection:CKDEmU5w4xMUy-9bm4mszB:CggIBCCM5IajAxABGgMxNTU",
+      "resultType": "houseNumber",
+      "houseNumberType": "PA",
+      "address": {
+        "label": "155 Đường Phổ Quang, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Phú Nhuận",
+        "district": "Phường 9",
+        "street": "Đường Phổ Quang",
+        "postalCode": "72216",
+        "houseNumber": "155"
+      },
+      "position": {
+        "lat": 10.80812,
+        "lng": 106.67311
+      },
+      "access": [
+        {
+          "lat": 10.808,
+          "lng": 106.67315
+        }
+      ],
+      "distance": 0,
+      "mapView": {
+        "west": 106.66953,
+        "south": 10.80671,
+        "east": 106.67347,
+        "north": 10.80907
+      }
+    }
+  },
+  {
+    "name": "Lê Quang Định - Phan Đăng Lưu",
+    "lat": 10.80333,
+    "lng": 106.69869,
+    "address": "20C/1 Đường Lê Quang Định, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "20C/1 Đường Lê Quang Định, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+      "id": "here:af:streetsection:QbRtSQlPMJ2G-wq4nwB-KD:CggIBCD4_MmwAxABGgUyMEMvMQ",
+      "resultType": "houseNumber",
+      "houseNumberType": "PA",
+      "address": {
+        "label": "20C/1 Đường Lê Quang Định, Phường 14, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 14",
+        "street": "Đường Lê Quang Định",
+        "postalCode": "72306",
+        "houseNumber": "20C/1"
+      },
+      "position": {
+        "lat": 10.80333,
+        "lng": 106.69869
+      },
+      "access": [
+        {
+          "lat": 10.80326,
+          "lng": 106.69839
+        }
+      ],
+      "distance": 0,
+      "mapView": {
+        "west": 106.69511,
+        "south": 10.80247,
+        "east": 106.69855,
+        "north": 10.80834
+      }
+    }
+  },
+  {
+    "name": "Hẻm 170 Bùi Đình Túy",
+    "lat": 10.80778,
+    "lng": 106.70357,
+    "address": "179 Đường Bùi Đình Túy, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "179 Đường Bùi Đình Túy, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+      "id": "here:af:streetsection:oU4kN-ED7EBKjod-d9L-SD:CggIBCCAm4rkAhABGgMxNzk",
+      "resultType": "houseNumber",
+      "houseNumberType": "PA",
+      "address": {
+        "label": "179 Đường Bùi Đình Túy, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 12",
+        "street": "Đường Bùi Đình Túy",
+        "postalCode": "72312",
+        "houseNumber": "179"
+      },
+      "position": {
+        "lat": 10.80778,
+        "lng": 106.70357
+      },
+      "access": [
+        {
+          "lat": 10.80784,
+          "lng": 106.70356
+        }
+      ],
+      "distance": 0,
+      "mapView": {
+        "west": 106.69778,
+        "south": 10.80657,
+        "east": 106.70747,
+        "north": 10.80825
+      }
+    }
+  },
+  {
+    "name": "Thanh Đa - Nguyễn Xí",
+    "lat": 10.81512,
+    "lng": 106.70826,
+    "address": "172 Đường Nguyễn Xí, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "172 Đường Nguyễn Xí, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+      "id": "here:af:streetsection:UCKWsTIgv.ZqaG19c4rOjD:CggIBCCSy4SwAxABGgMxNzI",
+      "resultType": "houseNumber",
+      "houseNumberType": "PA",
+      "address": {
+        "label": "172 Đường Nguyễn Xí, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 26",
+        "street": "Đường Nguyễn Xí",
+        "postalCode": "72310",
+        "houseNumber": "172"
+      },
+      "position": {
+        "lat": 10.81512,
+        "lng": 106.70826
+      },
+      "access": [
+        {
+          "lat": 10.81496,
+          "lng": 106.70806
+        }
+      ],
+      "distance": 0,
+      "mapView": {
+        "west": 106.70588,
+        "south": 10.81025,
+        "east": 106.71229,
+        "north": 10.82149
+      }
+    }
+  },
+  {
+    "name": "Nguyễn Xí - Nơ Trang Long",
+    "lat": 10.82007,
+    "lng": 10.82007,
+    "address": "Dukku, Gombe, Nigeria",
+    "additionalInfo": {
+      "title": "Dukku, Gombe, Nigeria",
+      "id": "here:cm:namedplace:23699858",
+      "resultType": "locality",
+      "localityType": "city",
+      "address": {
+        "label": "Dukku, Gombe, Nigeria",
+        "countryCode": "NGA",
+        "countryName": "Nigeria",
+        "state": "Gombe",
+        "county": "Dukku",
+        "city": "Dukku"
+      },
+      "position": {
+        "lat": 10.82383,
+        "lng": 10.7664
+      },
+      "distance": 0,
+      "mapView": {
+        "west": 10.47313,
+        "south": 10.37518,
+        "east": 11.13858,
+        "north": 11.18271
+      }
+    }
+  },
+  {
+    "name": "Hoàng Hoa Thám",
+    "lat": 10.80954,
+    "lng": 106.68388,
+    "address": "156 Đường Hoàng Hoa Thám, Phường 5, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "156 Đường Hoàng Hoa Thám, Phường 5, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+      "id": "here:af:streetsection:3FLJRESoD.HMYVE.RHDPlD:CggIBCDljeS1AxABGgMxNTY",
+      "resultType": "houseNumber",
+      "houseNumberType": "PA",
+      "address": {
+        "label": "156 Đường Hoàng Hoa Thám, Phường 5, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Phú Nhuận",
+        "district": "Phường 5",
+        "street": "Đường Hoàng Hoa Thám",
+        "postalCode": "72215",
+        "houseNumber": "156"
+      },
+      "position": {
+        "lat": 10.80954,
+        "lng": 106.68388
+      },
+      "access": [
+        {
+          "lat": 10.80994,
+          "lng": 106.68398
+        }
+      ],
+      "distance": 0,
+      "mapView": {
+        "west": 106.68157,
+        "south": 10.8085,
+        "east": 106.68398,
+        "north": 10.8107
+      }
+    }
+  },
+  {
+    "name": "Cầu Bông",
+    "lat": 10.7935,
+    "lng": 106.69597,
+    "address": "Đường Đinh Tiên Hoàng, Phường 3, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "Đường Đinh Tiên Hoàng, Phường 3, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+      "id": "here:af:streetsection:G42qkPhFx3t3jzMIvtJjjC",
+      "resultType": "street",
+      "address": {
+        "label": "Đường Đinh Tiên Hoàng, Phường 3, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 3",
+        "street": "Đường Đinh Tiên Hoàng",
+        "postalCode": "72317"
+      },
+      "position": {
+        "lat": 10.7935,
+        "lng": 106.69597
+      },
+      "distance": 0,
+      "mapView": {
+        "west": 106.69596,
+        "south": 10.79333,
+        "east": 106.69627,
+        "north": 10.79828
+      }
+    }
+  },
+  {
+    "name": "Trần Văn Khê",
+    "lat": 10.79446,
+    "lng": 106.70561,
+    "address": "144/27 Hẻm 144 Phan Văn Hân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+    "additionalInfo": {
+      "title": "144/27 Hẻm 144 Phan Văn Hân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+      "id": "here:af:streetsection:y-m4qV9CZg-ykCkAzj9VwA:CggIBCDgu4yuAxABGgYxNDQvMjc",
+      "resultType": "houseNumber",
+      "houseNumberType": "PA",
+      "address": {
+        "label": "144/27 Hẻm 144 Phan Văn Hân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 17",
+        "street": "Hẻm 144 Phan Văn Hân",
+        "postalCode": "72321",
+        "houseNumber": "144/27"
+      },
+      "position": {
+        "lat": 10.79446,
+        "lng": 106.70561
+      },
+      "access": [
+        {
+          "lat": 10.79446,
+          "lng": 106.70561
+        }
+      ],
+      "distance": 0,
+      "mapView": {
+        "west": 106.70549,
+        "south": 10.79399,
+        "east": 106.70614,
+        "north": 10.79473
+      }
+    }
+  }
+]
