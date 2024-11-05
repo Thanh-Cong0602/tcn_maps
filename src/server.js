@@ -2,8 +2,10 @@
 import axios from 'axios'
 import express from 'express'
 import fs from 'fs'
+import path from 'path'
 
 const app = express()
+app.use(express.json())
 const PORT = 3000
 const HERE_API_KEY = 'f06PKJOz9lOzRlViSG7SUMNaKcmaN9j_bi08725lwEI'
 
@@ -269,6 +271,91 @@ app.get('/random-points-by-tcn', (req, res) => {
   fs.writeFileSync('filteredPoints.json', JSON.stringify(results, null, 2))
 
   res.json(results)
+})
+
+function getFilterPointsData() {
+  const filePath = path.join(__dirname, '../filteredPoints.json')
+  console.log('filePath', filePath)
+  try {
+    const data = fs.readFileSync(filePath, 'utf-8')
+    return JSON.parse(data)
+  } catch (error) {
+    console.error('Lỗi khi đọc file filteredPoints.json:', error)
+    return []
+  }
+}
+
+app.get('/reverse-geocode', async (req, res) => {
+  const { lat, lng } = req.query
+
+  if (!lat || !lng) {
+    return res.status(400).json({ error: 'Vui lòng cung cấp cả latitude (lat) và longitude (lng).' })
+  }
+
+  try {
+    const reverseGeocodeUrl = `https://revgeocode.search.hereapi.com/v1/revgeocode?at=${lat},${lng}&apikey=${HERE_API_KEY}`
+    const response = await axios.get(reverseGeocodeUrl)
+
+    if (response.data.items.length > 0) {
+      const locationName = response.data.items[0].address.label
+      res.json({
+        message: 'Địa điểm tìm thấy',
+        name: locationName,
+        lat: parseFloat(lat),
+        lng: parseFloat(lng)
+      })
+    } else {
+      res.status(404).json({ error: 'Không tìm thấy địa điểm nào với tọa độ đã cho.' })
+    }
+  } catch (error) {
+    console.error('Lỗi khi gọi API reverse geocoding:', error)
+    res.status(500).json({ error: 'Không thể lấy thông tin địa điểm.' })
+  }
+})
+
+app.get('/getPoints', async (req, res) => {
+  try {
+    const pointsData = getFilterPointsData()
+
+    // Tạo mảng các promises để gọi API cho từng điểm ngẫu nhiên
+    const pointsWithCoordinates = []
+
+    for (const location of pointsData) {
+      for (const point of location.randomPoints) {
+        const reverseGeocodeUrl = `https://revgeocode.search.hereapi.com/v1/revgeocode?at=${point.lat},${point.lng}&apikey=${HERE_API_KEY}`
+        try {
+          const response = await axios.get(reverseGeocodeUrl)
+          const name =
+            response.data.items.length > 0 ? response.data.items[0].address.label : 'Không tìm thấy tên điểm'
+
+          pointsWithCoordinates.push({
+            name: name,
+            lat: point.lat,
+            lng: point.lng
+          })
+        } catch (error) {
+          console.error('Lỗi khi gọi API reverse geocoding:', error)
+          pointsWithCoordinates.push({
+            name: 'Không tìm thấy tên điểm',
+            lat: point.lat,
+            lng: point.lng
+          })
+        }
+      }
+    }
+
+    // Lưu dữ liệu vào file JSON (nếu cần)
+    fs.writeFileSync('points.json', JSON.stringify(pointsWithCoordinates, null, 2))
+
+    // Trả về kết quả
+    res.json({
+      message: 'Dữ liệu đã được lấy từ API reverse geocoding',
+      data: pointsWithCoordinates
+    })
+  } catch (error) {
+    console.error('Lỗi khi xử lý dữ liệu:', error)
+    res.status(500).json({ error: 'Không thể lấy dữ liệu từ API' })
+  }
 })
 
 app.listen(PORT, () => {
