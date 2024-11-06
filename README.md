@@ -17,3 +17,6 @@ tổng số xe trên 1 cạnh hay là trên 1 tuyến đường
 8. Hình ảnh minh họa kết quả sau khi thực thi xong
     ![image](https://github.com/user-attachments/assets/09ec84c2-3939-4e7c-a2c8-a41db555aa0e)
 
+9. Hiện tại thì nếu không có 3 điểm nào thẳng hàng thì tổng số cạnh sẽ là 1410 cạnh dựa trên 235 đỉnh và mỗi đỉnh lấy 6 đỉnh gần nhất. Kết quả trả về sau khi filter và thực hiện tất cả các bước là 1298 cạnh
+    => Loại bỏ 112 cạnh 
+
