@@ -9,7 +9,7 @@
 
 5. File mergeTrafficVolumn sẽ là tổng số cạnh sau khi mỗi đỉnh lấy 6 cạnh và loại bỏ các đỉnh thẳng hàng
 
-6. Mở postman chạy API http://localhost:3000/calcTraffic sẽ thấy thống kê về tốc độ trung bình, 
+6. Mở postman chạy API http://localhost:3000/calcTraffic sẽ thấy thống kê về tốc độ trung bình với lưu lượng ước lượng là 100 xe và tính dựa trên trung bình của tổng tốc độ trung bình, 
 tổng số xe trên 1 cạnh hay là trên 1 tuyến đường
 
 7. file calcVehicles.json sẽ là kết quả cuối cùng
