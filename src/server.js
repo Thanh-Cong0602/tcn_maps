@@ -77,6 +77,93 @@ app.get('/distances', async (req, res) => {
   res.json(trafficVolumn)
 })
 
+const trafficVolumn1 = require('./database/trafficVolumn1.json')
+const trafficVolumn2 = require('./database/trafficVolumn2.json')
+app.get('/flat', (req, res) => {
+  const flattenedData1 = trafficVolumn1.flat(Infinity)
+  const flattenedData2 = trafficVolumn2.flat(Infinity)
+  const mergeTrafficVolumn = [...flattenedData1, ...flattenedData2]
+  fs.writeFileSync('mergeTrafficVolumn.json', JSON.stringify(mergeTrafficVolumn, null, 2))
+  res.json(mergeTrafficVolumn)
+})
+
+const mergeTrafficVolumn = require('./database/mergeTrafficVolumn.json')
+
+app.get('/calcTraffic', (req, res) => {
+  const stats = mergeTrafficVolumn.reduce(
+    (acc, item) => {
+      const speed = item.averageSpeed
+
+      if (speed >= 3 && speed < 4) {
+        acc['3-4']++
+      } else if (speed >= 4 && speed < 5) {
+        acc['4-5']++
+      } else if (speed >= 5 && speed < 6) {
+        acc['5-6']++
+      } else if (speed >= 6 && speed < 7) {
+        acc['6-7']++
+      } else if (speed >= 7 && speed < 8) {
+        acc['7-8']++
+      } else if (speed >= 8 && speed < 9) {
+        acc['8-9']++
+      } else if (speed >= 9) {
+        acc['>9']++
+      }
+
+      return acc
+    },
+    {
+      '3-4': 0,
+      '4-5': 0,
+      '5-6': 0,
+      '6-7': 0,
+      '7-8': 0,
+      '8-9': 0,
+      '>9': 0
+    }
+  )
+
+  // Tính tổng tốc độ
+  const totalSpeed = mergeTrafficVolumn.reduce((sum, item) => sum + item.averageSpeed, 0)
+
+  // Tính trung bình
+  const averageSpeed = totalSpeed / mergeTrafficVolumn.length
+  const totalVehicles = 100
+
+  const calcVehicles = mergeTrafficVolumn.map(item => ({
+    totalVehicles: Math.ceil((totalVehicles * item.averageSpeed) / averageSpeed),
+    ...item
+  }))
+
+  const vehicleStats = calcVehicles.reduce(
+    (acc, item) => {
+      const vehicles = item.totalVehicles
+
+      if (vehicles < 100) {
+        acc['<100']++
+      } else if (vehicles >= 100 && vehicles < 200) {
+        acc['100-200']++
+      } else if (vehicles >= 200 && vehicles < 300) {
+        acc['200-300']++
+      } else if (vehicles >= 300) {
+        acc['>300']++
+      }
+
+      return acc
+    },
+    {
+      '<100': 0,
+      '100-200': 0,
+      '200-300': 0,
+      '>300': 0
+    }
+  )
+
+  fs.writeFileSync('calcVehicles.json', JSON.stringify(calcVehicles, null, 2))
+  // Gửi kết quả trả về
+  res.json({ averageSpeed, stats, vehicleStats, calcVehicles })
+})
+
 const points = [
   {
     lat: 10.79383,
