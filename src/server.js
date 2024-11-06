@@ -3,11 +3,79 @@ import axios from 'axios'
 import express from 'express'
 import fs from 'fs'
 import path from 'path'
+import {
+  calculateDistance,
+  calculateTrafficVolume,
+  filterCollinearPoints,
+  filterLocations,
+  getDetailedDistances
+} from './utils/calculator'
 
 const app = express()
 app.use(express.json())
 const PORT = 3000
-const HERE_API_KEY = 'W7zf9zu__JvC4iXYqjEF1IqWJNfg8XElpIqEVw1jarw'
+const HERE_API_KEY = 'VJjTO0ojnnr4KXsZoSIOSi4yZRzIBOtrfWOEMom-71s'
+
+const data = require('./database/finalPoint.json')
+
+app.get('/distances', async (req, res) => {
+  console.log('Starting distance calculation...')
+
+  let trafficVolumn = []
+  const databases = data.map((item, index) => ({ ...item, index: index + 1 }))
+
+  // Hàm sleep để trì hoãn
+  const sleep = ms => new Promise(resolve => setTimeout(resolve, ms))
+
+  for (const [index, point] of databases.slice(0, 125).entries()) {
+    const originPoint = { lat: point.lat, lng: point.lng }
+    console.log(`Processing point ${index + 1}:`, originPoint)
+
+    // Lọc dữ liệu địa điểm để lấy 6 điểm gần điểm cần tính
+    const filteredDistance = filterLocations(point, databases)
+    console.log('Filtered distance points count:', filteredDistance.length)
+
+    // Lấy khoảng cách từ điểm cần tính đến 6 điểm gần nhất
+    const detailedDistances = await getDetailedDistances(point, filteredDistance, HERE_API_KEY)
+
+    // Lọc dữ liệu theo diện tích tam giác và góc tọa độ giữa 3 điểm
+    const filterPointsCollinear = filterCollinearPoints(point, detailedDistances)
+    console.log(
+      'Filtered distance length:',
+      filteredDistance.length,
+      'Collinear points length:',
+      filterPointsCollinear.length
+    )
+
+    if (filterPointsCollinear.length < 2) {
+      // Nếu không có đủ điểm thẳng hàng, thêm điểm gần nhất từ filteredDistance
+      const remainingPoints = filteredDistance.filter(
+        point =>
+          !filterPointsCollinear.some(
+            collinearPoint => collinearPoint.lat === point.lat && collinearPoint.lng === point.lng
+          )
+      )
+
+      // Thêm tối đa 2 điểm từ remainingPoints để đảm bảo có đủ 2 điểm
+      const pointsToAdd = remainingPoints.slice(0, 2 - filterPointsCollinear.length)
+      filterPointsCollinear.push(...pointsToAdd)
+
+      console.log('Points after ensuring at least 2 points:', filterPointsCollinear)
+    }
+
+    const trafficMap = calculateTrafficVolume(filterPointsCollinear)
+    trafficVolumn.push(trafficMap)
+
+    // Chờ 1 giây trước khi tiếp tục vòng lặp
+    await sleep(5000) // Khoảng nghỉ 1000ms (1 giây) giữa các lần chạy
+  }
+
+  // Lưu kết quả vào file trafficVolumn.json
+  fs.writeFileSync('trafficVolumn.json', JSON.stringify(trafficVolumn, null, 2))
+
+  // Trả về kết quả cho client
+  res.json(trafficVolumn)
+})
 
 const points = [
   {
@@ -120,43 +188,6 @@ const points = [
   }
 ]
 
-async function getDetailedPointInfo(lat, lng) {
-  const apiKey = 'VixcUdhSK9ZNGkHVwM0dgY-f68twZUnhzYzTIASxGvQ'
-  const url = `https://revgeocode.search.hereapi.com/v1/revgeocode?at=${lat},${lng}&apiKey=${HERE_API_KEY}`
-
-  try {
-    const response = await axios.get(url)
-    return response.data.items[0] // Giả sử chỉ cần item đầu tiên
-  } catch (error) {
-    console.error(`Error fetching data for coordinates (${lat}, ${lng}):`, error)
-    return null // Trả về null nếu có lỗi
-  }
-}
-
-// API để lấy thông tin chi tiết và lưu vào file JSON
-app.get('/get-main-points', async (req, res) => {
-  const detailedPoints = []
-
-  for (const point of points) {
-    const detailedInfo = await getDetailedPointInfo(point.lat, point.lng)
-
-    if (detailedInfo) {
-      detailedPoints.push({
-        name: point.ggName,
-        lat: point.lat,
-        lng: point.lng,
-        address: detailedInfo.address.label, // Thông tin địa chỉ
-        additionalInfo: detailedInfo // Thông tin chi tiết từ HERE API
-      })
-    }
-  }
-
-  // Ghi kết quả vào file JSON
-  fs.writeFileSync('mainPoints.json', JSON.stringify(detailedPoints, null, 2))
-
-  res.json(detailedPoints) // Trả kết quả về cho client
-})
-
 app.get('/random-places', async (req, res) => {
   const { location } = req.query
 
@@ -255,23 +286,6 @@ app.get('/route', async (req, res) => {
     res.status(500).json({ error: 'Không thể lấy thông tin chỉ đường' })
   }
 })
-
-// Hàm để tính khoảng cách giữa hai điểm (đơn vị: mét)
-function calculateDistance(lat1, lng1, lat2, lng2) {
-  const toRadians = deg => (deg * Math.PI) / 180
-
-  const R = 6371e3 // Bán kính Trái Đất (m)
-  const φ1 = toRadians(lat1)
-  const φ2 = toRadians(lat2)
-  const Δφ = toRadians(lat2 - lat1)
-  const Δλ = toRadians(lng2 - lng1)
-
-  const a =
-    Math.sin(Δφ / 2) * Math.sin(Δφ / 2) + Math.cos(φ1) * Math.cos(φ2) * Math.sin(Δλ / 2) * Math.sin(Δλ / 2)
-  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a))
-
-  return R * c // Khoảng cách (m)
-}
 
 // Hàm để tạo các điểm ngẫu nhiên
 function generateRandomPoints(lat, lng, count, radius) {
@@ -457,7 +471,6 @@ function getFilterPointsData() {
 const tcn1 = require('../Bus_Station.json')
 const tcn2 = require('../Hotel_Motel.json')
 const tcn3 = require('../Specialty_Store.json')
-
 
 app.get('/filtered-points', (req, res) => {
   // Gộp các mảng lại
