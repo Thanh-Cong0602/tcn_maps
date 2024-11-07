@@ -6,17 +6,16 @@ import path from 'path'
 import {
   calculateDistance,
   calculateTrafficVolume,
-  filterCollinearPoints,
   filterLocations,
   getDetailedDistances
 } from './utils/calculator'
 
 const app = express()
 app.use(express.json())
-const PORT = 3000
-const HERE_API_KEY = 'VJjTO0ojnnr4KXsZoSIOSi4yZRzIBOtrfWOEMom-71s'
+const PORT = 5000
+const HERE_API_KEY = 'FzknS3Tw3Xnjmy-e-nxy_6NEMBMGSVwWfm_DnEonNXM'
 
-const data = require('./database/finalPoint.json')
+const data = require('./database/unique_points.json')
 
 app.get('/distances', async (req, res) => {
   console.log('Starting distance calculation...')
@@ -27,44 +26,27 @@ app.get('/distances', async (req, res) => {
   // Hàm sleep để trì hoãn
   const sleep = ms => new Promise(resolve => setTimeout(resolve, ms))
 
-  for (const [index, point] of databases.slice(0, 125).entries()) {
+  for (const [index, point] of databases.slice(210, 220).entries()) {
     const originPoint = { lat: point.lat, lng: point.lng }
-    console.log(`Processing point ${index + 1}:`, originPoint)
+    console.log(`Processing point ${index + 1 + 150}:`, originPoint)
 
-    // Lọc dữ liệu địa điểm để lấy 6 điểm gần điểm cần tính
+    // Lọc dữ liệu địa điểm để lấy 15 random điểm cần tính
     const filteredDistance = filterLocations(point, databases)
     console.log('Filtered distance points count:', filteredDistance.length)
 
-    // Lấy khoảng cách từ điểm cần tính đến 6 điểm gần nhất
+    // Lấy khoảng cách từ điểm cần tính đến 15 điểm gần nhất
     const detailedDistances = await getDetailedDistances(point, filteredDistance, HERE_API_KEY)
 
-    // Lọc dữ liệu theo diện tích tam giác và góc tọa độ giữa 3 điểm
-    const filterPointsCollinear = filterCollinearPoints(point, detailedDistances)
-    console.log(
-      'Filtered distance length:',
-      filteredDistance.length,
-      'Collinear points length:',
-      filterPointsCollinear.length
-    )
+    console.log('detailedDistances', detailedDistances.length)
 
-    if (filterPointsCollinear.length < 2) {
-      // Nếu không có đủ điểm thẳng hàng, thêm điểm gần nhất từ filteredDistance
-      const remainingPoints = filteredDistance.filter(
-        point =>
-          !filterPointsCollinear.some(
-            collinearPoint => collinearPoint.lat === point.lat && collinearPoint.lng === point.lng
-          )
-      )
-
-      // Thêm tối đa 2 điểm từ remainingPoints để đảm bảo có đủ 2 điểm
-      const pointsToAdd = remainingPoints.slice(0, 2 - filterPointsCollinear.length)
-      filterPointsCollinear.push(...pointsToAdd)
-
-      console.log('Points after ensuring at least 2 points:', filterPointsCollinear)
+    const trafficMap = calculateTrafficVolume(detailedDistances)
+    const item = {
+      id: point.id,
+      fromName: point.title,
+      fromIndex: point.index,
+      distances: trafficMap
     }
-
-    const trafficMap = calculateTrafficVolume(filterPointsCollinear)
-    trafficVolumn.push(trafficMap)
+    trafficVolumn.push(item)
 
     // Chờ 1 giây trước khi tiếp tục vòng lặp
     await sleep(5000) // Khoảng nghỉ 1000ms (1 giây) giữa các lần chạy
@@ -75,6 +57,93 @@ app.get('/distances', async (req, res) => {
 
   // Trả về kết quả cho client
   res.json(trafficVolumn)
+})
+
+const trafficVolumn1 = require('./database/trafficVolumn1.json')
+const trafficVolumn2 = require('./database/trafficVolumn2.json')
+app.get('/flat', (req, res) => {
+  const flattenedData1 = trafficVolumn1.flat(Infinity)
+  const flattenedData2 = trafficVolumn2.flat(Infinity)
+  const mergeTrafficVolumn = [...flattenedData1, ...flattenedData2]
+  fs.writeFileSync('mergeTrafficVolumn.json', JSON.stringify(mergeTrafficVolumn, null, 2))
+  res.json(mergeTrafficVolumn)
+})
+
+const mergeTrafficVolumn = require('./database/mergeTrafficVolumn.json')
+
+app.get('/calcTraffic', (req, res) => {
+  const stats = mergeTrafficVolumn.reduce(
+    (acc, item) => {
+      const speed = item.averageSpeed
+
+      if (speed >= 3 && speed < 4) {
+        acc['3-4']++
+      } else if (speed >= 4 && speed < 5) {
+        acc['4-5']++
+      } else if (speed >= 5 && speed < 6) {
+        acc['5-6']++
+      } else if (speed >= 6 && speed < 7) {
+        acc['6-7']++
+      } else if (speed >= 7 && speed < 8) {
+        acc['7-8']++
+      } else if (speed >= 8 && speed < 9) {
+        acc['8-9']++
+      } else if (speed >= 9) {
+        acc['>9']++
+      }
+
+      return acc
+    },
+    {
+      '3-4': 0,
+      '4-5': 0,
+      '5-6': 0,
+      '6-7': 0,
+      '7-8': 0,
+      '8-9': 0,
+      '>9': 0
+    }
+  )
+
+  // Tính tổng tốc độ
+  const totalSpeed = mergeTrafficVolumn.reduce((sum, item) => sum + item.averageSpeed, 0)
+
+  // Tính trung bình
+  const averageSpeed = totalSpeed / mergeTrafficVolumn.length
+  const totalVehicles = 100
+
+  const calcVehicles = mergeTrafficVolumn.map(item => ({
+    totalVehicles: Math.ceil((totalVehicles * item.averageSpeed) / averageSpeed),
+    ...item
+  }))
+
+  const vehicleStats = calcVehicles.reduce(
+    (acc, item) => {
+      const vehicles = item.totalVehicles
+
+      if (vehicles < 100) {
+        acc['<100']++
+      } else if (vehicles >= 100 && vehicles < 200) {
+        acc['100-200']++
+      } else if (vehicles >= 200 && vehicles < 300) {
+        acc['200-300']++
+      } else if (vehicles >= 300) {
+        acc['>300']++
+      }
+
+      return acc
+    },
+    {
+      '<100': 0,
+      '100-200': 0,
+      '200-300': 0,
+      '>300': 0
+    }
+  )
+
+  fs.writeFileSync('calcVehicles.json', JSON.stringify(calcVehicles, null, 2))
+  // Gửi kết quả trả về
+  res.json({ averageSpeed, stats, vehicleStats, calcVehicles })
 })
 
 const points = [

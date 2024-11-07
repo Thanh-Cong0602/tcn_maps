@@ -99,15 +99,16 @@ export function filterLocations(origin, locations) {
   const { lat, lng } = origin
 
   // Duyệt qua các địa điểm và tính khoảng cách từ điểm gốc
-  const filteredLocations = locations
+  const shuffledLocations = locations
+    .sort(() => 0.5 - Math.random()) // Xáo trộn mảng ngẫu nhiên
     .map(location => {
       const distance = calculateDistance(lat, lng, location.lat, location.lng)
       return { ...location, distance }
     })
-    .filter(location => location.distance > 100 && location.distance < 1000) // Lọc các điểm trong khoảng 100m - 1000m
-    .slice(0, 6)
+    .filter(location => location.distance > 100 && location.distance < 1000)
+    .slice(0, 15)
 
-  return filteredLocations
+  return shuffledLocations
 }
 
 export async function getDetailedDistance(point, destination, toTitle, id, apiKey) {
@@ -118,17 +119,13 @@ export async function getDetailedDistance(point, destination, toTitle, id, apiKe
     const routeInfo = response.data.routes?.[0]?.sections?.[0]
     if (routeInfo) {
       return {
-        fromIndex: point.index,
         toIndex: destination.index,
-        fromName: point.title,
-        toTitle: toTitle,
+        toName: toTitle,
+        id,
         duration: routeInfo.summary.duration,
         length: routeInfo.summary.length,
         distance: routeInfo.summary.distance,
-        baseDuration: routeInfo.summary.baseDuration,
-        departure: routeInfo.departure,
-        arrival: routeInfo.arrival,
-        id
+        baseDuration: routeInfo.summary.baseDuration
       }
     } else {
       console.error(`No route information found for destination: ${toTitle}`)
@@ -141,13 +138,30 @@ export async function getDetailedDistance(point, destination, toTitle, id, apiKe
 }
 
 export async function getDetailedDistances(point, filteredDistance, apiKey) {
-  const promises = filteredDistance.map(location =>
-    getDetailedDistance(point, location, location.title, location.id, apiKey)
-  )
+  const results = []
+  const batchSize = 5 // Số lượng yêu cầu trong mỗi đợt
+  const delay = 5000 // Thời gian chờ giữa các đợt, tính bằng mili giây
 
-  // Chờ tất cả các lời gọi API hoàn thành
-  const results = await Promise.all(promises)
+  for (let i = 0; i < filteredDistance.length; i += batchSize) {
+    // Chọn một nhóm 5 điểm từ danh sách
+    const batch = filteredDistance.slice(i, i + batchSize)
 
-  // Lọc bỏ các giá trị null nếu có lỗi trong bất kỳ lời gọi nào
-  return results.filter(result => result !== null)
+    // Tạo các promises cho nhóm 5 điểm
+    const promises = batch.map(location =>
+      getDetailedDistance(point, location, location.title, location.id, apiKey)
+    )
+
+    // Chờ tất cả các yêu cầu trong nhóm này hoàn thành
+    const batchResults = await Promise.all(promises)
+
+    // Thêm kết quả của nhóm này vào kết quả tổng
+    results.push(...batchResults.filter(result => result !== null))
+
+    // Nếu còn điểm cần xử lý, chờ 5 giây trước khi tiếp tục
+    if (i + batchSize < filteredDistance.length) {
+      await new Promise(resolve => setTimeout(resolve, delay))
+    }
+  }
+
+  return results
 }
